@@ -557,7 +557,7 @@ def render(history=None):
       </ul>
     </div>
   </div>
-  <div class="footer-sign"><p>异乡好居悉尼 · 仅供内部参考</p></div>
+  <div class="footer-sign"><p>异乡好居 · 徐照国 · 仅供内部参考</p></div>
 </div>
 <script>
 function switchCity(ci){{
