@@ -52,10 +52,9 @@ jobs:
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
         run: |
-          # 只部署 index.html（页面是单文件）
+          # 只部署 index.html（页面是单文件），用 npx 直接运行上传器
           mkdir -p /tmp/deploy
           cp "$GITHUB_WORKSPACE/index.html" /tmp/deploy/
           cd /tmp/deploy
-          npm install -g @adamburgess/cloudflare-pages-direct-uploader
           CF_API_TOKEN="$CF_API_TOKEN" CF_ACCOUNT_ID="$CF_ACCOUNT_ID" \
-            cloudflare-pages-direct-upload --branch=main iglu-price /tmp/deploy
+            npx -y @adamburgess/cloudflare-pages-direct-uploader --branch=main iglu-price /tmp/deploy
