@@ -1,0 +1,47 @@
+name: Iglu 房态自动抓取
+
+on:
+  schedule:
+    # 动态数据：每天 10:00 / 13:00 / 17:00（悉尼时间 = UTC+10）
+    # 悉尼 10:00 = UTC 00:00, 13:00 = UTC 03:00, 17:00 = UTC 07:00
+    # 每月 1 日、15 日自动附带静态抓取（面积/床型，每两周一次）
+    - cron: '0 0 * * *'
+    - cron: '0 3 * * *'
+    - cron: '0 7 * * *'
+  workflow_dispatch: {}   # 支持手动触发
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 判断抓取模式
+        id: mode
+        run: |
+          # 每月1日/15日 = 全量抓取（含静态），其他 = 动态抓取
+          DAY=$(date -u +%d)
+          if [ "$DAY" = "01" ] || [ "$DAY" = "15" ]; then
+            echo "mode=all" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=status" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: 运行抓取流水线
+        run: python3 iglu_pipeline.py --mode ${{ steps.mode.outputs.mode }}
+
+      - name: 提交更新（价格变化/页面更新）
+        run: |
+          git config user.name "iglu-bot"
+          git config user.email "iglu-bot@users.noreply.github.com"
+          git add -A
+          git commit -m "auto: 房态数据更新 $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "无变化，跳过提交"
+          git push
