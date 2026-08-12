@@ -53,39 +53,6 @@ jobs:
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
         run: |
           cd "$GITHUB_WORKSPACE"
-          python3 - <<'PYEOF'
-          import json, os, urllib.request, urllib.error, uuid
-          token = os.environ["CF_API_TOKEN"]
-          account = os.environ["CF_ACCOUNT_ID"]
-          boundary = uuid.uuid4().hex
-          with open("index.html", "rb") as f:
-              file_data = f.read()
-          body = b""
-          manifest = {"index.html": {"content_type": "text/html"}}
-          body += f"--{boundary}\r\n".encode()
-          body += b'Content-Disposition: form-data; name="manifest"\r\n'
-          body += b"Content-Type: application/json\r\n\r\n"
-          body += json.dumps(manifest).encode() + b"\r\n"
-          body += f"--{boundary}\r\n".encode()
-          body += b'Content-Disposition: form-data; name="index.html"; filename="index.html"\r\n'
-          body += b"Content-Type: text/html\r\n\r\n"
-          body += file_data + b"\r\n"
-          body += f"--{boundary}--\r\n".encode()
-          req = urllib.request.Request(
-              f"https://api.cloudflare.com/client/v4/accounts/{account}/pages/projects/iglu-price/deployments",
-              data=body, method="POST",
-              headers={"Authorization": f"Bearer {token}",
-                       "Content-Type": f"multipart/form-data; boundary={boundary}"},
-          )
-          try:
-              with urllib.request.urlopen(req) as resp:
-                  d = json.loads(resp.read())
-                  if d.get("success"):
-                      print("✅ 已部署到 Cloudflare Pages:", d["result"]["url"])
-                  else:
-                      print("❌ 部署失败:", d.get("errors"))
-                      raise SystemExit(1)
-          except urllib.error.HTTPError as e:
-              print("❌ 部署失败:", e.code, e.read().decode()[:200])
-              raise SystemExit(1)
-          PYEOF
+          npm install -g @adamburgess/cloudflare-pages-direct-uploader
+          CF_API_TOKEN="$CF_API_TOKEN" CF_ACCOUNT_ID="$CF_ACCOUNT_ID" \
+            cloudflare-pages-direct-upload --branch=main iglu-price "$GITHUB_WORKSPACE"
