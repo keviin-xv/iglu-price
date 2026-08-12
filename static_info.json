@@ -1,0 +1,287 @@
+{
+  "Broadway|Single Bedroom – 6 Share Apt": {
+    "area": "17m²",
+    "bed": "King single"
+  },
+  "Broadway|Single Bedroom – 5 Share Apt": {
+    "area": "17m²",
+    "bed": "King single"
+  },
+  "Broadway|Single Bedroom – 4 Share Apt": {
+    "area": "17m²",
+    "bed": "King single"
+  },
+  "Broadway|Standard Studio Apartment": {
+    "area": "19m²",
+    "bed": "King single"
+  },
+  "Broadway|Superior Studio Apartment": {
+    "area": "23m²",
+    "bed": "Double"
+  },
+  "Broadway|Premium Studio Apartment": {
+    "area": "30m²",
+    "bed": "Double"
+  },
+  "Central|Single Bedroom – Share Bathroom": {
+    "area": "11m²",
+    "bed": "King single"
+  },
+  "Central|Single Bedroom – 6 Share Apt": {
+    "area": "13.4m²",
+    "bed": "King single"
+  },
+  "Central|Single Bedroom – 5 Share Apt": {
+    "area": "13.4m²",
+    "bed": "King single"
+  },
+  "Central|Standard Studio Apartment": {
+    "area": "16.5m²",
+    "bed": "double"
+  },
+  "Central Park|Standard Studio Apartment": {
+    "area": "19m²",
+    "bed": null
+  },
+  "Central Park|Superior Studio Apartment": {
+    "area": "21m²",
+    "bed": null
+  },
+  "Central Park|Premium Studio Apartment": {
+    "area": "31m²",
+    "bed": null
+  },
+  "Central Park|Single Bedroom – 6 Share Apt": {
+    "area": "13m²",
+    "bed": "King single"
+  },
+  "Central Park|Single Bedroom – 4 Share Apt": {
+    "area": "13m²",
+    "bed": "King single"
+  },
+  "Central Park|Single Bedroom – 3 Share Apt": {
+    "area": "13m²",
+    "bed": "King single"
+  },
+  "Chatswood|Single Bedroom – 6 Share Apt": {
+    "area": "13.4m²",
+    "bed": "King single"
+  },
+  "Chatswood|Single Bedroom – 5 Share Apt": {
+    "area": "13.4m²",
+    "bed": "King single"
+  },
+  "Chatswood|Single Bedroom – 4 Share Apt": {
+    "area": "13.4m²",
+    "bed": "King single"
+  },
+  "Chatswood|Standard Studio Apartment": {
+    "area": "17.3m²",
+    "bed": "Double"
+  },
+  "Chatswood|Superior Studio Apartment": {
+    "area": "20m²",
+    "bed": "Double"
+  },
+  "Chatswood|Premium Studio Apartment": {
+    "area": "20m²",
+    "bed": "Double"
+  },
+  "Mascot|Single Bedroom – 6 Share Apt": {
+    "area": "14m²",
+    "bed": "Double"
+  },
+  "Mascot|Premium Single Room – 6 Share": {
+    "area": "14m²",
+    "bed": "Double"
+  },
+  "Mascot|Standard Studio Apartment": {
+    "area": "17m²",
+    "bed": "Double"
+  },
+  "Mascot|Premium Studio Apartment": {
+    "area": "17m²",
+    "bed": "Double"
+  },
+  "Redfern|Single Bedroom – 6 Share Apt": {
+    "area": "13.5m²",
+    "bed": "King single"
+  },
+  "Redfern|Single Bedroom – 5 Share Apt": {
+    "area": "13.5m²",
+    "bed": "King single"
+  },
+  "Redfern|Single Bedroom – 4 Share Apt": {
+    "area": null,
+    "bed": "King single"
+  },
+  "Redfern|Single Studio Apartment": {
+    "area": "17.5m²",
+    "bed": "King single"
+  },
+  "Redfern|Standard Studio Apartment": {
+    "area": "19.5m²",
+    "bed": "Double"
+  },
+  "Redfern|Premium Studio Apartment": {
+    "area": "20m²",
+    "bed": "Double"
+  },
+  "Summer Hill|Standard Studio Apartment": {
+    "area": "18m²",
+    "bed": "Double"
+  },
+  "Summer Hill|Premium Studio Apartment": {
+    "area": "18m²",
+    "bed": "Double"
+  },
+  "Waterloo|Single Bedroom – 2 Share Apt": {
+    "area": "29m²",
+    "bed": "Single"
+  },
+  "Waterloo|Standard Studio Apartment": {
+    "area": "17.3m²",
+    "bed": "Double"
+  },
+  "Waterloo|Superior Studio Apartment": {
+    "area": "17.3m²",
+    "bed": "Double"
+  },
+  "Waterloo|Premium Studio Apartment": {
+    "area": "17.3m²",
+    "bed": "Double"
+  },
+  "Brisbane City|Single Bedroom – Share Bathroom": {
+    "area": "10.5m²",
+    "bed": "King single"
+  },
+  "Brisbane City|Single Bedroom – 6 Share Apt": {
+    "area": "12.8m²",
+    "bed": "King single"
+  },
+  "Brisbane City|Single Bedroom – 5 Share Apt": {
+    "area": "12.8m²",
+    "bed": "King single"
+  },
+  "Brisbane City|Standard Studio Apartment": {
+    "area": "18.3m²",
+    "bed": "Double"
+  },
+  "Brisbane City|Premium Studio Apartment": {
+    "area": "18.3m²",
+    "bed": "Double"
+  },
+  "Kelvin Grove|Single Bedroom – 6 Share Apt": {
+    "area": "10.5m²",
+    "bed": "King single"
+  },
+  "Kelvin Grove|Single Bedroom – 5 Share Apt": {
+    "area": "10.5m²",
+    "bed": "King single"
+  },
+  "Kelvin Grove|Single Bedroom – 3 Share Apt": {
+    "area": "10.5m²",
+    "bed": "King single"
+  },
+  "Kelvin Grove|Single Bedroom – 2 Share Apt": {
+    "area": "10.5m²",
+    "bed": "King single"
+  },
+  "Kelvin Grove|1 Bedroom Apartment": {
+    "area": "10.5m²",
+    "bed": "Double"
+  },
+  "Flagstaff Gardens|Single Studio Apartment": {
+    "area": "20m²",
+    "bed": "King single"
+  },
+  "Flagstaff Gardens|Standard Studio Apartment": {
+    "area": "20m²",
+    "bed": "Double"
+  },
+  "Flagstaff Gardens|Premium Studio Apartment": {
+    "area": "21m²",
+    "bed": "Double"
+  },
+  "Flagstaff Gardens|Premium Corner Studio Apartment": {
+    "area": "21m²",
+    "bed": "Double"
+  },
+  "Flagstaff Gardens|Single Bedroom – 2 Share Apt": {
+    "area": "28.5m²",
+    "bed": "King single"
+  },
+  "Flagstaff Gardens|Premium Single Bedroom – 2 Share": {
+    "area": "56.3m²",
+    "bed": "Double"
+  },
+  "Flagstaff Station|Standard Studio Apartment": {
+    "area": "18m²",
+    "bed": null
+  },
+  "Flagstaff Station|Premium Studio Apartment": {
+    "area": "18m²",
+    "bed": null
+  },
+  "Flagstaff Station|Premium Corner Studio Apartment": {
+    "area": "23.8m²",
+    "bed": null
+  },
+  "Flagstaff Station|Single Bedroom – 2 Share Apt": {
+    "area": "30.3m²",
+    "bed": "King single"
+  },
+  "Melbourne Central|Standard Studio Apartment": {
+    "area": "18m²",
+    "bed": "Double"
+  },
+  "Melbourne Central|Premium Studio Apartment": {
+    "area": "18m²",
+    "bed": "Double"
+  },
+  "Melbourne City|Single Bedroom – 6 Share Apt": {
+    "area": "13.5m²",
+    "bed": "King single"
+  },
+  "Melbourne City|Single Bedroom – 5 Share Apt": {
+    "area": "13.5m²",
+    "bed": "King single"
+  },
+  "Melbourne City|Standard Studio Apartment": {
+    "area": "21m²",
+    "bed": "Double"
+  },
+  "Melbourne City|Premium Studio Apartment": {
+    "area": "21m²",
+    "bed": "Double"
+  },
+  "South Yarra|Premium Single Bedroom – 6 Share": {
+    "area": "14.5m²",
+    "bed": "King single"
+  },
+  "South Yarra|Single Bedroom – 6 Share Apt": {
+    "area": "14.5m²",
+    "bed": "King single"
+  },
+  "South Yarra|Premium Single Bedroom – 5 Share": {
+    "area": "14.5m²",
+    "bed": "King single"
+  },
+  "South Yarra|Single Bedroom – 5 Share Apt": {
+    "area": "14.5m²",
+    "bed": "King single"
+  },
+  "South Yarra|Single Studio Apartment": {
+    "area": "17m²",
+    "bed": "King single"
+  },
+  "South Yarra|Standard Studio Apartment": {
+    "area": "19m²",
+    "bed": "Double"
+  },
+  "South Yarra|Premium Studio Apartment": {
+    "area": "25.5m²",
+    "bed": "Double"
+  },
+  "updated_at": "2026-08-12 18:06:23"
+}
