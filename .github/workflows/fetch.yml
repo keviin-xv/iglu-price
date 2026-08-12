@@ -52,7 +52,10 @@ jobs:
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
         run: |
-          cd "$GITHUB_WORKSPACE"
+          # 只部署 index.html（页面是单文件）
+          mkdir -p /tmp/deploy
+          cp "$GITHUB_WORKSPACE/index.html" /tmp/deploy/
+          cd /tmp/deploy
           npm install -g @adamburgess/cloudflare-pages-direct-uploader
           CF_API_TOKEN="$CF_API_TOKEN" CF_ACCOUNT_ID="$CF_ACCOUNT_ID" \
-            cloudflare-pages-direct-upload --branch=main iglu-price "$GITHUB_WORKSPACE"
+            cloudflare-pages-direct-upload --branch=main iglu-price /tmp/deploy
