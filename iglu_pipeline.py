@@ -484,8 +484,6 @@ def render(history=None):
                 r["_prop"] = prop["name"]
 
     fetched = prices.get("fetched_at", "")
-    static_at = load_json("static_info.json", {}).get("updated_at", "")
-    static_note = f" &ensp;|&ensp; 面积/床型更新于 {static_at}" if static_at else ""
 
     city_nav = city_groups = ""
     for ci, city in enumerate(prices.get("cities", [])):
@@ -531,7 +529,8 @@ def render(history=None):
 <body>
 <div class="header fade-in">
   <div class="header-top"><h1>Iglu 房态价格</h1></div>
-  <p class="meta">📍 悉尼 · 布里斯班 · 墨尔本 &ensp;|&ensp; 房态更新于 {fetched}{static_note} &ensp;|&ensp; 数据来源 iglu.com.au</p>
+  <p class="meta">📍 悉尼 · 布里斯班 · 墨尔本 &ensp;|&ensp; 房态更新于 {fetched}（每天 10:00 / 13:00 / 17:00）&ensp;|&ensp; 优惠信息请查看「供应商信息同步群」</p>
+  <p class="meta" style="margin-top:4px;">⚠️ 此页面仅供一键查房参考，实际信息以官网显示为准</p>
 </div>
 <nav class="city-nav fade-in">{city_nav}</nav>
 {city_groups}
