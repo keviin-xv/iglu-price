@@ -1,0 +1,23 @@
+ Bash(cat /Users/kevin/房态检索/iglu-price/.github/workflows/fetch.yml | pbcopy
+  echo "✅ fetch.yml 内容已复制到剪贴板（粘贴到 GitHub 新建文件即可）"
+  echo ""
+  echo "=== 内容预览（前15行）==="
+  head -15 /Users/kevin/房态检索/iglu-price/.github/workflows/fetch.yml)
+✅ fetch.yml 内容已复制到剪贴板（粘贴到 GitHub 新建文件即可）
+
+=== 内容预览（前15行）===
+name: Iglu 房态自动抓取
+
+on:
+  schedule:
+    # 动态数据：每天 10:00 / 13:00 / 17:00（悉尼时间 = UTC+10）
+    # 悉尼 10:00 = UTC 00:00, 13:00 = UTC 03:00, 17:00 = UTC 07:00
+    # 每月 1 日、15 日自动附带静态抓取（面积/床型，每两周一次）
+    - cron: '0 0 * * *'
+    - cron: '0 3 * * *'
+    - cron: '0 7 * * *'
+  workflow_dispatch: {}   # 支持手动触发
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
