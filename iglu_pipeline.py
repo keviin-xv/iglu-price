@@ -382,8 +382,15 @@ body { max-width: 1180px; margin: 0 auto; padding: 32px 20px 60px; line-height: 
 .coming-soon { text-align: center; padding: 48px 24px; background: var(--card-bg); border: 1px dashed var(--border); border-radius: var(--radius); margin-top: 8px; }
 .cs-title { font-size: 1.2rem; font-weight: 700; margin: 0 0 8px; }
 .cs-text { font-size: 0.88rem; color: var(--text-muted); }
-.footer { margin-top: 40px; padding-top: 20px; border-top: 1px solid var(--border); text-align: center; }
-.footer p { color: var(--text-muted); font-size: 0.75rem; }
+.footer { margin-top: 40px; padding-top: 24px; border-top: 1px solid var(--border); }
+.footer-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px,1fr)); gap: 14px; margin-bottom: 24px; }
+.footer-card { background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px 18px; }
+.footer-card h3 { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--text-muted); margin-bottom: 8px; font-weight: 600; }
+.footer-card p, .footer-card li { font-size: 0.82rem; line-height: 1.7; }
+.footer-card ul { list-style: none; padding: 0; }
+.footer-card li::before { content: "— "; color: var(--text-muted); }
+.footer-sign { text-align: center; }
+.footer-sign p { color: var(--text-muted); font-size: 0.75rem; }
 .fade-in { opacity: 0; transform: translateY(8px); animation: fadeIn 550ms cubic-bezier(0.32,0.72,0,1) forwards; }
 @keyframes fadeIn { to { opacity: 1; transform: translateY(0); } }
 @media (max-width:768px) {
@@ -528,7 +535,31 @@ def render(history=None):
 </div>
 <nav class="city-nav fade-in">{city_nav}</nav>
 {city_groups}
-<div class="footer fade-in"><p>异乡好居悉尼 · 仅供内部参考</p></div>
+<div class="footer fade-in">
+  <div class="footer-grid">
+    <div class="footer-card">
+      <h3>租金全包</h3>
+      <p>无限WiFi、水电燃气、公共空间、24/7驻场支持、Sonder APP、住户活动、工作日免费早餐</p>
+    </div>
+    <div class="footer-card">
+      <h3>注意事项</h3>
+      <ul>
+        <li>Agent 可通过 Portal (A1336) 查看实时房态</li>
+        <li>公开页面库存数为营销文案</li>
+        <li>所有房型支持 Flexible Start + Wait List</li>
+        <li>2027 S1 预租（10月出合同）</li>
+      </ul>
+    </div>
+    <div class="footer-card">
+      <h3>数据来源</h3>
+      <ul>
+        <li>iglu.com.au 房型页面</li>
+        <li>GitHub Actions 自动抓取</li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-sign"><p>异乡好居悉尼 · 仅供内部参考</p></div>
+</div>
 <script>
 function switchCity(ci){{
   document.querySelectorAll('.city-btn').forEach((b,i)=>b.classList.toggle('active',i===ci));
