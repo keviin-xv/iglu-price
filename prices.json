@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-13 00:59:48",
+  "fetched_at": "2026-08-13 04:47:39",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -1000,7 +1000,7 @@
               "type": "studio",
               "price": 675,
               "left": null,
-              "status": "available",
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "6个月": 725,
@@ -1026,7 +1026,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/south-yarra/premium-studio-apartment-sy/",
               "type": "studio",
               "price": 725,
-              "left": null,
+              "left": 4,
               "status": "available",
               "start": "",
               "terms": {
