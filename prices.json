@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-14 04:45:20",
+  "fetched_at": "2026-08-14 08:08:14",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -12,7 +12,7 @@
               "url": "https://iglu.com.au/rooms/sydney/broadway/single-bedroom-6-share-apt-br/",
               "type": "share",
               "price": 785,
-              "left": 4,
+              "left": 3,
               "status": "available",
               "start": "31 August 2026",
               "terms": {
