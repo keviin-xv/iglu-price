@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-15 00:35:09",
+  "fetched_at": "2026-08-15 03:34:20",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -629,7 +629,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/brisbane-city/premium-studio-apartment-bc/",
               "type": "studio",
               "price": 759,
-              "left": 2,
+              "left": 1,
               "status": "available",
               "start": "",
               "terms": {
