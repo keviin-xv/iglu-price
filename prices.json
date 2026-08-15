@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-14 08:08:14",
+  "fetched_at": "2026-08-15 00:35:09",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -12,7 +12,7 @@
               "url": "https://iglu.com.au/rooms/sydney/broadway/single-bedroom-6-share-apt-br/",
               "type": "share",
               "price": 785,
-              "left": 3,
+              "left": 4,
               "status": "available",
               "start": "31 August 2026",
               "terms": {
@@ -476,7 +476,7 @@
               "price": 745,
               "left": null,
               "status": "available",
-              "start": "5 January 2027",
+              "start": "20 August 2026",
               "terms": {
                 "12个月": 745,
                 "22周": 805,
@@ -629,7 +629,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/brisbane-city/premium-studio-apartment-bc/",
               "type": "studio",
               "price": 759,
-              "left": 4,
+              "left": 2,
               "status": "available",
               "start": "",
               "terms": {
