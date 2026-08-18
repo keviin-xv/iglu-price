@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17 07:44:06",
+  "fetched_at": "2026-08-18 00:34:45",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -331,7 +331,7 @@
               "price": 685,
               "left": null,
               "status": "available",
-              "start": "18 August 2026",
+              "start": "5 January 2027",
               "terms": {
                 "12个月": 685,
                 "22周": 745,
@@ -346,7 +346,7 @@
               "price": 705,
               "left": null,
               "status": "available",
-              "start": "18 August 2026",
+              "start": "5 January 2027",
               "terms": {
                 "12个月": 705,
                 "22周": 765,
@@ -361,7 +361,7 @@
               "price": 815,
               "left": null,
               "status": "available",
-              "start": "18 August 2026",
+              "start": "5 January 2027",
               "terms": {
                 "12个月": 815,
                 "22周": 875,
@@ -689,7 +689,7 @@
               "type": "share",
               "price": 489,
               "left": null,
-              "status": "available",
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "6个月": 539,
@@ -902,7 +902,7 @@
               "type": "share",
               "price": 545,
               "left": null,
-              "status": "available",
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "6个月": 595,
