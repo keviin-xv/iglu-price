@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-18 00:34:45",
+  "fetched_at": "2026-08-18 03:39:56",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -19,7 +19,7 @@
                 "12个月": 785,
                 "22周": 845,
                 "44周": 785,
-                "短租": 700
+                "短租": 750
               }
             },
             {
@@ -34,7 +34,7 @@
                 "12个月": 795,
                 "22周": 855,
                 "44周": 795,
-                "短租": 875
+                "短租": 760
               }
             },
             {
@@ -42,14 +42,14 @@
               "url": "https://iglu.com.au/rooms/sydney/broadway/single-bedroom-4-share-apt-br/",
               "type": "share",
               "price": 805,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "",
               "terms": {
                 "12个月": 805,
                 "22周": 865,
                 "44周": 805,
-                "短租": 885
+                "短租": 770
               }
             },
             {
@@ -59,7 +59,7 @@
               "price": 885,
               "left": null,
               "status": "available",
-              "start": "5 January 2027",
+              "start": "10 December 2026",
               "terms": {
                 "12个月": 885,
                 "22周": 945,
@@ -122,16 +122,11 @@
               "name": "Single Bedroom – 5 Share Apt",
               "url": "https://iglu.com.au/rooms/sydney/central/single-bedroom-5-share-apt-ce/",
               "type": "share",
-              "price": 875,
-              "left": 1,
-              "status": "available",
-              "start": "16 September 2026",
-              "terms": {
-                "12个月": 815,
-                "24个月": 815,
-                "22周": 875,
-                "短租": 500
-              }
+              "price": 815,
+              "left": null,
+              "status": "unavailable",
+              "start": "",
+              "terms": null
             },
             {
               "name": "Standard Studio Apartment",
@@ -689,7 +684,7 @@
               "type": "share",
               "price": 489,
               "left": null,
-              "status": "unavailable",
+              "status": "available",
               "start": "",
               "terms": {
                 "6个月": 539,

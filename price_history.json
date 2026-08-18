@@ -3,19 +3,19 @@
     "12个月": 785,
     "22周": 845,
     "44周": 785,
-    "短租": 700
+    "短租": 750
   },
   "Broadway|Single Bedroom – 5 Share Apt": {
     "12个月": 795,
     "22周": 855,
     "44周": 795,
-    "短租": 875
+    "短租": 760
   },
   "Broadway|Single Bedroom – 4 Share Apt": {
     "12个月": 805,
     "22周": 865,
     "44周": 805,
-    "短租": 885
+    "短租": 770
   },
   "Broadway|Standard Studio Apartment": {
     "12个月": 885,
@@ -37,12 +37,7 @@
     "22周": 925,
     "44周": 865
   },
-  "Central|Single Bedroom – 5 Share Apt": {
-    "12个月": 815,
-    "24个月": 815,
-    "22周": 875,
-    "短租": 500
-  },
+  "Central|Single Bedroom – 5 Share Apt": {},
   "Central Park|Single Bedroom – 6 Share Apt": {
     "22周": 855,
     "44周": 795,
