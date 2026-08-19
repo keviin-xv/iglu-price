@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19 03:41:39",
+  "fetched_at": "2026-08-19 07:30:40",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -503,7 +503,7 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/single-bedroom-2-share-apt-wa/",
               "type": "share",
               "price": 705,
-              "left": 2,
+              "left": 1,
               "status": "available",
               "start": "5 January 2027",
               "terms": {
@@ -941,7 +941,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/south-yarra/premium-single-bedroom-6-share-apt-sy/",
               "type": "share",
               "price": 575,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "",
               "terms": {
@@ -968,7 +968,7 @@
               "type": "share",
               "price": 585,
               "left": null,
-              "status": "available",
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "6个月": 635,
@@ -982,7 +982,7 @@
               "type": "share",
               "price": 565,
               "left": null,
-              "status": "available",
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "6个月": 615,
@@ -996,11 +996,12 @@
               "type": "studio",
               "price": 675,
               "left": null,
-              "status": "unavailable",
-              "start": "",
+              "status": "available",
+              "start": "5 September 2026",
               "terms": {
                 "6个月": 725,
-                "12个月": 675
+                "12个月": 675,
+                "短租": 725
               }
             },
             {
