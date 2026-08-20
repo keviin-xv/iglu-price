@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19 07:30:40",
+  "fetched_at": "2026-08-20 00:34:31",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -471,7 +471,7 @@
               "price": 745,
               "left": null,
               "status": "available",
-              "start": "20 August 2026",
+              "start": "",
               "terms": {
                 "12个月": 745,
                 "22周": 805,
@@ -518,7 +518,7 @@
               "type": "studio",
               "price": 835,
               "left": null,
-              "status": "available",
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "12个月": 835,
