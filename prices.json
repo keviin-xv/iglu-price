@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23 03:45:07",
+  "fetched_at": "2026-08-23 07:26:05",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -274,7 +274,7 @@
               "url": "https://iglu.com.au/rooms/sydney/chatswood/standard-studio-apartment-ch/",
               "type": "studio",
               "price": 795,
-              "left": 1,
+              "left": 2,
               "status": "available",
               "start": "",
               "terms": {
