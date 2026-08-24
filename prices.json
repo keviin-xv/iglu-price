@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24 00:36:09",
+  "fetched_at": "2026-08-24 03:49:23",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -503,17 +503,21 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/single-bedroom-2-share-apt-wa/",
               "type": "share",
               "price": 705,
-              "left": null,
-              "status": "waitlist",
+              "left": 2,
+              "status": "available",
               "start": "",
-              "terms": null
+              "terms": {
+                "12个月": 705,
+                "22周": 765,
+                "44周": 705
+              }
             },
             {
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/waterloo/standard-studio-apartment-wa/",
               "type": "studio",
               "price": 835,
-              "left": 5,
+              "left": null,
               "status": "available",
               "start": "",
               "terms": {
@@ -581,7 +585,7 @@
               "type": "share",
               "price": 539,
               "left": null,
-              "status": "available",
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "6个月": 589,
