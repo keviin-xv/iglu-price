@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24 03:49:23",
+  "fetched_at": "2026-08-24 07:50:44",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -27,7 +27,7 @@
               "url": "https://iglu.com.au/rooms/sydney/broadway/single-bedroom-5-share-apt-br/",
               "type": "share",
               "price": 795,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "",
               "terms": {
@@ -59,7 +59,7 @@
               "price": 885,
               "left": null,
               "status": "available",
-              "start": "10 December 2026",
+              "start": "4 September 2026",
               "terms": {
                 "12个月": 885,
                 "22周": 945,
@@ -326,7 +326,7 @@
               "price": 685,
               "left": null,
               "status": "available",
-              "start": "5 January 2027",
+              "start": "7 September 2026",
               "terms": {
                 "12个月": 685,
                 "22周": 745,
@@ -341,7 +341,7 @@
               "price": 705,
               "left": null,
               "status": "available",
-              "start": "5 January 2027",
+              "start": "7 September 2026",
               "terms": {
                 "12个月": 705,
                 "22周": 765,
@@ -356,7 +356,7 @@
               "price": 815,
               "left": null,
               "status": "available",
-              "start": "5 January 2027",
+              "start": "7 September 2026",
               "terms": {
                 "12个月": 815,
                 "22周": 875,
@@ -371,8 +371,9 @@
               "price": 835,
               "left": null,
               "status": "available",
-              "start": "5 January 2027",
+              "start": "7 September 2026",
               "terms": {
+                "12个月": 835,
                 "22周": 895,
                 "44周": 835
               }
