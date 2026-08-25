@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25 00:35:42",
+  "fetched_at": "2026-08-25 03:43:39",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -274,7 +274,7 @@
               "url": "https://iglu.com.au/rooms/sydney/chatswood/standard-studio-apartment-ch/",
               "type": "studio",
               "price": 795,
-              "left": 1,
+              "left": 2,
               "status": "available",
               "start": "",
               "terms": {
@@ -586,7 +586,7 @@
               "type": "share",
               "price": 539,
               "left": null,
-              "status": "unavailable",
+              "status": "available",
               "start": "",
               "terms": {
                 "6个月": 589,
@@ -600,7 +600,7 @@
               "type": "share",
               "price": 559,
               "left": null,
-              "status": "available",
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "6个月": 609,
@@ -751,10 +751,13 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/premium-corner-studio-apartment-fg/",
               "type": "studio",
               "price": 725,
-              "left": null,
-              "status": "waitlist",
+              "left": 2,
+              "status": "available",
               "start": "",
-              "terms": null
+              "terms": {
+                "6个月": 775,
+                "12个月": 725
+              }
             },
             {
               "name": "Single Bedroom – 2 Share Apt",
@@ -847,7 +850,7 @@
               "type": "studio",
               "price": 645,
               "left": null,
-              "status": "available",
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "6个月": 695,
