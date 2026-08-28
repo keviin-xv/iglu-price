@@ -44,7 +44,12 @@
     "短租": 855
   },
   "Central Park|Single Bedroom – 4 Share Apt": {},
-  "Central Park|Standard Studio Apartment": {},
+  "Central Park|Standard Studio Apartment": {
+    "12个月": 925,
+    "22周": 985,
+    "44周": 925,
+    "短租": 985
+  },
   "Central Park|Single Bedroom – 3 Share Apt": {},
   "Central Park|Superior Studio Apartment": {
     "12个月": 1005,

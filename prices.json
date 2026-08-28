@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-27 17:58:57",
+  "fetched_at": "2026-08-28 07:27:10",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -12,9 +12,9 @@
               "url": "https://iglu.com.au/rooms/sydney/broadway/single-bedroom-6-share-apt-br/",
               "type": "share",
               "price": 785,
-              "left": 2,
+              "left": 4,
               "status": "available",
-              "start": "",
+              "start": "4 September 2026",
               "terms": {
                 "12个月": 785,
                 "22周": 845,
@@ -59,7 +59,7 @@
               "price": 885,
               "left": null,
               "status": "available",
-              "start": "4 September 2026",
+              "start": "14 September 2026",
               "terms": {
                 "12个月": 885,
                 "22周": 945,
@@ -151,10 +151,15 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/standard-studio-apartment-cp/",
               "type": "studio",
               "price": 925,
-              "left": null,
-              "status": "waitlist",
+              "left": 3,
+              "status": "available",
               "start": "",
-              "terms": null
+              "terms": {
+                "12个月": 925,
+                "22周": 985,
+                "44周": 925,
+                "短租": 985
+              }
             },
             {
               "name": "Superior Studio Apartment",
@@ -499,7 +504,7 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/single-bedroom-2-share-apt-wa/",
               "type": "share",
               "price": 705,
-              "left": 3,
+              "left": 2,
               "status": "available",
               "start": "",
               "terms": {
@@ -513,7 +518,7 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/standard-studio-apartment-wa/",
               "type": "studio",
               "price": 835,
-              "left": 4,
+              "left": 3,
               "status": "available",
               "start": "",
               "terms": {
