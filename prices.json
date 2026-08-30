@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29 12:53:35",
+  "fetched_at": "2026-08-30 02:09:00",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -59,7 +59,7 @@
               "price": 885,
               "left": null,
               "status": "available",
-              "start": "14 September 2026",
+              "start": "10 December 2026",
               "terms": {
                 "12个月": 885,
                 "22周": 945,
