@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30 12:26:39",
+  "fetched_at": "2026-08-31 02:04:44",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -682,7 +682,7 @@
               "type": "share",
               "price": 489,
               "left": null,
-              "status": "available",
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "6个月": 539,
@@ -952,10 +952,13 @@
               "url": "https://iglu.com.au/rooms/melbourne/south-yarra/single-bedroom-6-share-apt-sy/",
               "type": "share",
               "price": 555,
-              "left": 1,
+              "left": 2,
               "status": "available",
               "start": "",
-              "terms": null
+              "terms": {
+                "6个月": 605,
+                "12个月": 555
+              }
             },
             {
               "name": "Premium Single Bedroom – 5 Share",
