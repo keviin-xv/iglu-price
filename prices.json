@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31 02:04:44",
+  "fetched_at": "2026-08-31 09:13:09",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -59,7 +59,7 @@
               "price": 885,
               "left": null,
               "status": "available",
-              "start": "10 December 2026",
+              "start": "11 September 2026",
               "terms": {
                 "12个月": 885,
                 "22周": 945,
@@ -326,7 +326,7 @@
               "price": 685,
               "left": null,
               "status": "available",
-              "start": "5 January 2027",
+              "start": "7 September 2026",
               "terms": {
                 "12个月": 685,
                 "22周": 745,
@@ -504,7 +504,7 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/single-bedroom-2-share-apt-wa/",
               "type": "share",
               "price": 705,
-              "left": 3,
+              "left": 2,
               "status": "available",
               "start": "",
               "terms": {
@@ -668,7 +668,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-3-share-apt-kg/",
               "type": "share",
               "price": 459,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "",
               "terms": {
