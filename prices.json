@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01 08:12:40",
+  "fetched_at": "2026-09-01 12:14:12",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -671,8 +671,8 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-3-share-apt-kg/",
               "type": "share",
               "price": 459,
-              "left": 5,
-              "status": "available",
+              "left": null,
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "6个月": 509,
