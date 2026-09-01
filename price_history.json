@@ -57,7 +57,10 @@
     "44周": 1005,
     "短租": 1065
   },
-  "Central Park|Premium Studio Apartment": {},
+  "Central Park|Premium Studio Apartment": {
+    "12个月": 1045,
+    "22周": 1105
+  },
   "Chatswood|Single Bedroom – 6 Share Apt": {
     "12个月": 585,
     "22周": 645,
@@ -117,19 +120,19 @@
     "44周": 835
   },
   "Redfern|Single Bedroom – 6 Share Apt": {
-    "12个月": 745,
-    "24个月": 745,
-    "22周": 805,
-    "44周": 745,
-    "短租": 805
+    "12个月": 725,
+    "24个月": 725,
+    "22周": 785,
+    "44周": 725,
+    "短租": 785
   },
   "Redfern|Single Bedroom – 5 Share Apt": {},
   "Redfern|Single Bedroom – 4 Share Apt": {},
   "Redfern|Single Studio Apartment": {},
   "Redfern|Standard Studio Apartment": {
-    "12个月": 885,
-    "22周": 945,
-    "44周": 885
+    "12个月": 865,
+    "22周": 925,
+    "44周": 865
   },
   "Redfern|Premium Studio Apartment": {
     "22周": 1005,
