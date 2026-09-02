@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02 07:31:44",
+  "fetched_at": "2026-09-02 11:51:34",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -263,7 +263,7 @@
               "type": "share",
               "price": 625,
               "left": null,
-              "status": "available",
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "12个月": 625,
