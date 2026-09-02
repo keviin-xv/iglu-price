@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02 01:46:58",
+  "fetched_at": "2026-09-02 07:31:44",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -12,9 +12,9 @@
               "url": "https://iglu.com.au/rooms/sydney/broadway/single-bedroom-6-share-apt-br/",
               "type": "share",
               "price": 785,
-              "left": 3,
+              "left": 2,
               "status": "available",
-              "start": "4 September 2026",
+              "start": "",
               "terms": {
                 "12个月": 785,
                 "22周": 845,
@@ -440,8 +440,8 @@
               "type": "studio",
               "price": 865,
               "left": null,
-              "status": "unavailable",
-              "start": "",
+              "status": "available",
+              "start": "1 February 2027",
               "terms": {
                 "22周": 925,
                 "44周": 865
@@ -453,8 +453,8 @@
               "type": "studio",
               "price": 945,
               "left": null,
-              "status": "unavailable",
-              "start": "",
+              "status": "available",
+              "start": "1 February 2027",
               "terms": {
                 "22周": 1005,
                 "44周": 945
@@ -471,7 +471,7 @@
               "type": "studio",
               "price": 745,
               "left": null,
-              "status": "unavailable",
+              "status": "available",
               "start": "",
               "terms": {
                 "12个月": 745,
@@ -548,7 +548,7 @@
               "type": "studio",
               "price": 885,
               "left": null,
-              "status": "available",
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "12个月": 885,
