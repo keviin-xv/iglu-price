@@ -57,10 +57,7 @@
     "44周": 1005,
     "短租": 1065
   },
-  "Central Park|Premium Studio Apartment": {
-    "12个月": 1045,
-    "22周": 1105
-  },
+  "Central Park|Premium Studio Apartment": {},
   "Chatswood|Single Bedroom – 6 Share Apt": {
     "12个月": 585,
     "22周": 645,
@@ -183,8 +180,7 @@
   },
   "Brisbane City|Standard Studio Apartment": {
     "6个月": 789,
-    "12个月": 739,
-    "短租": 789
+    "12个月": 739
   },
   "Brisbane City|Premium Studio Apartment": {},
   "Kelvin Grove|Single Bedroom – 6 Share Apt": {

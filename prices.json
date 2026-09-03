@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03 01:52:24",
+  "fetched_at": "2026-09-03 07:38:07",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -12,9 +12,9 @@
               "url": "https://iglu.com.au/rooms/sydney/broadway/single-bedroom-6-share-apt-br/",
               "type": "share",
               "price": 785,
-              "left": 2,
+              "left": 3,
               "status": "available",
-              "start": "",
+              "start": "25 September 2026",
               "terms": {
                 "12个月": 785,
                 "22周": 845,
@@ -44,7 +44,7 @@
               "price": 805,
               "left": 2,
               "status": "available",
-              "start": "",
+              "start": "5 September 2026",
               "terms": {
                 "12个月": 805,
                 "22周": 865,
@@ -59,7 +59,7 @@
               "price": 885,
               "left": null,
               "status": "available",
-              "start": "10 December 2026",
+              "start": "7 September 2026",
               "terms": {
                 "12个月": 885,
                 "22周": 945,
@@ -151,7 +151,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/standard-studio-apartment-cp/",
               "type": "studio",
               "price": 925,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "",
               "terms": {
@@ -180,14 +180,11 @@
               "name": "Premium Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-studio-apartment-cp/",
               "type": "studio",
-              "price": 1105,
-              "left": 1,
-              "status": "available",
+              "price": 1045,
+              "left": null,
+              "status": "waitlist",
               "start": "",
-              "terms": {
-                "12个月": 1045,
-                "22周": 1105
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 6 Share Apt",
@@ -277,8 +274,8 @@
               "url": "https://iglu.com.au/rooms/sydney/chatswood/standard-studio-apartment-ch/",
               "type": "studio",
               "price": 795,
-              "left": 1,
-              "status": "available",
+              "left": null,
+              "status": "waitlist",
               "start": "",
               "terms": {
                 "12个月": 795,
@@ -359,7 +356,7 @@
               "price": 815,
               "left": null,
               "status": "available",
-              "start": "7 September 2026",
+              "start": "5 January 2027",
               "terms": {
                 "12个月": 815,
                 "22周": 875,
@@ -518,7 +515,7 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/standard-studio-apartment-wa/",
               "type": "studio",
               "price": 835,
-              "left": 2,
+              "left": 1,
               "status": "available",
               "start": "",
               "terms": {
@@ -613,12 +610,11 @@
               "type": "studio",
               "price": 739,
               "left": null,
-              "status": "available",
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "6个月": 789,
-                "12个月": 739,
-                "短租": 789
+                "12个月": 739
               }
             },
             {
@@ -939,7 +935,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/south-yarra/premium-single-bedroom-6-share-apt-sy/",
               "type": "share",
               "price": 575,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "",
               "terms": {
