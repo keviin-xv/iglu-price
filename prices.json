@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04 07:37:40",
+  "fetched_at": "2026-09-04 11:53:13",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -501,7 +501,7 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/single-bedroom-2-share-apt-wa/",
               "type": "share",
               "price": 705,
-              "left": 3,
+              "left": 2,
               "status": "available",
               "start": "",
               "terms": {
