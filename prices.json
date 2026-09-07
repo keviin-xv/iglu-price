@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-07 07:47:37",
+  "fetched_at": "2026-09-07 13:08:16",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -12,7 +12,7 @@
               "url": "https://iglu.com.au/rooms/sydney/broadway/single-bedroom-6-share-apt-br/",
               "type": "share",
               "price": 795,
-              "left": 3,
+              "left": 2,
               "status": "available",
               "start": "25 September 2026",
               "terms": {
@@ -153,7 +153,7 @@
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/central-park/standard-studio-apartment-cp/",
               "type": "studio",
-              "price": 925,
+              "price": 915,
               "left": 4,
               "status": "available",
               "start": "",
@@ -168,7 +168,7 @@
               "name": "Superior Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/central-park/superior-studio-apartment/",
               "type": "studio",
-              "price": 1005,
+              "price": 995,
               "left": null,
               "status": "available",
               "start": "",
@@ -193,7 +193,7 @@
               "name": "Single Bedroom – 6 Share Apt",
               "url": "https://iglu.com.au/rooms/sydney/central-park/single-bedroom-6-share-apt-cp/",
               "type": "share",
-              "price": 795,
+              "price": 785,
               "left": null,
               "status": "available",
               "start": "",
@@ -397,7 +397,7 @@
               "price": 725,
               "left": null,
               "status": "available",
-              "start": "1 February 2027",
+              "start": "",
               "terms": {
                 "22周": 785,
                 "44周": 725,
