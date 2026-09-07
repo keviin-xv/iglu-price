@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06 11:26:24",
+  "fetched_at": "2026-09-07 01:40:12",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -59,7 +59,7 @@
               "price": 885,
               "left": null,
               "status": "available",
-              "start": "7 September 2026",
+              "start": "11 September 2026",
               "terms": {
                 "12个月": 885,
                 "22周": 945,
@@ -326,7 +326,7 @@
               "price": 685,
               "left": null,
               "status": "available",
-              "start": "7 September 2026",
+              "start": "5 January 2027",
               "terms": {
                 "12个月": 685,
                 "22周": 745,
@@ -341,7 +341,7 @@
               "price": 705,
               "left": null,
               "status": "available",
-              "start": "7 September 2026",
+              "start": "5 January 2027",
               "terms": {
                 "12个月": 705,
                 "22周": 765,
@@ -664,7 +664,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-3-share-apt-kg/",
               "type": "share",
               "price": 459,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "",
               "terms": {
@@ -724,9 +724,9 @@
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 705,
+                "6个月": 715,
                 "12个月": 655,
-                "短租": 705
+                "短租": 715
               }
             },
             {
@@ -738,7 +738,7 @@
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 735,
+                "6个月": 745,
                 "12个月": 685
               }
             },
@@ -751,7 +751,7 @@
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 775,
+                "6个月": 785,
                 "12个月": 725
               }
             },
@@ -764,7 +764,7 @@
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 585,
+                "6个月": 595,
                 "12个月": 535
               }
             },
@@ -777,7 +777,7 @@
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 665,
+                "6个月": 675,
                 "12个月": 615
               }
             }
@@ -795,7 +795,7 @@
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 715,
+                "6个月": 725,
                 "12个月": 665
               }
             },
@@ -808,7 +808,7 @@
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 745,
+                "6个月": 755,
                 "12个月": 695
               }
             },
@@ -831,7 +831,7 @@
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 605,
+                "6个月": 615,
                 "12个月": 555
               }
             }
@@ -849,7 +849,7 @@
               "status": "unavailable",
               "start": "",
               "terms": {
-                "6个月": 695,
+                "6个月": 705,
                 "12个月": 645
               }
             },
@@ -862,9 +862,9 @@
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 715,
+                "6个月": 725,
                 "12个月": 665,
-                "短租": 715
+                "短租": 725
               }
             }
           ]
@@ -881,7 +881,7 @@
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 565,
+                "6个月": 575,
                 "12个月": 515
               }
             },
@@ -894,7 +894,7 @@
               "status": "unavailable",
               "start": "",
               "terms": {
-                "6个月": 595,
+                "6个月": 605,
                 "12个月": 545
               }
             },
@@ -907,9 +907,9 @@
               "status": "unavailable",
               "start": "",
               "terms": {
-                "6个月": 725,
+                "6个月": 735,
                 "12个月": 675,
-                "短租": 755
+                "短租": 735
               }
             },
             {
@@ -921,7 +921,7 @@
               "status": "unavailable",
               "start": "",
               "terms": {
-                "6个月": 785,
+                "6个月": 795,
                 "12个月": 735
               }
             }
@@ -952,7 +952,7 @@
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 605,
+                "6个月": 615,
                 "12个月": 555
               }
             },
@@ -965,9 +965,9 @@
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 635,
+                "6个月": 645,
                 "12个月": 585,
-                "短租": 635
+                "短租": 645
               }
             },
             {
@@ -979,9 +979,9 @@
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 615,
+                "6个月": 625,
                 "12个月": 565,
-                "短租": 615
+                "短租": 625
               }
             },
             {
@@ -993,9 +993,9 @@
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 725,
+                "6个月": 735,
                 "12个月": 675,
-                "短租": 725
+                "短租": 735
               }
             },
             {
@@ -1007,9 +1007,9 @@
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 735,
+                "6个月": 745,
                 "12个月": 685,
-                "短租": 735
+                "短租": 745
               }
             },
             {
@@ -1021,7 +1021,7 @@
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 775,
+                "6个月": 785,
                 "12个月": 725
               }
             }
