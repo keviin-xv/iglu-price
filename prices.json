@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-07 01:40:12",
+  "fetched_at": "2026-09-07 07:47:37",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -11,14 +11,14 @@
               "name": "Single Bedroom – 6 Share Apt",
               "url": "https://iglu.com.au/rooms/sydney/broadway/single-bedroom-6-share-apt-br/",
               "type": "share",
-              "price": 785,
+              "price": 795,
               "left": 3,
               "status": "available",
               "start": "25 September 2026",
               "terms": {
-                "12个月": 785,
-                "22周": 845,
-                "44周": 785,
+                "12个月": 795,
+                "22周": 855,
+                "44周": 795,
                 "短租": 750
               }
             },
@@ -26,14 +26,14 @@
               "name": "Single Bedroom – 5 Share Apt",
               "url": "https://iglu.com.au/rooms/sydney/broadway/single-bedroom-5-share-apt-br/",
               "type": "share",
-              "price": 795,
+              "price": 805,
               "left": 4,
               "status": "available",
               "start": "",
               "terms": {
-                "12个月": 795,
-                "22周": 855,
-                "44周": 795,
+                "12个月": 805,
+                "22周": 865,
+                "44周": 805,
                 "短租": 760
               }
             },
@@ -96,13 +96,14 @@
               "name": "Single Bedroom – Share Bathroom",
               "url": "https://iglu.com.au/rooms/sydney/central/single-bedroom-share-bathroom-ce/",
               "type": "share",
-              "price": 725,
+              "price": 735,
               "left": null,
               "status": "available",
-              "start": "1 January 2027",
+              "start": "25 September 2026",
               "terms": {
-                "22周": 785,
-                "44周": 725
+                "22周": 795,
+                "44周": 735,
+                "短租": 670
               }
             },
             {
@@ -112,10 +113,11 @@
               "price": 775,
               "left": null,
               "status": "available",
-              "start": "1 January 2027",
+              "start": "25 November 2026",
               "terms": {
                 "22周": 835,
-                "44周": 775
+                "44周": 775,
+                "短租": 700
               }
             },
             {
@@ -135,10 +137,11 @@
               "price": 865,
               "left": null,
               "status": "available",
-              "start": "1 January 2027",
+              "start": "27 November 2026",
               "terms": {
                 "22周": 925,
-                "44周": 865
+                "44周": 865,
+                "短租": 800
               }
             }
           ]
@@ -155,10 +158,10 @@
               "status": "available",
               "start": "",
               "terms": {
-                "12个月": 925,
-                "22周": 985,
-                "44周": 925,
-                "短租": 985
+                "12个月": 915,
+                "22周": 975,
+                "44周": 915,
+                "短租": 975
               }
             },
             {
@@ -170,10 +173,10 @@
               "status": "available",
               "start": "",
               "terms": {
-                "12个月": 1005,
-                "22周": 1065,
-                "44周": 1005,
-                "短租": 1065
+                "12个月": 995,
+                "22周": 1055,
+                "44周": 995,
+                "短租": 1055
               }
             },
             {
@@ -195,9 +198,9 @@
               "status": "available",
               "start": "",
               "terms": {
-                "22周": 855,
-                "44周": 795,
-                "短租": 855
+                "22周": 845,
+                "44周": 785,
+                "短租": 845
               }
             },
             {
@@ -394,7 +397,7 @@
               "price": 725,
               "left": null,
               "status": "available",
-              "start": "",
+              "start": "1 February 2027",
               "terms": {
                 "22周": 785,
                 "44周": 725,
@@ -515,14 +518,10 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/standard-studio-apartment-wa/",
               "type": "studio",
               "price": 835,
-              "left": 1,
-              "status": "available",
+              "left": null,
+              "status": "waitlist",
               "start": "",
-              "terms": {
-                "12个月": 835,
-                "22周": 895,
-                "44周": 835
-              }
+              "terms": null
             },
             {
               "name": "Superior Studio Apartment",
@@ -664,7 +663,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-3-share-apt-kg/",
               "type": "share",
               "price": 459,
-              "left": 4,
+              "left": 5,
               "status": "available",
               "start": "",
               "terms": {
@@ -939,7 +938,7 @@
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 625,
+                "6个月": 635,
                 "12个月": 575
               }
             },

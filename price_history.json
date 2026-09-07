@@ -1,14 +1,14 @@
 {
   "Broadway|Single Bedroom – 6 Share Apt": {
-    "12个月": 785,
-    "22周": 845,
-    "44周": 785,
-    "短租": 750
-  },
-  "Broadway|Single Bedroom – 5 Share Apt": {
     "12个月": 795,
     "22周": 855,
     "44周": 795,
+    "短租": 750
+  },
+  "Broadway|Single Bedroom – 5 Share Apt": {
+    "12个月": 805,
+    "22周": 865,
+    "44周": 805,
     "短租": 760
   },
   "Broadway|Single Bedroom – 4 Share Apt": {
@@ -26,36 +26,39 @@
   "Broadway|Superior Studio Apartment": {},
   "Broadway|Premium Studio Apartment": {},
   "Central|Single Bedroom – Share Bathroom": {
-    "22周": 785,
-    "44周": 725
+    "22周": 795,
+    "44周": 735,
+    "短租": 670
   },
   "Central|Single Bedroom – 6 Share Apt": {
     "22周": 835,
-    "44周": 775
+    "44周": 775,
+    "短租": 700
   },
   "Central|Standard Studio Apartment": {
     "22周": 925,
-    "44周": 865
+    "44周": 865,
+    "短租": 800
   },
   "Central|Single Bedroom – 5 Share Apt": {},
   "Central Park|Single Bedroom – 6 Share Apt": {
-    "22周": 855,
-    "44周": 795,
-    "短租": 855
+    "22周": 845,
+    "44周": 785,
+    "短租": 845
   },
   "Central Park|Single Bedroom – 4 Share Apt": {},
   "Central Park|Standard Studio Apartment": {
-    "12个月": 925,
-    "22周": 985,
-    "44周": 925,
-    "短租": 985
+    "12个月": 915,
+    "22周": 975,
+    "44周": 915,
+    "短租": 975
   },
   "Central Park|Single Bedroom – 3 Share Apt": {},
   "Central Park|Superior Studio Apartment": {
-    "12个月": 1005,
-    "22周": 1065,
-    "44周": 1005,
-    "短租": 1065
+    "12个月": 995,
+    "22周": 1055,
+    "44周": 995,
+    "短租": 1055
   },
   "Central Park|Premium Studio Apartment": {},
   "Chatswood|Single Bedroom – 6 Share Apt": {
@@ -148,11 +151,7 @@
     "22周": 765,
     "44周": 705
   },
-  "Waterloo|Standard Studio Apartment": {
-    "12个月": 835,
-    "22周": 895,
-    "44周": 835
-  },
+  "Waterloo|Standard Studio Apartment": {},
   "Waterloo|Superior Studio Apartment": {
     "12个月": 855,
     "22周": 915,
@@ -272,7 +271,7 @@
     "短租": 625
   },
   "South Yarra|Premium Single Bedroom – 6 Share": {
-    "6个月": 625,
+    "6个月": 635,
     "12个月": 575
   },
   "South Yarra|Premium Single Bedroom – 5 Share": {
