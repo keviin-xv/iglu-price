@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-07 13:08:16",
+  "fetched_at": "2026-09-08 01:50:42",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -329,7 +329,7 @@
               "price": 685,
               "left": null,
               "status": "available",
-              "start": "5 January 2027",
+              "start": "14 September 2026",
               "terms": {
                 "12个月": 685,
                 "22周": 745,
@@ -344,7 +344,7 @@
               "price": 705,
               "left": null,
               "status": "available",
-              "start": "5 January 2027",
+              "start": "14 September 2026",
               "terms": {
                 "12个月": 705,
                 "22周": 765,
@@ -359,7 +359,7 @@
               "price": 815,
               "left": null,
               "status": "available",
-              "start": "5 January 2027",
+              "start": "14 September 2026",
               "terms": {
                 "12个月": 815,
                 "22周": 875,
@@ -663,7 +663,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-3-share-apt-kg/",
               "type": "share",
               "price": 459,
-              "left": 5,
+              "left": 2,
               "status": "available",
               "start": "",
               "terms": {
