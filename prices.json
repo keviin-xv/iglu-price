@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08 11:53:52",
+  "fetched_at": "2026-09-09 01:56:29",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -154,7 +154,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/standard-studio-apartment-cp/",
               "type": "studio",
               "price": 915,
-              "left": 2,
+              "left": null,
               "status": "available",
               "start": "",
               "terms": {
@@ -169,7 +169,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/superior-studio-apartment/",
               "type": "studio",
               "price": 995,
-              "left": 4,
+              "left": null,
               "status": "available",
               "start": "",
               "terms": {
@@ -276,45 +276,45 @@
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/chatswood/standard-studio-apartment-ch/",
               "type": "studio",
-              "price": 795,
+              "price": 775,
               "left": 1,
               "status": "available",
               "start": "",
               "terms": {
-                "12个月": 795,
-                "22周": 855,
-                "44周": 795,
-                "短租": 855
+                "12个月": 775,
+                "22周": 835,
+                "44周": 775,
+                "短租": 835
               }
             },
             {
               "name": "Superior Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/chatswood/superior-studio-apartment-ch/",
               "type": "studio",
-              "price": 805,
+              "price": 785,
               "left": null,
               "status": "available",
               "start": "",
               "terms": {
-                "12个月": 805,
-                "22周": 865,
-                "44周": 805,
-                "短租": 865
+                "12个月": 785,
+                "22周": 845,
+                "44周": 785,
+                "短租": 845
               }
             },
             {
               "name": "Premium Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/chatswood/premium-studio-apartment-ch/",
               "type": "studio",
-              "price": 835,
+              "price": 815,
               "left": null,
               "status": "available",
               "start": "",
               "terms": {
-                "12个月": 835,
-                "22周": 895,
-                "44周": 835,
-                "短租": 895
+                "12个月": 815,
+                "22周": 875,
+                "44周": 815,
+                "短租": 875
               }
             }
           ]
@@ -356,29 +356,29 @@
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/mascot/standard-studio-apartment-ma/",
               "type": "studio",
-              "price": 815,
+              "price": 805,
               "left": null,
               "status": "available",
               "start": "14 September 2026",
               "terms": {
-                "12个月": 815,
-                "22周": 875,
-                "44周": 815,
-                "短租": 875
+                "12个月": 805,
+                "22周": 865,
+                "44周": 805,
+                "短租": 865
               }
             },
             {
               "name": "Premium Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/mascot/premium-studio-apartment-ma/",
               "type": "studio",
-              "price": 835,
+              "price": 825,
               "left": null,
               "status": "available",
               "start": "5 January 2027",
               "terms": {
-                "12个月": 835,
-                "22周": 895,
-                "44周": 835
+                "12个月": 825,
+                "22周": 885,
+                "44周": 825
               }
             }
           ]
@@ -469,29 +469,29 @@
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/summer-hill/standard-studio-apartment-sh/",
               "type": "studio",
-              "price": 745,
+              "price": 735,
               "left": null,
               "status": "available",
               "start": "",
               "terms": {
-                "12个月": 745,
-                "22周": 805,
-                "44周": 745
+                "12个月": 735,
+                "22周": 795,
+                "44周": 735
               }
             },
             {
               "name": "Premium Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/summer-hill/premium-studio-apartment-sh/",
               "type": "studio",
-              "price": 775,
+              "price": 755,
               "left": null,
               "status": "available",
               "start": "",
               "terms": {
-                "12个月": 775,
-                "22周": 835,
-                "44周": 775,
-                "短租": 835
+                "12个月": 755,
+                "22周": 815,
+                "44周": 755,
+                "短租": 815
               }
             }
           ]
@@ -503,21 +503,21 @@
               "name": "Single Bedroom – 2 Share Apt",
               "url": "https://iglu.com.au/rooms/sydney/waterloo/single-bedroom-2-share-apt-wa/",
               "type": "share",
-              "price": 705,
+              "price": 685,
               "left": 2,
               "status": "available",
               "start": "",
               "terms": {
-                "12个月": 705,
-                "22周": 765,
-                "44周": 705
+                "12个月": 685,
+                "22周": 745,
+                "44周": 685
               }
             },
             {
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/waterloo/standard-studio-apartment-wa/",
               "type": "studio",
-              "price": 835,
+              "price": 825,
               "left": null,
               "status": "waitlist",
               "start": "",
@@ -527,29 +527,29 @@
               "name": "Superior Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/waterloo/superior-studio-apartment-wa/",
               "type": "studio",
-              "price": 855,
+              "price": 845,
               "left": null,
               "status": "available",
               "start": "",
               "terms": {
-                "12个月": 855,
-                "22周": 915,
-                "44周": 855,
-                "短租": 915
+                "12个月": 845,
+                "22周": 905,
+                "44周": 845,
+                "短租": 905
               }
             },
             {
               "name": "Premium Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/waterloo/premium-studio-apartment-wa/",
               "type": "studio",
-              "price": 885,
+              "price": 865,
               "left": null,
               "status": "unavailable",
               "start": "",
               "terms": {
-                "12个月": 885,
-                "22周": 945,
-                "44周": 885
+                "12个月": 865,
+                "22周": 925,
+                "44周": 865
               }
             }
           ]
