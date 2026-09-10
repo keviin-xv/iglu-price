@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10 01:52:51",
+  "fetched_at": "2026-09-10 07:46:38",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -263,7 +263,7 @@
               "type": "share",
               "price": 625,
               "left": null,
-              "status": "available",
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "12个月": 625,
@@ -503,7 +503,7 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/single-bedroom-2-share-apt-wa/",
               "type": "share",
               "price": 685,
-              "left": 2,
+              "left": 1,
               "status": "available",
               "start": "",
               "terms": {
@@ -546,9 +546,22 @@
               "status": "unavailable",
               "start": "",
               "terms": {
-                "12个月": 865,
                 "22周": 925,
                 "44周": 865
+              }
+            },
+            {
+              "name": "Premium Corner Studio Apartment",
+              "url": "https://iglu.com.au/rooms/sydney/waterloo/premium-corner-studio-apartment-wa/",
+              "type": "studio",
+              "price": 905,
+              "left": null,
+              "status": "unavailable",
+              "start": "",
+              "terms": {
+                "12个月": 865,
+                "22周": 965,
+                "44周": 905
               }
             }
           ]
@@ -635,7 +648,7 @@
               "type": "share",
               "price": 429,
               "left": null,
-              "status": "available",
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "6个月": 479,
@@ -648,12 +661,11 @@
               "type": "share",
               "price": 429,
               "left": null,
-              "status": "available",
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "6个月": 479,
-                "12个月": 429,
-                "短租": 479
+                "12个月": 429
               }
             },
             {
@@ -661,7 +673,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-3-share-apt-kg/",
               "type": "share",
               "price": 459,
-              "left": 2,
+              "left": 3,
               "status": "available",
               "start": "",
               "terms": {

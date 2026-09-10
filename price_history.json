@@ -158,7 +158,6 @@
     "短租": 905
   },
   "Waterloo|Premium Studio Apartment": {
-    "12个月": 865,
     "22周": 925,
     "44周": 865
   },
@@ -186,8 +185,7 @@
   },
   "Kelvin Grove|Single Bedroom – 5 Share Apt": {
     "6个月": 479,
-    "12个月": 429,
-    "短租": 479
+    "12个月": 429
   },
   "Kelvin Grove|Single Bedroom – 3 Share Apt": {
     "6个月": 509,
@@ -290,5 +288,10 @@
   "South Yarra|Premium Studio Apartment": {
     "6个月": 785,
     "12个月": 725
+  },
+  "Waterloo|Premium Corner Studio Apartment": {
+    "12个月": 865,
+    "22周": 965,
+    "44周": 905
   }
 }
