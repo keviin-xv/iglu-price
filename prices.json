@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10 11:58:13",
+  "fetched_at": "2026-09-11 01:53:40",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -59,7 +59,7 @@
               "price": 885,
               "left": null,
               "status": "available",
-              "start": "11 September 2026",
+              "start": "25 September 2026",
               "terms": {
                 "12个月": 885,
                 "22周": 945,
@@ -543,11 +543,12 @@
               "type": "studio",
               "price": 865,
               "left": null,
-              "status": "unavailable",
+              "status": "available",
               "start": "",
               "terms": {
                 "22周": 925,
-                "44周": 865
+                "44周": 865,
+                "短租": 925
               }
             },
             {
@@ -728,53 +729,53 @@
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/standard-studio-apartment-fg/",
               "type": "studio",
-              "price": 655,
+              "price": 635,
               "left": null,
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 715,
-                "12个月": 655,
-                "短租": 715
+                "6个月": 695,
+                "12个月": 635,
+                "短租": 695
               }
             },
             {
               "name": "Premium Studio Apartment",
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/premium-studio-apartment-fg/",
               "type": "studio",
-              "price": 685,
+              "price": 665,
               "left": null,
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 745,
-                "12个月": 685
+                "6个月": 725,
+                "12个月": 665
               }
             },
             {
               "name": "Premium Corner Studio Apartment",
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/premium-corner-studio-apartment-fg/",
               "type": "studio",
-              "price": 725,
+              "price": 705,
               "left": 1,
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 785,
-                "12个月": 725
+                "6个月": 765,
+                "12个月": 705
               }
             },
             {
               "name": "Single Bedroom – 2 Share Apt",
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/single-bedroom-2-share-apt-fg/",
               "type": "share",
-              "price": 535,
+              "price": 515,
               "left": null,
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 595,
-                "12个月": 535
+                "6个月": 575,
+                "12个月": 515
               }
             },
             {
@@ -858,8 +859,8 @@
               "status": "unavailable",
               "start": "",
               "terms": {
-                "6个月": 705,
-                "12个月": 645
+                "6个月": 695,
+                "12个月": 635
               }
             },
             {
@@ -997,14 +998,14 @@
               "name": "Single Studio Apartment",
               "url": "https://iglu.com.au/rooms/melbourne/south-yarra/single-studio-apartment-sy/",
               "type": "studio",
-              "price": 675,
+              "price": 665,
               "left": null,
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 735,
-                "12个月": 675,
-                "短租": 735
+                "6个月": 725,
+                "12个月": 665,
+                "短租": 725
               }
             },
             {
@@ -1025,13 +1026,13 @@
               "name": "Premium Studio Apartment",
               "url": "https://iglu.com.au/rooms/melbourne/south-yarra/premium-studio-apartment-sy/",
               "type": "studio",
-              "price": 725,
+              "price": 715,
               "left": 4,
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 785,
-                "12个月": 725
+                "6个月": 775,
+                "12个月": 715
               }
             }
           ]

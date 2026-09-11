@@ -159,7 +159,8 @@
   },
   "Waterloo|Premium Studio Apartment": {
     "22周": 925,
-    "44周": 865
+    "44周": 865,
+    "短租": 925
   },
   "Brisbane City|Single Bedroom – Share Bathroom": {
     "6个月": 499,
@@ -197,8 +198,8 @@
   },
   "Kelvin Grove|1 Bedroom Apartment": {},
   "Flagstaff Gardens|Single Bedroom – 2 Share Apt": {
-    "6个月": 595,
-    "12个月": 535
+    "6个月": 575,
+    "12个月": 515
   },
   "Flagstaff Gardens|Premium Single Bedroom – 2 Share": {
     "6个月": 675,
@@ -206,17 +207,17 @@
   },
   "Flagstaff Gardens|Single Studio Apartment": {},
   "Flagstaff Gardens|Standard Studio Apartment": {
-    "6个月": 715,
-    "12个月": 655,
-    "短租": 715
+    "6个月": 695,
+    "12个月": 635,
+    "短租": 695
   },
   "Flagstaff Gardens|Premium Studio Apartment": {
-    "6个月": 745,
-    "12个月": 685
+    "6个月": 725,
+    "12个月": 665
   },
   "Flagstaff Gardens|Premium Corner Studio Apartment": {
-    "6个月": 785,
-    "12个月": 725
+    "6个月": 765,
+    "12个月": 705
   },
   "Flagstaff Station|Single Bedroom – 2 Share Apt": {
     "6个月": 615,
@@ -232,8 +233,8 @@
   },
   "Flagstaff Station|Premium Corner Studio Apartment": {},
   "Melbourne Central|Standard Studio Apartment": {
-    "6个月": 705,
-    "12个月": 645
+    "6个月": 695,
+    "12个月": 635
   },
   "Melbourne Central|Premium Studio Apartment": {
     "6个月": 725,
@@ -276,9 +277,9 @@
     "短租": 645
   },
   "South Yarra|Single Studio Apartment": {
-    "6个月": 735,
-    "12个月": 675,
-    "短租": 735
+    "6个月": 725,
+    "12个月": 665,
+    "短租": 725
   },
   "South Yarra|Standard Studio Apartment": {
     "6个月": 745,
@@ -286,8 +287,8 @@
     "短租": 745
   },
   "South Yarra|Premium Studio Apartment": {
-    "6个月": 785,
-    "12个月": 725
+    "6个月": 775,
+    "12个月": 715
   },
   "Waterloo|Premium Corner Studio Apartment": {
     "12个月": 865,
