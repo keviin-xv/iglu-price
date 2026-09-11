@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11 07:40:56",
+  "fetched_at": "2026-09-11 11:57:17",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -263,7 +263,7 @@
               "type": "share",
               "price": 625,
               "left": null,
-              "status": "available",
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "12个月": 625,
@@ -753,10 +753,13 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/premium-corner-studio-apartment-fg/",
               "type": "studio",
               "price": 705,
-              "left": null,
-              "status": "waitlist",
+              "left": 1,
+              "status": "available",
               "start": "",
-              "terms": null
+              "terms": {
+                "6个月": 765,
+                "12个月": 705
+              }
             },
             {
               "name": "Single Bedroom – 2 Share Apt",
@@ -862,7 +865,7 @@
               "type": "studio",
               "price": 665,
               "left": null,
-              "status": "available",
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "6个月": 725,
