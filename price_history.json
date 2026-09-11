@@ -145,11 +145,7 @@
     "44周": 755,
     "短租": 815
   },
-  "Waterloo|Single Bedroom – 2 Share Apt": {
-    "12个月": 685,
-    "22周": 745,
-    "44周": 685
-  },
+  "Waterloo|Single Bedroom – 2 Share Apt": {},
   "Waterloo|Standard Studio Apartment": {},
   "Waterloo|Superior Studio Apartment": {
     "12个月": 845,
@@ -215,13 +211,10 @@
     "6个月": 725,
     "12个月": 665
   },
-  "Flagstaff Gardens|Premium Corner Studio Apartment": {
-    "6个月": 765,
-    "12个月": 705
-  },
+  "Flagstaff Gardens|Premium Corner Studio Apartment": {},
   "Flagstaff Station|Single Bedroom – 2 Share Apt": {
-    "6个月": 615,
-    "12个月": 555
+    "6个月": 595,
+    "12个月": 535
   },
   "Flagstaff Station|Standard Studio Apartment": {
     "6个月": 725,
@@ -260,7 +253,8 @@
   },
   "South Yarra|Single Bedroom – 6 Share Apt": {
     "6个月": 615,
-    "12个月": 555
+    "12个月": 555,
+    "短租": 615
   },
   "South Yarra|Single Bedroom – 5 Share Apt": {
     "6个月": 625,
@@ -288,7 +282,8 @@
   },
   "South Yarra|Premium Studio Apartment": {
     "6个月": 775,
-    "12个月": 715
+    "12个月": 715,
+    "短租": 775
   },
   "Waterloo|Premium Corner Studio Apartment": {
     "12个月": 865,

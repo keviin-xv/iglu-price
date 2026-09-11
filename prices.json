@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11 01:53:40",
+  "fetched_at": "2026-09-11 07:40:56",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -503,14 +503,10 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/single-bedroom-2-share-apt-wa/",
               "type": "share",
               "price": 685,
-              "left": 1,
-              "status": "available",
+              "left": null,
+              "status": "waitlist",
               "start": "",
-              "terms": {
-                "12个月": 685,
-                "22周": 745,
-                "44周": 685
-              }
+              "terms": null
             },
             {
               "name": "Standard Studio Apartment",
@@ -757,13 +753,10 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/premium-corner-studio-apartment-fg/",
               "type": "studio",
               "price": 705,
-              "left": 1,
-              "status": "available",
+              "left": null,
+              "status": "waitlist",
               "start": "",
-              "terms": {
-                "6个月": 765,
-                "12个月": 705
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 2 Share Apt",
@@ -826,7 +819,7 @@
               "name": "Premium Corner Studio Apartment",
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-station/premium-studio-apartment-cnr-fs/",
               "type": "studio",
-              "price": 725,
+              "price": 735,
               "left": null,
               "status": "waitlist",
               "start": "",
@@ -836,13 +829,13 @@
               "name": "Single Bedroom – 2 Share Apt",
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-station/single-bedroom-2-share-apt-fs/",
               "type": "share",
-              "price": 555,
+              "price": 535,
               "left": null,
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 615,
-                "12个月": 555
+                "6个月": 595,
+                "12个月": 535
               }
             }
           ]
@@ -854,7 +847,7 @@
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/melbourne/melbourne-central/standard-studio-apartment-mce/",
               "type": "studio",
-              "price": 645,
+              "price": 635,
               "left": null,
               "status": "unavailable",
               "start": "",
@@ -945,8 +938,8 @@
               "url": "https://iglu.com.au/rooms/melbourne/south-yarra/premium-single-bedroom-6-share-apt-sy/",
               "type": "share",
               "price": 575,
-              "left": 4,
-              "status": "available",
+              "left": null,
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "6个月": 635,
@@ -958,12 +951,13 @@
               "url": "https://iglu.com.au/rooms/melbourne/south-yarra/single-bedroom-6-share-apt-sy/",
               "type": "share",
               "price": 555,
-              "left": 1,
+              "left": null,
               "status": "available",
               "start": "",
               "terms": {
                 "6个月": 615,
-                "12个月": 555
+                "12个月": 555,
+                "短租": 615
               }
             },
             {
@@ -971,7 +965,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/south-yarra/premium-single-bedroom-5-share-apt-sy/",
               "type": "share",
               "price": 585,
-              "left": 5,
+              "left": null,
               "status": "available",
               "start": "",
               "terms": {
@@ -985,7 +979,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/south-yarra/single-bedroom-5-share-apt-sy/",
               "type": "share",
               "price": 565,
-              "left": 5,
+              "left": null,
               "status": "available",
               "start": "",
               "terms": {
@@ -1027,12 +1021,13 @@
               "url": "https://iglu.com.au/rooms/melbourne/south-yarra/premium-studio-apartment-sy/",
               "type": "studio",
               "price": 715,
-              "left": 4,
+              "left": null,
               "status": "available",
               "start": "",
               "terms": {
                 "6个月": 775,
-                "12个月": 715
+                "12个月": 715,
+                "短租": 775
               }
             }
           ]
