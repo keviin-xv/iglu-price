@@ -28,12 +28,12 @@
   "Central|Single Bedroom – Share Bathroom": {
     "22周": 795,
     "44周": 735,
-    "短租": 670
+    "短租": 600
   },
   "Central|Single Bedroom – 6 Share Apt": {
     "22周": 835,
     "44周": 775,
-    "短租": 700
+    "短租": 650
   },
   "Central|Standard Studio Apartment": {
     "22周": 925,
@@ -60,7 +60,10 @@
     "44周": 995,
     "短租": 1055
   },
-  "Central Park|Premium Studio Apartment": {},
+  "Central Park|Premium Studio Apartment": {
+    "22周": 1075,
+    "44周": 1015
+  },
   "Chatswood|Single Bedroom – 6 Share Apt": {
     "12个月": 585,
     "22周": 645,
@@ -184,7 +187,10 @@
     "6个月": 479,
     "12个月": 429
   },
-  "Kelvin Grove|Single Bedroom – 3 Share Apt": {},
+  "Kelvin Grove|Single Bedroom – 3 Share Apt": {
+    "6个月": 509,
+    "12个月": 459
+  },
   "Kelvin Grove|Single Bedroom – 2 Share Apt": {
     "6个月": 539,
     "12个月": 489
@@ -286,5 +292,10 @@
     "12个月": 865,
     "22周": 965,
     "44周": 905
+  },
+  "Central Park|Premium Corner Studio Apartment": {},
+  "Central Park|Premium Single Room – 6 Share Apt": {
+    "22周": 875,
+    "44周": 815
   }
 }
