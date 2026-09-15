@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14 13:29:50",
+  "fetched_at": "2026-09-15 02:14:27",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -670,13 +670,10 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-3-share-apt-kg/",
               "type": "share",
               "price": 459,
-              "left": 2,
-              "status": "available",
+              "left": null,
+              "status": "waitlist",
               "start": "",
-              "terms": {
-                "6个月": 509,
-                "12个月": 459
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 2 Share Apt",
@@ -753,13 +750,10 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/premium-corner-studio-apartment-fg/",
               "type": "studio",
               "price": 705,
-              "left": 1,
-              "status": "available",
+              "left": null,
+              "status": "waitlist",
               "start": "",
-              "terms": {
-                "6个月": 765,
-                "12个月": 705
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 2 Share Apt",
