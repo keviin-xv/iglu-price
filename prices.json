@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15 12:21:49",
+  "fetched_at": "2026-09-16 02:07:09",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -166,7 +166,7 @@
             },
             {
               "name": "Superior Studio Apartment",
-              "url": "https://iglu.com.au/rooms/sydney/central-park/superior-studio-apartment/",
+              "url": "https://iglu.com.au/rooms/sydney/central-park/superior-studio-apartment-cp/",
               "type": "studio",
               "price": 995,
               "left": null,
@@ -181,16 +181,13 @@
             },
             {
               "name": "Premium Studio Apartment",
-              "url": "https://iglu.com.au/rooms/sydney/central-park/premium-studio-apartment/",
+              "url": "https://iglu.com.au/rooms/sydney/central-park/premium-studio-apartment-cp/",
               "type": "studio",
               "price": 1015,
               "left": 5,
               "status": "available",
               "start": "",
-              "terms": {
-                "22周": 1075,
-                "44周": 1015
-              }
+              "terms": null
             },
             {
               "name": "Premium Corner Studio Apartment",
@@ -422,7 +419,7 @@
               "price": 725,
               "left": null,
               "status": "available",
-              "start": "1 February 2027",
+              "start": "",
               "terms": {
                 "22周": 785,
                 "44周": 725,
