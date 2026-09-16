@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16 02:07:09",
+  "fetched_at": "2026-09-16 08:11:55",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -12,14 +12,13 @@
               "url": "https://iglu.com.au/rooms/sydney/broadway/single-bedroom-6-share-apt-br/",
               "type": "share",
               "price": 795,
-              "left": 2,
+              "left": null,
               "status": "available",
-              "start": "25 September 2026",
+              "start": "28 September 2026",
               "terms": {
-                "12个月": 795,
                 "22周": 855,
                 "44周": 795,
-                "短租": 750
+                "短租": 670
               }
             },
             {
@@ -27,14 +26,13 @@
               "url": "https://iglu.com.au/rooms/sydney/broadway/single-bedroom-5-share-apt-br/",
               "type": "share",
               "price": 805,
-              "left": 3,
+              "left": null,
               "status": "available",
-              "start": "",
+              "start": "14 December 2026",
               "terms": {
-                "12个月": 805,
                 "22周": 865,
                 "44周": 805,
-                "短租": 760
+                "短租": 680
               }
             },
             {
@@ -42,14 +40,13 @@
               "url": "https://iglu.com.au/rooms/sydney/broadway/single-bedroom-4-share-apt-br/",
               "type": "share",
               "price": 805,
-              "left": 2,
+              "left": null,
               "status": "available",
-              "start": "",
+              "start": "7 October 2026",
               "terms": {
-                "12个月": 805,
                 "22周": 865,
                 "44周": 805,
-                "短租": 770
+                "短租": 690
               }
             },
             {
@@ -184,7 +181,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-studio-apartment-cp/",
               "type": "studio",
               "price": 1015,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "",
               "terms": null
@@ -330,7 +327,7 @@
               "url": "https://iglu.com.au/rooms/sydney/chatswood/premium-studio-apartment-ch/",
               "type": "studio",
               "price": 815,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "",
               "terms": {
