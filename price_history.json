@@ -43,9 +43,11 @@
     "44周": 785,
     "短租": 845
   },
-  "Central Park|Single Bedroom – 4 Share Apt": {},
+  "Central Park|Single Bedroom – 4 Share Apt": {
+    "22周": 905,
+    "短租": 925
+  },
   "Central Park|Standard Studio Apartment": {
-    "12个月": 915,
     "22周": 975,
     "44周": 915,
     "短租": 975
@@ -57,7 +59,11 @@
     "44周": 995,
     "短租": 1055
   },
-  "Central Park|Premium Studio Apartment": {},
+  "Central Park|Premium Studio Apartment": {
+    "22周": 1075,
+    "44周": 1015,
+    "短租": 1075
+  },
   "Chatswood|Single Bedroom – 6 Share Apt": {
     "12个月": 585,
     "22周": 645,
