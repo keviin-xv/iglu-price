@@ -293,7 +293,11 @@
     "22周": 965,
     "44周": 905
   },
-  "Central Park|Premium Corner Studio Apartment": {},
+  "Central Park|Premium Corner Studio Apartment": {
+    "22周": 1115,
+    "44周": 1055,
+    "短租": 1115
+  },
   "Central Park|Premium Single Room – 6 Share Apt": {
     "22周": 875,
     "44周": 815

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17 02:11:07",
+  "fetched_at": "2026-09-17 08:18:41",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -193,11 +193,15 @@
               "name": "Premium Corner Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-corner-studio-apartment-cp/",
               "type": "studio",
-              "price": 1055,
-              "left": null,
-              "status": "waitlist",
+              "price": 1115,
+              "left": 1,
+              "status": "available",
               "start": "",
-              "terms": null
+              "terms": {
+                "22周": 1115,
+                "44周": 1055,
+                "短租": 1115
+              }
             },
             {
               "name": "Single Bedroom – 6 Share Apt",
@@ -933,7 +937,7 @@
               "type": "studio",
               "price": 665,
               "left": null,
-              "status": "unavailable",
+              "status": "available",
               "start": "",
               "terms": {
                 "6个月": 725,
