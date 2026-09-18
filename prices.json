@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18 01:57:46",
+  "fetched_at": "2026-09-18 07:52:26",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -151,7 +151,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/standard-studio-apartment-cp/",
               "type": "studio",
               "price": 915,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "",
               "terms": {
@@ -307,15 +307,10 @@
               "url": "https://iglu.com.au/rooms/sydney/chatswood/standard-studio-apartment-ch/",
               "type": "studio",
               "price": 775,
-              "left": 1,
-              "status": "available",
+              "left": null,
+              "status": "waitlist",
               "start": "",
-              "terms": {
-                "12个月": 775,
-                "22周": 835,
-                "44周": 775,
-                "短租": 835
-              }
+              "terms": null
             },
             {
               "name": "Superior Studio Apartment",
@@ -673,52 +668,52 @@
               "name": "Single Bedroom – 6 Share Apt",
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-6-share-apt-kg/",
               "type": "share",
-              "price": 429,
+              "price": 399,
               "left": null,
               "status": "unavailable",
               "start": "",
               "terms": {
-                "6个月": 479,
-                "12个月": 429
+                "6个月": 449,
+                "12个月": 399
               }
             },
             {
               "name": "Single Bedroom – 5 Share Apt",
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-5-share-apt-kg/",
               "type": "share",
-              "price": 429,
+              "price": 399,
               "left": null,
               "status": "unavailable",
               "start": "",
               "terms": {
-                "6个月": 479,
-                "12个月": 429
+                "6个月": 449,
+                "12个月": 399
               }
             },
             {
               "name": "Single Bedroom – 3 Share Apt",
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-3-share-apt-kg/",
               "type": "share",
-              "price": 459,
+              "price": 449,
               "left": 3,
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 509,
-                "12个月": 459
+                "6个月": 499,
+                "12个月": 449
               }
             },
             {
               "name": "Single Bedroom – 2 Share Apt",
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-2-share-apt-kg/",
               "type": "share",
-              "price": 489,
+              "price": 479,
               "left": 5,
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 539,
-                "12个月": 489
+                "6个月": 529,
+                "12个月": 479
               }
             },
             {
@@ -783,10 +778,13 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/premium-corner-studio-apartment-fg/",
               "type": "studio",
               "price": 705,
-              "left": null,
-              "status": "waitlist",
-              "start": "",
-              "terms": null
+              "left": 1,
+              "status": "available",
+              "start": "28 September 2026",
+              "terms": {
+                "6个月": 765,
+                "12个月": 705
+              }
             },
             {
               "name": "Single Bedroom – 2 Share Apt",
