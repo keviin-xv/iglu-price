@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17 12:19:22",
+  "fetched_at": "2026-09-18 01:57:46",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -633,7 +633,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/brisbane-city/single-bedroom-5-share-apt-bc/",
               "type": "share",
               "price": 559,
-              "left": 2,
+              "left": 3,
               "status": "available",
               "start": "",
               "terms": {
@@ -713,7 +713,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-2-share-apt-kg/",
               "type": "share",
               "price": 489,
-              "left": 4,
+              "left": 5,
               "status": "available",
               "start": "",
               "terms": {
