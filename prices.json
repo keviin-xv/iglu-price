@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18 11:59:28",
+  "fetched_at": "2026-09-19 02:03:11",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -463,7 +463,7 @@
               "url": "https://iglu.com.au/rooms/sydney/redfern/standard-studio-apartment-re/",
               "type": "studio",
               "price": 865,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "1 February 2027",
               "terms": {
@@ -1007,7 +1007,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/south-yarra/single-bedroom-5-share-apt-sy/",
               "type": "share",
               "price": 565,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "",
               "terms": {
