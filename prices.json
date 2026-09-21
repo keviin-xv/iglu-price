@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-20 11:55:21",
+  "fetched_at": "2026-09-21 02:07:46",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -1004,7 +1004,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/south-yarra/single-bedroom-5-share-apt-sy/",
               "type": "share",
               "price": 565,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "",
               "terms": {
