@@ -121,9 +121,15 @@
     "44周": 725,
     "短租": 785
   },
-  "Redfern|Single Bedroom – 5 Share Apt": {},
+  "Redfern|Single Bedroom – 5 Share Apt": {
+    "22周": 815,
+    "44周": 755
+  },
   "Redfern|Single Bedroom – 4 Share Apt": {},
-  "Redfern|Single Studio Apartment": {},
+  "Redfern|Single Studio Apartment": {
+    "22周": 905,
+    "44周": 835
+  },
   "Redfern|Standard Studio Apartment": {
     "22周": 925,
     "44周": 865

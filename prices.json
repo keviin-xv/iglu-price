@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-21 02:07:46",
+  "fetched_at": "2026-09-21 08:29:11",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -56,7 +56,7 @@
               "price": 885,
               "left": null,
               "status": "available",
-              "start": "25 September 2026",
+              "start": "10 December 2026",
               "terms": {
                 "12个月": 885,
                 "22周": 945,
@@ -150,8 +150,8 @@
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/central-park/standard-studio-apartment-cp/",
               "type": "studio",
-              "price": 975,
-              "left": 3,
+              "price": 915,
+              "left": null,
               "status": "available",
               "start": "",
               "terms": {
@@ -383,7 +383,7 @@
               "price": 805,
               "left": null,
               "status": "available",
-              "start": "",
+              "start": "5 January 2027",
               "terms": {
                 "12个月": 805,
                 "22周": 865,
@@ -433,10 +433,13 @@
               "url": "https://iglu.com.au/rooms/sydney/redfern/single-bedroom-5-share-apt-re/",
               "type": "share",
               "price": 755,
-              "left": null,
-              "status": "unavailable",
-              "start": "",
-              "terms": null
+              "left": 1,
+              "status": "available",
+              "start": "1 February 2027",
+              "terms": {
+                "22周": 815,
+                "44周": 755
+              }
             },
             {
               "name": "Single Bedroom – 4 Share Apt",
@@ -452,18 +455,21 @@
               "name": "Single Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/redfern/single-studio-apartment-re/",
               "type": "studio",
-              "price": 845,
-              "left": null,
-              "status": "unavailable",
-              "start": "",
-              "terms": null
+              "price": 835,
+              "left": 1,
+              "status": "available",
+              "start": "1 February 2027",
+              "terms": {
+                "22周": 905,
+                "44周": 835
+              }
             },
             {
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/redfern/standard-studio-apartment-re/",
               "type": "studio",
               "price": 865,
-              "left": 5,
+              "left": null,
               "status": "available",
               "start": "1 February 2027",
               "terms": {
@@ -695,7 +701,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-3-share-apt-kg/",
               "type": "share",
               "price": 449,
-              "left": 3,
+              "left": 2,
               "status": "available",
               "start": "",
               "terms": {
