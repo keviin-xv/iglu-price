@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-21 08:29:11",
+  "fetched_at": "2026-09-21 13:28:58",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -456,9 +456,9 @@
               "url": "https://iglu.com.au/rooms/sydney/redfern/single-studio-apartment-re/",
               "type": "studio",
               "price": 835,
-              "left": 1,
-              "status": "available",
-              "start": "1 February 2027",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": {
                 "22周": 905,
                 "44周": 835
