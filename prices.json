@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-22 08:09:48",
+  "fetched_at": "2026-09-22 12:13:25",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -183,7 +183,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-studio-apartment/",
               "type": "studio",
               "price": 1075,
-              "left": 2,
+              "left": 1,
               "status": "available",
               "start": "",
               "terms": {
@@ -266,7 +266,7 @@
               "url": "https://iglu.com.au/rooms/sydney/chatswood/single-bedroom-6-share-apt-ch/",
               "type": "share",
               "price": 585,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "9 December 2026",
               "terms": {
@@ -705,13 +705,10 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-3-share-apt-kg/",
               "type": "share",
               "price": 449,
-              "left": 1,
-              "status": "available",
+              "left": null,
+              "status": "waitlist",
               "start": "",
-              "terms": {
-                "6个月": 499,
-                "12个月": 449
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 2 Share Apt",
