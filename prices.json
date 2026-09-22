@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-22 02:13:24",
+  "fetched_at": "2026-09-22 08:09:48",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -68,7 +68,7 @@
               "name": "Superior Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/broadway/superior-studio-apartment-br/",
               "type": "studio",
-              "price": 1005,
+              "price": 1025,
               "left": null,
               "status": "waitlist",
               "start": "",
@@ -79,10 +79,13 @@
               "url": "https://iglu.com.au/rooms/sydney/broadway/premium-studio-apartment-br/",
               "type": "studio",
               "price": 1035,
-              "left": null,
-              "status": "waitlist",
-              "start": "",
-              "terms": null
+              "left": 2,
+              "status": "available",
+              "start": "4 January 2027",
+              "terms": {
+                "22周": 1095,
+                "44周": 1035
+              }
             }
           ]
         },
@@ -179,8 +182,8 @@
               "name": "Premium Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-studio-apartment/",
               "type": "studio",
-              "price": 1015,
-              "left": 3,
+              "price": 1075,
+              "left": 2,
               "status": "available",
               "start": "",
               "terms": {
@@ -354,7 +357,7 @@
               "price": 685,
               "left": null,
               "status": "available",
-              "start": "5 January 2027",
+              "start": "",
               "terms": {
                 "22周": 745,
                 "44周": 685,
@@ -541,10 +544,14 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/standard-studio-apartment-wa/",
               "type": "studio",
               "price": 825,
-              "left": null,
-              "status": "waitlist",
+              "left": 2,
+              "status": "available",
               "start": "",
-              "terms": null
+              "terms": {
+                "12个月": 825,
+                "22周": 885,
+                "44周": 825
+              }
             },
             {
               "name": "Superior Studio Apartment",
@@ -698,7 +705,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-3-share-apt-kg/",
               "type": "share",
               "price": 449,
-              "left": 2,
+              "left": 1,
               "status": "available",
               "start": "",
               "terms": {
@@ -781,10 +788,13 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/premium-corner-studio-apartment-fg/",
               "type": "studio",
               "price": 705,
-              "left": null,
-              "status": "waitlist",
+              "left": 2,
+              "status": "available",
               "start": "",
-              "terms": null
+              "terms": {
+                "6个月": 765,
+                "12个月": 705
+              }
             },
             {
               "name": "Single Bedroom – 2 Share Apt",
@@ -847,7 +857,7 @@
               "name": "Premium Corner Studio Apartment",
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-station/premium-studio-apartment-cnr-fs/",
               "type": "studio",
-              "price": 735,
+              "price": 745,
               "left": null,
               "status": "waitlist",
               "start": "",

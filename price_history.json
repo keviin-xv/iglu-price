@@ -21,7 +21,10 @@
     "短租": 800
   },
   "Broadway|Superior Studio Apartment": {},
-  "Broadway|Premium Studio Apartment": {},
+  "Broadway|Premium Studio Apartment": {
+    "22周": 1095,
+    "44周": 1035
+  },
   "Central|Single Bedroom – Share Bathroom": {
     "22周": 795,
     "44周": 735,
@@ -147,7 +150,11 @@
     "短租": 815
   },
   "Waterloo|Single Bedroom – 2 Share Apt": {},
-  "Waterloo|Standard Studio Apartment": {},
+  "Waterloo|Standard Studio Apartment": {
+    "12个月": 825,
+    "22周": 885,
+    "44周": 825
+  },
   "Waterloo|Superior Studio Apartment": {
     "12个月": 845,
     "22周": 905,
@@ -212,7 +219,10 @@
     "6个月": 725,
     "12个月": 665
   },
-  "Flagstaff Gardens|Premium Corner Studio Apartment": {},
+  "Flagstaff Gardens|Premium Corner Studio Apartment": {
+    "6个月": 765,
+    "12个月": 705
+  },
   "Flagstaff Station|Single Bedroom – 2 Share Apt": {
     "6个月": 595,
     "12个月": 535
