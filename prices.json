@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-21 13:28:58",
+  "fetched_at": "2026-09-22 02:13:24",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -96,7 +96,7 @@
               "price": 735,
               "left": null,
               "status": "available",
-              "start": "22 September 2026",
+              "start": "",
               "terms": {
                 "22周": 795,
                 "44周": 735,
@@ -180,7 +180,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-studio-apartment/",
               "type": "studio",
               "price": 1015,
-              "left": 4,
+              "left": 3,
               "status": "available",
               "start": "",
               "terms": {
@@ -354,7 +354,7 @@
               "price": 685,
               "left": null,
               "status": "available",
-              "start": "",
+              "start": "5 January 2027",
               "terms": {
                 "22周": 745,
                 "44周": 685,
@@ -459,10 +459,7 @@
               "left": null,
               "status": "waitlist",
               "start": "",
-              "terms": {
-                "22周": 905,
-                "44周": 835
-              }
+              "terms": null
             },
             {
               "name": "Standard Studio Apartment",
