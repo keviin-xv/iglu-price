@@ -138,12 +138,11 @@
     "44周": 945
   },
   "Summer Hill|Standard Studio Apartment": {
-    "12个月": 735,
     "22周": 795,
-    "44周": 735
+    "44周": 735,
+    "短租": 795
   },
   "Summer Hill|Premium Studio Apartment": {
-    "12个月": 755,
     "22周": 815,
     "44周": 755,
     "短租": 815
@@ -235,7 +234,11 @@
     "6个月": 755,
     "12个月": 695
   },
-  "Flagstaff Station|Premium Corner Studio Apartment": {},
+  "Flagstaff Station|Premium Corner Studio Apartment": {
+    "6个月": 805,
+    "12个月": 745,
+    "短租": 805
+  },
   "Melbourne Central|Standard Studio Apartment": {
     "6个月": 695,
     "12个月": 635
