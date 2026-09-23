@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-23 08:11:55",
+  "fetched_at": "2026-09-23 12:26:34",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -224,8 +224,8 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-single-room-6-share-cp/",
               "type": "share",
               "price": 815,
-              "left": null,
-              "status": "unavailable",
+              "left": 4,
+              "status": "available",
               "start": "",
               "terms": {
                 "22周": 875,
