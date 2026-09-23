@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-22 12:13:25",
+  "fetched_at": "2026-09-23 02:13:13",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -172,7 +172,6 @@
               "status": "available",
               "start": "",
               "terms": {
-                "12个月": 995,
                 "22周": 1055,
                 "44周": 995,
                 "短租": 1055
@@ -183,7 +182,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-studio-apartment/",
               "type": "studio",
               "price": 1075,
-              "left": 1,
+              "left": 2,
               "status": "available",
               "start": "",
               "terms": {
@@ -295,8 +294,8 @@
               "url": "https://iglu.com.au/rooms/sydney/chatswood/single-bedroom-4-share-apt-ch/",
               "type": "share",
               "price": 625,
-              "left": null,
-              "status": "unavailable",
+              "left": 5,
+              "status": "available",
               "start": "",
               "terms": {
                 "12个月": 625,
@@ -412,7 +411,47 @@
         },
         {
           "name": "Mascot Duo",
-          "rooms": []
+          "rooms": [
+            {
+              "name": "Standard Studio Apartment",
+              "url": "https://iglu.com.au/rooms/sydney/mascot-duo/standard-studio-apartment-md/",
+              "type": "studio",
+              "price": 795,
+              "left": null,
+              "status": "available",
+              "start": "5 January 2027",
+              "terms": {
+                "22周": 855,
+                "44周": 795
+              }
+            },
+            {
+              "name": "Superior Studio Apartment",
+              "url": "https://iglu.com.au/rooms/sydney/mascot-duo/superior-studio-apartment-md/",
+              "type": "studio",
+              "price": 815,
+              "left": null,
+              "status": "available",
+              "start": "5 January 2027",
+              "terms": {
+                "22周": 875,
+                "44周": 815
+              }
+            },
+            {
+              "name": "Premium Studio Apartment",
+              "url": "https://iglu.com.au/rooms/sydney/mascot-duo/premium-studio-apartment-md/",
+              "type": "studio",
+              "price": 835,
+              "left": null,
+              "status": "available",
+              "start": "5 January 2027",
+              "terms": {
+                "22周": 895,
+                "44周": 835
+              }
+            }
+          ]
         },
         {
           "name": "Redfern",
@@ -535,17 +574,21 @@
               "type": "share",
               "price": 685,
               "left": null,
-              "status": "waitlist",
+              "status": "unavailable",
               "start": "",
-              "terms": null
+              "terms": {
+                "12个月": 685,
+                "22周": 745,
+                "44周": 685
+              }
             },
             {
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/waterloo/standard-studio-apartment-wa/",
               "type": "studio",
               "price": 825,
-              "left": 2,
-              "status": "available",
+              "left": null,
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "12个月": 825,

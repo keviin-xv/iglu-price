@@ -57,7 +57,6 @@
   },
   "Central Park|Single Bedroom – 3 Share Apt": {},
   "Central Park|Superior Studio Apartment": {
-    "12个月": 995,
     "22周": 1055,
     "44周": 995,
     "短租": 1055
@@ -149,7 +148,11 @@
     "44周": 755,
     "短租": 815
   },
-  "Waterloo|Single Bedroom – 2 Share Apt": {},
+  "Waterloo|Single Bedroom – 2 Share Apt": {
+    "12个月": 685,
+    "22周": 745,
+    "44周": 685
+  },
   "Waterloo|Standard Studio Apartment": {
     "12个月": 825,
     "22周": 885,
@@ -306,5 +309,17 @@
   "Central Park|Premium Single Room – 6 Share Apt": {
     "22周": 875,
     "44周": 815
+  },
+  "Mascot Duo|Standard Studio Apartment": {
+    "22周": 855,
+    "44周": 795
+  },
+  "Mascot Duo|Superior Studio Apartment": {
+    "22周": 875,
+    "44周": 815
+  },
+  "Mascot Duo|Premium Studio Apartment": {
+    "22周": 895,
+    "44周": 835
   }
 }
