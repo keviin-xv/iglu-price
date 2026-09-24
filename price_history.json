@@ -18,7 +18,7 @@
     "12个月": 885,
     "22周": 945,
     "44周": 885,
-    "短租": 800
+    "短租": 750
   },
   "Broadway|Superior Studio Apartment": {},
   "Broadway|Premium Studio Apartment": {
@@ -195,10 +195,7 @@
     "12个月": 399
   },
   "Kelvin Grove|Single Bedroom – 3 Share Apt": {},
-  "Kelvin Grove|Single Bedroom – 2 Share Apt": {
-    "6个月": 529,
-    "12个月": 479
-  },
+  "Kelvin Grove|Single Bedroom – 2 Share Apt": {},
   "Kelvin Grove|1 Bedroom Apartment": {},
   "Flagstaff Gardens|Single Bedroom – 2 Share Apt": {
     "6个月": 575,
