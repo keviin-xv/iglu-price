@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-24 08:03:13",
+  "fetched_at": "2026-09-24 12:25:25",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -354,7 +354,7 @@
               "url": "https://iglu.com.au/rooms/sydney/mascot/single-bedroom-6-share-apt-ma/",
               "type": "share",
               "price": 685,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "",
               "terms": {
@@ -824,7 +824,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/premium-corner-studio-apartment-fg/",
               "type": "studio",
               "price": 705,
-              "left": 1,
+              "left": 2,
               "status": "available",
               "start": "",
               "terms": {
