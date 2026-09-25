@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25 02:16:25",
+  "fetched_at": "2026-09-25 08:27:58",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -652,14 +652,14 @@
               "name": "Single Bedroom – Share Bathroom",
               "url": "https://iglu.com.au/rooms/brisbane/brisbane-city/student-room-shared-bathroom-bc/",
               "type": "share",
-              "price": 449,
+              "price": 429,
               "left": null,
               "status": "available",
               "start": "",
               "terms": {
-                "6个月": 499,
-                "12个月": 449,
-                "短租": 499
+                "6个月": 479,
+                "12个月": 429,
+                "短租": 479
               }
             },
             {
@@ -1043,8 +1043,8 @@
               "url": "https://iglu.com.au/rooms/melbourne/south-yarra/premium-single-bedroom-5-share-apt-sy/",
               "type": "share",
               "price": 585,
-              "left": null,
-              "status": "unavailable",
+              "left": 5,
+              "status": "available",
               "start": "",
               "terms": {
                 "6个月": 645,
