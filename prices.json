@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-26 02:21:55",
+  "fetched_at": "2026-09-26 08:14:42",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -265,7 +265,7 @@
               "url": "https://iglu.com.au/rooms/sydney/chatswood/single-bedroom-6-share-apt-ch/",
               "type": "share",
               "price": 585,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "9 December 2026",
               "terms": {
