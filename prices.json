@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-26 08:14:42",
+  "fetched_at": "2026-09-26 11:57:04",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -478,10 +478,7 @@
               "left": 1,
               "status": "available",
               "start": "1 February 2027",
-              "terms": {
-                "22周": 815,
-                "44周": 755
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 4 Share Apt",
@@ -1072,7 +1069,7 @@
               "type": "studio",
               "price": 665,
               "left": null,
-              "status": "available",
+              "status": "unavailable",
               "start": "",
               "terms": {
                 "6个月": 725,
