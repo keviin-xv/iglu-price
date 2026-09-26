@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25 12:25:29",
+  "fetched_at": "2026-09-26 02:21:55",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -135,7 +135,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central/standard-studio-apartment-ce/",
               "type": "studio",
               "price": 800,
-              "left": 2,
+              "left": 1,
               "status": "available",
               "start": "30 November 2026",
               "terms": {
@@ -680,7 +680,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/brisbane-city/single-bedroom-5-share-apt-bc/",
               "type": "share",
               "price": 559,
-              "left": 2,
+              "left": 3,
               "status": "available",
               "start": "",
               "terms": {
