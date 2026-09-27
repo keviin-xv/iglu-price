@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27 02:17:10",
+  "fetched_at": "2026-09-27 08:54:10",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -261,7 +261,7 @@
               "url": "https://iglu.com.au/rooms/sydney/chatswood/single-bedroom-6-share-apt-ch/",
               "type": "share",
               "price": 585,
-              "left": 4,
+              "left": 3,
               "status": "available",
               "start": "9 December 2026",
               "terms": {
@@ -350,9 +350,9 @@
               "url": "https://iglu.com.au/rooms/sydney/mascot/single-bedroom-6-share-apt-ma/",
               "type": "share",
               "price": 685,
-              "left": 5,
+              "left": null,
               "status": "available",
-              "start": "5 January 2027",
+              "start": "",
               "terms": {
                 "22周": 745,
                 "44周": 685,
