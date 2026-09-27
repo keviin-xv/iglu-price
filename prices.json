@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27 08:54:10",
+  "fetched_at": "2026-09-27 12:37:39",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -125,10 +125,13 @@
               "url": "https://iglu.com.au/rooms/sydney/central/single-bedroom-5-share-apt-ce/",
               "type": "share",
               "price": 815,
-              "left": null,
-              "status": "unavailable",
-              "start": "",
-              "terms": null
+              "left": 5,
+              "status": "available",
+              "start": "1 January 2027",
+              "terms": {
+                "22周": 875,
+                "44周": 815
+              }
             },
             {
               "name": "Standard Studio Apartment",

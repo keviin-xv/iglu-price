@@ -40,7 +40,10 @@
     "44周": 865,
     "短租": 800
   },
-  "Central|Single Bedroom – 5 Share Apt": {},
+  "Central|Single Bedroom – 5 Share Apt": {
+    "22周": 875,
+    "44周": 815
+  },
   "Central Park|Single Bedroom – 6 Share Apt": {
     "22周": 845,
     "44周": 785,
