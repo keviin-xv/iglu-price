@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-26 11:57:04",
+  "fetched_at": "2026-09-27 02:17:10",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -195,15 +195,11 @@
               "name": "Premium Corner Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-corner-studio-apartment-cp/",
               "type": "studio",
-              "price": 1115,
-              "left": 1,
-              "status": "available",
+              "price": 1055,
+              "left": null,
+              "status": "waitlist",
               "start": "",
-              "terms": {
-                "22周": 1115,
-                "44周": 1055,
-                "短租": 1115
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 6 Share Apt",
@@ -354,9 +350,9 @@
               "url": "https://iglu.com.au/rooms/sydney/mascot/single-bedroom-6-share-apt-ma/",
               "type": "share",
               "price": 685,
-              "left": null,
+              "left": 5,
               "status": "available",
-              "start": "",
+              "start": "5 January 2027",
               "terms": {
                 "22周": 745,
                 "44周": 685,
@@ -475,9 +471,9 @@
               "url": "https://iglu.com.au/rooms/sydney/redfern/single-bedroom-5-share-apt-re/",
               "type": "share",
               "price": 755,
-              "left": 1,
-              "status": "available",
-              "start": "1 February 2027",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
@@ -1069,7 +1065,7 @@
               "type": "studio",
               "price": 665,
               "left": null,
-              "status": "unavailable",
+              "status": "available",
               "start": "",
               "terms": {
                 "6个月": 725,
