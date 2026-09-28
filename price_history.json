@@ -1,321 +1,79 @@
 {
-  "Broadway|Single Bedroom – 6 Share Apt": {
-    "22周": 855,
-    "44周": 795,
-    "短租": 670
-  },
-  "Broadway|Single Bedroom – 5 Share Apt": {
-    "22周": 865,
-    "44周": 805,
-    "短租": 680
-  },
-  "Broadway|Single Bedroom – 4 Share Apt": {
-    "22周": 865,
-    "44周": 805,
-    "短租": 690
-  },
-  "Broadway|Standard Studio Apartment": {
-    "12个月": 885,
-    "22周": 945,
-    "44周": 885,
-    "短租": 750
-  },
+  "Broadway|Single Bedroom – 6 Share Apt": {},
+  "Broadway|Single Bedroom – 5 Share Apt": {},
+  "Broadway|Single Bedroom – 4 Share Apt": {},
+  "Broadway|Standard Studio Apartment": {},
   "Broadway|Superior Studio Apartment": {},
-  "Broadway|Premium Studio Apartment": {
-    "22周": 1095,
-    "44周": 1035
-  },
-  "Central|Single Bedroom – Share Bathroom": {
-    "22周": 795,
-    "44周": 735,
-    "短租": 600
-  },
-  "Central|Single Bedroom – 6 Share Apt": {
-    "22周": 835,
-    "44周": 775,
-    "短租": 650
-  },
-  "Central|Standard Studio Apartment": {
-    "22周": 925,
-    "44周": 865,
-    "短租": 800
-  },
-  "Central|Single Bedroom – 5 Share Apt": {
-    "22周": 875,
-    "44周": 815
-  },
-  "Central Park|Single Bedroom – 6 Share Apt": {
-    "22周": 845,
-    "44周": 785,
-    "短租": 845
-  },
-  "Central Park|Single Bedroom – 4 Share Apt": {
-    "22周": 905,
-    "短租": 925
-  },
-  "Central Park|Standard Studio Apartment": {
-    "22周": 975,
-    "44周": 915,
-    "短租": 975
-  },
+  "Broadway|Premium Studio Apartment": {},
+  "Central|Single Bedroom – Share Bathroom": {},
+  "Central|Single Bedroom – 6 Share Apt": {},
+  "Central|Standard Studio Apartment": {},
+  "Central|Single Bedroom – 5 Share Apt": {},
+  "Central Park|Single Bedroom – 6 Share Apt": {},
+  "Central Park|Single Bedroom – 4 Share Apt": {},
+  "Central Park|Standard Studio Apartment": {},
   "Central Park|Single Bedroom – 3 Share Apt": {},
-  "Central Park|Superior Studio Apartment": {
-    "22周": 1055,
-    "44周": 995,
-    "短租": 1055
-  },
-  "Central Park|Premium Studio Apartment": {
-    "22周": 1075,
-    "44周": 1015,
-    "短租": 1075
-  },
-  "Chatswood|Single Bedroom – 6 Share Apt": {
-    "12个月": 585,
-    "22周": 645,
-    "44周": 585
-  },
-  "Chatswood|Single Bedroom – 5 Share Apt": {
-    "12个月": 605,
-    "22周": 665,
-    "44周": 605,
-    "短租": 665
-  },
-  "Chatswood|Single Bedroom – 4 Share Apt": {
-    "12个月": 625,
-    "22周": 685,
-    "44周": 625,
-    "短租": 685
-  },
+  "Central Park|Superior Studio Apartment": {},
+  "Central Park|Premium Studio Apartment": {},
+  "Chatswood|Single Bedroom – 6 Share Apt": {},
+  "Chatswood|Single Bedroom – 5 Share Apt": {},
+  "Chatswood|Single Bedroom – 4 Share Apt": {},
   "Chatswood|Standard Studio Apartment": {},
-  "Chatswood|Superior Studio Apartment": {
-    "12个月": 785,
-    "22周": 845,
-    "44周": 785,
-    "短租": 845
-  },
-  "Chatswood|Premium Studio Apartment": {
-    "12个月": 815,
-    "22周": 875,
-    "44周": 815,
-    "短租": 875
-  },
-  "Mascot|Single Bedroom – 6 Share Apt": {
-    "22周": 745,
-    "44周": 685,
-    "短租": 745
-  },
-  "Mascot|Premium Single Room – 6 Share": {
-    "12个月": 705,
-    "22周": 765,
-    "44周": 705,
-    "短租": 765
-  },
-  "Mascot|Standard Studio Apartment": {
-    "12个月": 805,
-    "22周": 865,
-    "44周": 805,
-    "短租": 865
-  },
-  "Mascot|Premium Studio Apartment": {
-    "12个月": 825,
-    "22周": 885,
-    "44周": 825
-  },
-  "Redfern|Single Bedroom – 6 Share Apt": {
-    "22周": 785,
-    "44周": 725,
-    "短租": 785
-  },
+  "Chatswood|Superior Studio Apartment": {},
+  "Chatswood|Premium Studio Apartment": {},
+  "Mascot|Single Bedroom – 6 Share Apt": {},
+  "Mascot|Premium Single Room – 6 Share": {},
+  "Mascot|Standard Studio Apartment": {},
+  "Mascot|Premium Studio Apartment": {},
+  "Redfern|Single Bedroom – 6 Share Apt": {},
   "Redfern|Single Bedroom – 5 Share Apt": {},
   "Redfern|Single Bedroom – 4 Share Apt": {},
   "Redfern|Single Studio Apartment": {},
-  "Redfern|Standard Studio Apartment": {
-    "22周": 925,
-    "44周": 865
-  },
-  "Redfern|Premium Studio Apartment": {
-    "22周": 1005,
-    "44周": 945
-  },
-  "Summer Hill|Standard Studio Apartment": {
-    "22周": 795,
-    "44周": 735,
-    "短租": 795
-  },
-  "Summer Hill|Premium Studio Apartment": {
-    "22周": 815,
-    "44周": 755,
-    "短租": 815
-  },
-  "Waterloo|Single Bedroom – 2 Share Apt": {
-    "12个月": 685,
-    "22周": 745,
-    "44周": 685
-  },
-  "Waterloo|Standard Studio Apartment": {
-    "12个月": 825,
-    "22周": 885,
-    "44周": 825
-  },
-  "Waterloo|Superior Studio Apartment": {
-    "12个月": 845,
-    "22周": 905,
-    "44周": 845,
-    "短租": 905
-  },
-  "Waterloo|Premium Studio Apartment": {
-    "22周": 925,
-    "44周": 865,
-    "短租": 925
-  },
-  "Brisbane City|Single Bedroom – Share Bathroom": {
-    "6个月": 479,
-    "12个月": 429,
-    "短租": 479
-  },
-  "Brisbane City|Single Bedroom – 6 Share Apt": {
-    "6个月": 589,
-    "12个月": 539
-  },
-  "Brisbane City|Single Bedroom – 5 Share Apt": {
-    "6个月": 609,
-    "12个月": 559
-  },
-  "Brisbane City|Standard Studio Apartment": {
-    "6个月": 789,
-    "12个月": 739
-  },
+  "Redfern|Standard Studio Apartment": {},
+  "Redfern|Premium Studio Apartment": {},
+  "Summer Hill|Standard Studio Apartment": {},
+  "Summer Hill|Premium Studio Apartment": {},
+  "Waterloo|Single Bedroom – 2 Share Apt": {},
+  "Waterloo|Standard Studio Apartment": {},
+  "Waterloo|Superior Studio Apartment": {},
+  "Waterloo|Premium Studio Apartment": {},
+  "Brisbane City|Single Bedroom – Share Bathroom": {},
+  "Brisbane City|Single Bedroom – 6 Share Apt": {},
+  "Brisbane City|Single Bedroom – 5 Share Apt": {},
+  "Brisbane City|Standard Studio Apartment": {},
   "Brisbane City|Premium Studio Apartment": {},
-  "Kelvin Grove|Single Bedroom – 6 Share Apt": {
-    "6个月": 449,
-    "12个月": 399
-  },
-  "Kelvin Grove|Single Bedroom – 5 Share Apt": {
-    "6个月": 449,
-    "12个月": 399
-  },
+  "Kelvin Grove|Single Bedroom – 6 Share Apt": {},
+  "Kelvin Grove|Single Bedroom – 5 Share Apt": {},
   "Kelvin Grove|Single Bedroom – 3 Share Apt": {},
   "Kelvin Grove|Single Bedroom – 2 Share Apt": {},
   "Kelvin Grove|1 Bedroom Apartment": {},
-  "Flagstaff Gardens|Single Bedroom – 2 Share Apt": {
-    "6个月": 575,
-    "12个月": 515
-  },
-  "Flagstaff Gardens|Premium Single Bedroom – 2 Share": {
-    "6个月": 675,
-    "12个月": 615
-  },
+  "Flagstaff Gardens|Single Bedroom – 2 Share Apt": {},
+  "Flagstaff Gardens|Premium Single Bedroom – 2 Share": {},
   "Flagstaff Gardens|Single Studio Apartment": {},
-  "Flagstaff Gardens|Standard Studio Apartment": {
-    "6个月": 695,
-    "12个月": 635,
-    "短租": 695
-  },
-  "Flagstaff Gardens|Premium Studio Apartment": {
-    "6个月": 725,
-    "12个月": 665
-  },
-  "Flagstaff Gardens|Premium Corner Studio Apartment": {
-    "6个月": 765,
-    "12个月": 705
-  },
-  "Flagstaff Station|Single Bedroom – 2 Share Apt": {
-    "6个月": 595,
-    "12个月": 535
-  },
-  "Flagstaff Station|Standard Studio Apartment": {
-    "6个月": 725,
-    "12个月": 665
-  },
-  "Flagstaff Station|Premium Studio Apartment": {
-    "6个月": 755,
-    "12个月": 695
-  },
-  "Flagstaff Station|Premium Corner Studio Apartment": {
-    "6个月": 805,
-    "12个月": 745,
-    "短租": 805
-  },
-  "Melbourne Central|Standard Studio Apartment": {
-    "6个月": 695,
-    "12个月": 635
-  },
-  "Melbourne Central|Premium Studio Apartment": {
-    "6个月": 725,
-    "12个月": 665,
-    "短租": 725
-  },
-  "Melbourne City|Single Bedroom – 6 Share Apt": {
-    "6个月": 575,
-    "12个月": 515
-  },
-  "Melbourne City|Single Bedroom – 5 Share Apt": {
-    "6个月": 585,
-    "12个月": 525
-  },
-  "Melbourne City|Standard Studio Apartment": {
-    "6个月": 725,
-    "12个月": 665,
-    "短租": 725
-  },
-  "Melbourne City|Premium Studio Apartment": {
-    "6个月": 765,
-    "12个月": 705
-  },
-  "South Yarra|Single Bedroom – 6 Share Apt": {
-    "6个月": 615,
-    "12个月": 555,
-    "短租": 615
-  },
-  "South Yarra|Single Bedroom – 5 Share Apt": {
-    "6个月": 625,
-    "12个月": 565,
-    "短租": 625
-  },
-  "South Yarra|Premium Single Bedroom – 6 Share": {
-    "6个月": 635,
-    "12个月": 575
-  },
-  "South Yarra|Premium Single Bedroom – 5 Share": {
-    "6个月": 645,
-    "12个月": 585,
-    "短租": 645
-  },
-  "South Yarra|Single Studio Apartment": {
-    "6个月": 725,
-    "12个月": 665,
-    "短租": 725
-  },
-  "South Yarra|Standard Studio Apartment": {
-    "6个月": 745,
-    "12个月": 685,
-    "短租": 745
-  },
-  "South Yarra|Premium Studio Apartment": {
-    "6个月": 775,
-    "12个月": 715,
-    "短租": 775
-  },
-  "Waterloo|Premium Corner Studio Apartment": {
-    "12个月": 865,
-    "22周": 965,
-    "44周": 905
-  },
+  "Flagstaff Gardens|Standard Studio Apartment": {},
+  "Flagstaff Gardens|Premium Studio Apartment": {},
+  "Flagstaff Gardens|Premium Corner Studio Apartment": {},
+  "Flagstaff Station|Single Bedroom – 2 Share Apt": {},
+  "Flagstaff Station|Standard Studio Apartment": {},
+  "Flagstaff Station|Premium Studio Apartment": {},
+  "Flagstaff Station|Premium Corner Studio Apartment": {},
+  "Melbourne Central|Standard Studio Apartment": {},
+  "Melbourne Central|Premium Studio Apartment": {},
+  "Melbourne City|Single Bedroom – 6 Share Apt": {},
+  "Melbourne City|Single Bedroom – 5 Share Apt": {},
+  "Melbourne City|Standard Studio Apartment": {},
+  "Melbourne City|Premium Studio Apartment": {},
+  "South Yarra|Single Bedroom – 6 Share Apt": {},
+  "South Yarra|Single Bedroom – 5 Share Apt": {},
+  "South Yarra|Premium Single Bedroom – 6 Share": {},
+  "South Yarra|Premium Single Bedroom – 5 Share": {},
+  "South Yarra|Single Studio Apartment": {},
+  "South Yarra|Standard Studio Apartment": {},
+  "South Yarra|Premium Studio Apartment": {},
+  "Waterloo|Premium Corner Studio Apartment": {},
   "Central Park|Premium Corner Studio Apartment": {},
-  "Central Park|Premium Single Room – 6 Share Apt": {
-    "22周": 875,
-    "44周": 815
-  },
-  "Mascot Duo|Standard Studio Apartment": {
-    "22周": 855,
-    "44周": 795
-  },
-  "Mascot Duo|Superior Studio Apartment": {
-    "22周": 875,
-    "44周": 815
-  },
-  "Mascot Duo|Premium Studio Apartment": {
-    "22周": 895,
-    "44周": 835
-  }
+  "Central Park|Premium Single Room – 6 Share Apt": {},
+  "Mascot Duo|Standard Studio Apartment": {},
+  "Mascot Duo|Superior Studio Apartment": {},
+  "Mascot Duo|Premium Studio Apartment": {}
 }

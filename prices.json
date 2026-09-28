@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27 12:37:39",
+  "fetched_at": "2026-09-28 02:23:25",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -14,12 +14,8 @@
               "price": 795,
               "left": null,
               "status": "available",
-              "start": "28 September 2026",
-              "terms": {
-                "22周": 855,
-                "44周": 795,
-                "短租": 670
-              }
+              "start": "14 December 2026",
+              "terms": null
             },
             {
               "name": "Single Bedroom – 5 Share Apt",
@@ -29,11 +25,7 @@
               "left": null,
               "status": "available",
               "start": "14 December 2026",
-              "terms": {
-                "22周": 865,
-                "44周": 805,
-                "短租": 680
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 4 Share Apt",
@@ -43,11 +35,7 @@
               "left": null,
               "status": "available",
               "start": "7 October 2026",
-              "terms": {
-                "22周": 865,
-                "44周": 805,
-                "短租": 690
-              }
+              "terms": null
             },
             {
               "name": "Standard Studio Apartment",
@@ -57,12 +45,7 @@
               "left": null,
               "status": "available",
               "start": "5 October 2026",
-              "terms": {
-                "12个月": 885,
-                "22周": 945,
-                "44周": 885,
-                "短租": 750
-              }
+              "terms": null
             },
             {
               "name": "Superior Studio Apartment",
@@ -82,10 +65,7 @@
               "left": 1,
               "status": "available",
               "start": "4 January 2027",
-              "terms": {
-                "22周": 1095,
-                "44周": 1035
-              }
+              "terms": null
             }
           ]
         },
@@ -100,11 +80,7 @@
               "left": null,
               "status": "available",
               "start": "6 December 2026",
-              "terms": {
-                "22周": 795,
-                "44周": 735,
-                "短租": 600
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 6 Share Apt",
@@ -114,11 +90,7 @@
               "left": null,
               "status": "available",
               "start": "6 December 2026",
-              "terms": {
-                "22周": 835,
-                "44周": 775,
-                "短租": 650
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 5 Share Apt",
@@ -128,10 +100,7 @@
               "left": 5,
               "status": "available",
               "start": "1 January 2027",
-              "terms": {
-                "22周": 875,
-                "44周": 815
-              }
+              "terms": null
             },
             {
               "name": "Standard Studio Apartment",
@@ -141,11 +110,7 @@
               "left": 1,
               "status": "available",
               "start": "30 November 2026",
-              "terms": {
-                "22周": 925,
-                "44周": 865,
-                "短租": 800
-              }
+              "terms": null
             }
           ]
         },
@@ -160,11 +125,7 @@
               "left": null,
               "status": "available",
               "start": "",
-              "terms": {
-                "22周": 975,
-                "44周": 915,
-                "短租": 975
-              }
+              "terms": null
             },
             {
               "name": "Superior Studio Apartment",
@@ -174,11 +135,7 @@
               "left": null,
               "status": "available",
               "start": "",
-              "terms": {
-                "22周": 1055,
-                "44周": 995,
-                "短租": 1055
-              }
+              "terms": null
             },
             {
               "name": "Premium Studio Apartment",
@@ -188,11 +145,7 @@
               "left": 1,
               "status": "available",
               "start": "",
-              "terms": {
-                "22周": 1075,
-                "44周": 1015,
-                "短租": 1075
-              }
+              "terms": null
             },
             {
               "name": "Premium Corner Studio Apartment",
@@ -212,11 +165,7 @@
               "left": null,
               "status": "available",
               "start": "",
-              "terms": {
-                "22周": 845,
-                "44周": 785,
-                "短租": 845
-              }
+              "terms": null
             },
             {
               "name": "Premium Single Room – 6 Share Apt",
@@ -226,10 +175,7 @@
               "left": 4,
               "status": "available",
               "start": "",
-              "terms": {
-                "22周": 875,
-                "44周": 815
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 4 Share Apt",
@@ -239,10 +185,7 @@
               "left": 1,
               "status": "available",
               "start": "",
-              "terms": {
-                "22周": 905,
-                "短租": 925
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 3 Share Apt",
@@ -250,7 +193,7 @@
               "type": "share",
               "price": 925,
               "left": null,
-              "status": "unavailable",
+              "status": "waitlist",
               "start": "",
               "terms": null
             }
@@ -267,11 +210,7 @@
               "left": 3,
               "status": "available",
               "start": "9 December 2026",
-              "terms": {
-                "12个月": 585,
-                "22周": 645,
-                "44周": 585
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 5 Share Apt",
@@ -281,12 +220,7 @@
               "left": null,
               "status": "unavailable",
               "start": "",
-              "terms": {
-                "12个月": 605,
-                "22周": 665,
-                "44周": 605,
-                "短租": 665
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 4 Share Apt",
@@ -296,12 +230,7 @@
               "left": 4,
               "status": "available",
               "start": "",
-              "terms": {
-                "12个月": 625,
-                "22周": 685,
-                "44周": 625,
-                "短租": 685
-              }
+              "terms": null
             },
             {
               "name": "Standard Studio Apartment",
@@ -321,12 +250,7 @@
               "left": null,
               "status": "available",
               "start": "",
-              "terms": {
-                "12个月": 785,
-                "22周": 845,
-                "44周": 785,
-                "短租": 845
-              }
+              "terms": null
             },
             {
               "name": "Premium Studio Apartment",
@@ -336,12 +260,7 @@
               "left": 5,
               "status": "available",
               "start": "",
-              "terms": {
-                "12个月": 815,
-                "22周": 875,
-                "44周": 815,
-                "短租": 875
-              }
+              "terms": null
             }
           ]
         },
@@ -356,11 +275,7 @@
               "left": null,
               "status": "available",
               "start": "",
-              "terms": {
-                "22周": 745,
-                "44周": 685,
-                "短租": 745
-              }
+              "terms": null
             },
             {
               "name": "Premium Single Room – 6 Share",
@@ -370,12 +285,7 @@
               "left": null,
               "status": "available",
               "start": "",
-              "terms": {
-                "12个月": 705,
-                "22周": 765,
-                "44周": 705,
-                "短租": 765
-              }
+              "terms": null
             },
             {
               "name": "Standard Studio Apartment",
@@ -385,12 +295,7 @@
               "left": null,
               "status": "available",
               "start": "5 January 2027",
-              "terms": {
-                "12个月": 805,
-                "22周": 865,
-                "44周": 805,
-                "短租": 865
-              }
+              "terms": null
             },
             {
               "name": "Premium Studio Apartment",
@@ -400,11 +305,7 @@
               "left": null,
               "status": "available",
               "start": "5 January 2027",
-              "terms": {
-                "12个月": 825,
-                "22周": 885,
-                "44周": 825
-              }
+              "terms": null
             }
           ]
         },
@@ -419,10 +320,7 @@
               "left": null,
               "status": "available",
               "start": "5 January 2027",
-              "terms": {
-                "22周": 855,
-                "44周": 795
-              }
+              "terms": null
             },
             {
               "name": "Superior Studio Apartment",
@@ -432,10 +330,7 @@
               "left": null,
               "status": "available",
               "start": "5 January 2027",
-              "terms": {
-                "22周": 875,
-                "44周": 815
-              }
+              "terms": null
             },
             {
               "name": "Premium Studio Apartment",
@@ -445,10 +340,7 @@
               "left": null,
               "status": "available",
               "start": "5 January 2027",
-              "terms": {
-                "22周": 895,
-                "44周": 835
-              }
+              "terms": null
             }
           ]
         },
@@ -463,11 +355,7 @@
               "left": null,
               "status": "available",
               "start": "1 February 2027",
-              "terms": {
-                "22周": 785,
-                "44周": 725,
-                "短租": 785
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 5 Share Apt",
@@ -485,7 +373,7 @@
               "type": "share",
               "price": 775,
               "left": null,
-              "status": "unavailable",
+              "status": "waitlist",
               "start": "",
               "terms": null
             },
@@ -507,10 +395,7 @@
               "left": null,
               "status": "available",
               "start": "1 February 2027",
-              "terms": {
-                "22周": 925,
-                "44周": 865
-              }
+              "terms": null
             },
             {
               "name": "Premium Studio Apartment",
@@ -520,10 +405,7 @@
               "left": null,
               "status": "available",
               "start": "1 February 2027",
-              "terms": {
-                "22周": 1005,
-                "44周": 945
-              }
+              "terms": null
             }
           ]
         },
@@ -538,11 +420,7 @@
               "left": null,
               "status": "available",
               "start": "30 September 2026",
-              "terms": {
-                "22周": 795,
-                "44周": 735,
-                "短租": 795
-              }
+              "terms": null
             },
             {
               "name": "Premium Studio Apartment",
@@ -552,11 +430,7 @@
               "left": null,
               "status": "available",
               "start": "30 September 2026",
-              "terms": {
-                "22周": 815,
-                "44周": 755,
-                "短租": 815
-              }
+              "terms": null
             }
           ]
         },
@@ -571,11 +445,7 @@
               "left": null,
               "status": "unavailable",
               "start": "",
-              "terms": {
-                "12个月": 685,
-                "22周": 745,
-                "44周": 685
-              }
+              "terms": null
             },
             {
               "name": "Standard Studio Apartment",
@@ -585,11 +455,7 @@
               "left": null,
               "status": "unavailable",
               "start": "",
-              "terms": {
-                "12个月": 825,
-                "22周": 885,
-                "44周": 825
-              }
+              "terms": null
             },
             {
               "name": "Superior Studio Apartment",
@@ -599,12 +465,7 @@
               "left": null,
               "status": "unavailable",
               "start": "",
-              "terms": {
-                "12个月": 845,
-                "22周": 905,
-                "44周": 845,
-                "短租": 905
-              }
+              "terms": null
             },
             {
               "name": "Premium Studio Apartment",
@@ -614,11 +475,7 @@
               "left": null,
               "status": "available",
               "start": "",
-              "terms": {
-                "22周": 925,
-                "44周": 865,
-                "短租": 925
-              }
+              "terms": null
             },
             {
               "name": "Premium Corner Studio Apartment",
@@ -628,11 +485,7 @@
               "left": null,
               "status": "unavailable",
               "start": "",
-              "terms": {
-                "12个月": 865,
-                "22周": 965,
-                "44周": 905
-              }
+              "terms": null
             }
           ]
         }
@@ -652,11 +505,7 @@
               "left": null,
               "status": "available",
               "start": "",
-              "terms": {
-                "6个月": 479,
-                "12个月": 429,
-                "短租": 479
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 6 Share Apt",
@@ -666,10 +515,7 @@
               "left": null,
               "status": "unavailable",
               "start": "",
-              "terms": {
-                "6个月": 589,
-                "12个月": 539
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 5 Share Apt",
@@ -679,10 +525,7 @@
               "left": 3,
               "status": "available",
               "start": "",
-              "terms": {
-                "6个月": 609,
-                "12个月": 559
-              }
+              "terms": null
             },
             {
               "name": "Standard Studio Apartment",
@@ -692,10 +535,7 @@
               "left": null,
               "status": "unavailable",
               "start": "",
-              "terms": {
-                "6个月": 789,
-                "12个月": 739
-              }
+              "terms": null
             },
             {
               "name": "Premium Studio Apartment",
@@ -720,10 +560,7 @@
               "left": null,
               "status": "unavailable",
               "start": "",
-              "terms": {
-                "6个月": 449,
-                "12个月": 399
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 5 Share Apt",
@@ -733,10 +570,7 @@
               "left": null,
               "status": "unavailable",
               "start": "",
-              "terms": {
-                "6个月": 449,
-                "12个月": 399
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 3 Share Apt",
@@ -796,11 +630,7 @@
               "left": null,
               "status": "available",
               "start": "",
-              "terms": {
-                "6个月": 695,
-                "12个月": 635,
-                "短租": 695
-              }
+              "terms": null
             },
             {
               "name": "Premium Studio Apartment",
@@ -810,10 +640,7 @@
               "left": null,
               "status": "available",
               "start": "",
-              "terms": {
-                "6个月": 725,
-                "12个月": 665
-              }
+              "terms": null
             },
             {
               "name": "Premium Corner Studio Apartment",
@@ -823,10 +650,7 @@
               "left": 2,
               "status": "available",
               "start": "",
-              "terms": {
-                "6个月": 765,
-                "12个月": 705
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 2 Share Apt",
@@ -836,10 +660,7 @@
               "left": null,
               "status": "available",
               "start": "",
-              "terms": {
-                "6个月": 575,
-                "12个月": 515
-              }
+              "terms": null
             },
             {
               "name": "Premium Single Bedroom – 2 Share",
@@ -849,10 +670,7 @@
               "left": 5,
               "status": "available",
               "start": "",
-              "terms": {
-                "6个月": 675,
-                "12个月": 615
-              }
+              "terms": null
             }
           ]
         },
@@ -867,10 +685,7 @@
               "left": null,
               "status": "available",
               "start": "",
-              "terms": {
-                "6个月": 725,
-                "12个月": 665
-              }
+              "terms": null
             },
             {
               "name": "Premium Studio Apartment",
@@ -880,10 +695,7 @@
               "left": null,
               "status": "unavailable",
               "start": "",
-              "terms": {
-                "6个月": 755,
-                "12个月": 695
-              }
+              "terms": null
             },
             {
               "name": "Premium Corner Studio Apartment",
@@ -893,11 +705,7 @@
               "left": 1,
               "status": "available",
               "start": "",
-              "terms": {
-                "6个月": 805,
-                "12个月": 745,
-                "短租": 805
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 2 Share Apt",
@@ -907,10 +715,7 @@
               "left": null,
               "status": "unavailable",
               "start": "",
-              "terms": {
-                "6个月": 595,
-                "12个月": 535
-              }
+              "terms": null
             }
           ]
         },
@@ -925,10 +730,7 @@
               "left": null,
               "status": "unavailable",
               "start": "",
-              "terms": {
-                "6个月": 695,
-                "12个月": 635
-              }
+              "terms": null
             },
             {
               "name": "Premium Studio Apartment",
@@ -938,11 +740,7 @@
               "left": null,
               "status": "unavailable",
               "start": "",
-              "terms": {
-                "6个月": 725,
-                "12个月": 665,
-                "短租": 725
-              }
+              "terms": null
             }
           ]
         },
@@ -957,10 +755,7 @@
               "left": null,
               "status": "available",
               "start": "",
-              "terms": {
-                "6个月": 575,
-                "12个月": 515
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 5 Share Apt",
@@ -970,10 +765,7 @@
               "left": null,
               "status": "unavailable",
               "start": "",
-              "terms": {
-                "6个月": 585,
-                "12个月": 525
-              }
+              "terms": null
             },
             {
               "name": "Standard Studio Apartment",
@@ -983,11 +775,7 @@
               "left": null,
               "status": "unavailable",
               "start": "",
-              "terms": {
-                "6个月": 725,
-                "12个月": 665,
-                "短租": 725
-              }
+              "terms": null
             },
             {
               "name": "Premium Studio Apartment",
@@ -997,10 +785,7 @@
               "left": null,
               "status": "unavailable",
               "start": "",
-              "terms": {
-                "6个月": 765,
-                "12个月": 705
-              }
+              "terms": null
             }
           ]
         },
@@ -1015,10 +800,7 @@
               "left": null,
               "status": "unavailable",
               "start": "",
-              "terms": {
-                "6个月": 635,
-                "12个月": 575
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 6 Share Apt",
@@ -1028,11 +810,7 @@
               "left": null,
               "status": "unavailable",
               "start": "",
-              "terms": {
-                "6个月": 615,
-                "12个月": 555,
-                "短租": 615
-              }
+              "terms": null
             },
             {
               "name": "Premium Single Bedroom – 5 Share",
@@ -1042,11 +820,7 @@
               "left": 5,
               "status": "available",
               "start": "",
-              "terms": {
-                "6个月": 645,
-                "12个月": 585,
-                "短租": 645
-              }
+              "terms": null
             },
             {
               "name": "Single Bedroom – 5 Share Apt",
@@ -1056,11 +830,7 @@
               "left": 5,
               "status": "available",
               "start": "",
-              "terms": {
-                "6个月": 625,
-                "12个月": 565,
-                "短租": 625
-              }
+              "terms": null
             },
             {
               "name": "Single Studio Apartment",
@@ -1070,11 +840,7 @@
               "left": null,
               "status": "available",
               "start": "",
-              "terms": {
-                "6个月": 725,
-                "12个月": 665,
-                "短租": 725
-              }
+              "terms": null
             },
             {
               "name": "Standard Studio Apartment",
@@ -1084,11 +850,7 @@
               "left": null,
               "status": "available",
               "start": "",
-              "terms": {
-                "6个月": 745,
-                "12个月": 685,
-                "短租": 745
-              }
+              "terms": null
             },
             {
               "name": "Premium Studio Apartment",
@@ -1098,11 +860,7 @@
               "left": null,
               "status": "available",
               "start": "",
-              "terms": {
-                "6个月": 775,
-                "12个月": 715,
-                "短租": 775
-              }
+              "terms": null
             }
           ]
         }
