@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29 03:07:38",
+  "fetched_at": "2026-09-29 09:25:38",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -121,8 +121,8 @@
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/central-park/standard-studio-apartment-cp/",
               "type": "studio",
-              "price": 915,
-              "left": null,
+              "price": 975,
+              "left": 3,
               "status": "available",
               "start": "",
               "terms": null
@@ -208,8 +208,8 @@
               "type": "share",
               "price": 585,
               "left": null,
-              "status": "waitlist",
-              "start": "",
+              "status": "available",
+              "start": "1 January 2027",
               "terms": null
             },
             {
@@ -218,18 +218,18 @@
               "type": "share",
               "price": 605,
               "left": null,
-              "status": "unavailable",
-              "start": "",
+              "status": "available",
+              "start": "1 January 2027",
               "terms": null
             },
             {
               "name": "Single Bedroom – 4 Share Apt",
               "url": "https://iglu.com.au/rooms/sydney/chatswood/single-bedroom-4-share-apt-ch/",
               "type": "share",
-              "price": 625,
-              "left": 4,
+              "price": null,
+              "left": null,
               "status": "available",
-              "start": "",
+              "start": "1 January 2027",
               "terms": null
             },
             {
@@ -237,9 +237,9 @@
               "url": "https://iglu.com.au/rooms/sydney/chatswood/standard-studio-apartment-ch/",
               "type": "studio",
               "price": 775,
-              "left": null,
-              "status": "waitlist",
-              "start": "",
+              "left": 2,
+              "status": "available",
+              "start": "17 February 2027",
               "terms": null
             },
             {
@@ -249,7 +249,7 @@
               "price": 785,
               "left": null,
               "status": "available",
-              "start": "",
+              "start": "1 January 2027",
               "terms": null
             },
             {
@@ -257,9 +257,9 @@
               "url": "https://iglu.com.au/rooms/sydney/chatswood/premium-studio-apartment-ch/",
               "type": "studio",
               "price": 815,
-              "left": 5,
+              "left": null,
               "status": "available",
-              "start": "",
+              "start": "1 January 2027",
               "terms": null
             }
           ]
@@ -272,7 +272,7 @@
               "url": "https://iglu.com.au/rooms/sydney/mascot/single-bedroom-6-share-apt-ma/",
               "type": "share",
               "price": 685,
-              "left": 4,
+              "left": 2,
               "status": "available",
               "start": "5 January 2027",
               "terms": null
@@ -473,7 +473,7 @@
               "type": "studio",
               "price": 865,
               "left": null,
-              "status": "available",
+              "status": "unavailable",
               "start": "",
               "terms": null
             },
@@ -503,7 +503,7 @@
               "type": "share",
               "price": 429,
               "left": null,
-              "status": "available",
+              "status": "unavailable",
               "start": "",
               "terms": null
             },
@@ -617,8 +617,8 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/single-studio-apartment/",
               "type": "studio",
               "price": 635,
-              "left": null,
-              "status": "waitlist",
+              "left": 1,
+              "status": "available",
               "start": "",
               "terms": null
             },
@@ -762,8 +762,8 @@
               "url": "https://iglu.com.au/rooms/melbourne/melbourne-city/single-bedroom-5-share-apt-mc/",
               "type": "share",
               "price": 525,
-              "left": null,
-              "status": "unavailable",
+              "left": 4,
+              "status": "available",
               "start": "",
               "terms": null
             },
