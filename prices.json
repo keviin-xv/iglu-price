@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29 13:55:01",
+  "fetched_at": "2026-09-30 02:49:47",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -31,8 +31,8 @@
               "name": "Single Bedroom – 4 Share Apt",
               "url": "https://iglu.com.au/rooms/sydney/broadway/single-bedroom-4-share-apt-br/",
               "type": "share",
-              "price": 805,
-              "left": null,
+              "price": 690,
+              "left": 5,
               "status": "available",
               "start": "7 October 2026",
               "terms": null
@@ -142,7 +142,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-studio-apartment/",
               "type": "studio",
               "price": 1015,
-              "left": 2,
+              "left": 3,
               "status": "available",
               "start": "",
               "terms": null
@@ -272,9 +272,9 @@
               "url": "https://iglu.com.au/rooms/sydney/mascot/single-bedroom-6-share-apt-ma/",
               "type": "share",
               "price": 685,
-              "left": 1,
-              "status": "available",
-              "start": "5 January 2027",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
