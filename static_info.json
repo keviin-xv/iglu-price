@@ -283,7 +283,7 @@
     "area": "25.5m²",
     "bed": "Double"
   },
-  "updated_at": "2026-09-15 12:22:39",
+  "updated_at": "2026-10-01 02:59:54",
   "Waterloo|Premium Corner Studio Apartment": {
     "area": "17.3m²",
     "bed": "Double"
@@ -295,5 +295,21 @@
   "Central Park|Premium Single Room – 6 Share Apt": {
     "area": "13m²",
     "bed": "King single"
+  },
+  "Mascot Duo|Standard Studio Apartment": {
+    "area": "17.7m²",
+    "bed": "Double"
+  },
+  "Mascot Duo|Superior Studio Apartment": {
+    "area": "17.7m²",
+    "bed": "Double"
+  },
+  "Mascot Duo|Premium Studio Apartment": {
+    "area": "18.5m²",
+    "bed": "Double"
+  },
+  "Melbourne Central|Melbourne Central Premium Studio (RMIT SAEX)": {
+    "area": "18m²",
+    "bed": "Double"
   }
 }

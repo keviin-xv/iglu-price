@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30 13:12:37",
+  "fetched_at": "2026-10-01 02:55:46",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -14,7 +14,7 @@
               "price": 795,
               "left": null,
               "status": "available",
-              "start": "14 December 2026",
+              "start": "22 October 2026",
               "terms": null
             },
             {
@@ -44,14 +44,14 @@
               "price": 885,
               "left": null,
               "status": "available",
-              "start": "5 October 2026",
+              "start": "21 October 2026",
               "terms": null
             },
             {
               "name": "Superior Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/broadway/superior-studio-apartment-br/",
               "type": "studio",
-              "price": 1025,
+              "price": 1035,
               "left": null,
               "status": "waitlist",
               "start": "",
@@ -62,9 +62,9 @@
               "url": "https://iglu.com.au/rooms/sydney/broadway/premium-studio-apartment-br/",
               "type": "studio",
               "price": 1035,
-              "left": null,
-              "status": "waitlist",
-              "start": "",
+              "left": 1,
+              "status": "available",
+              "start": "4 January 2027",
               "terms": null
             }
           ]
@@ -226,7 +226,7 @@
               "name": "Single Bedroom – 4 Share Apt",
               "url": "https://iglu.com.au/rooms/sydney/chatswood/single-bedroom-4-share-apt-ch/",
               "type": "share",
-              "price": null,
+              "price": 625,
               "left": null,
               "status": "available",
               "start": "1 January 2027",
@@ -504,7 +504,7 @@
               "price": 429,
               "left": null,
               "status": "available",
-              "start": "",
+              "start": "8 February 2027",
               "terms": null
             },
             {
@@ -740,6 +740,16 @@
               "left": null,
               "status": "available",
               "start": "",
+              "terms": null
+            },
+            {
+              "name": "Melbourne Central Premium Studio (RMIT SAEX)",
+              "url": "https://iglu.com.au/rooms/melbourne/melbourne-central/premium-studio-apartment-rmit-saex/",
+              "type": "studio",
+              "price": 635,
+              "left": null,
+              "status": "available",
+              "start": "10 February 2027",
               "terms": null
             }
           ]
