@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-01 02:55:46",
+  "fetched_at": "2026-10-01 09:43:40",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -588,18 +588,18 @@
               "type": "share",
               "price": 479,
               "left": null,
-              "status": "waitlist",
-              "start": "",
+              "status": "available",
+              "start": "11 February 2027",
               "terms": null
             },
             {
               "name": "1 Bedroom Apartment",
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/1-bedroom-apartment-kg/",
               "type": "share",
-              "price": 699,
-              "left": null,
-              "status": "waitlist",
-              "start": "",
+              "price": 729,
+              "left": 1,
+              "status": "available",
+              "start": "11 February 2027",
               "terms": null
             }
           ]
@@ -772,7 +772,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/melbourne-city/single-bedroom-5-share-apt-mc/",
               "type": "share",
               "price": 525,
-              "left": 5,
+              "left": 2,
               "status": "available",
               "start": "3 February 2027",
               "terms": null
