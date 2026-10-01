@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-01 09:43:40",
+  "fetched_at": "2026-10-01 14:03:41",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -32,7 +32,7 @@
               "url": "https://iglu.com.au/rooms/sydney/broadway/single-bedroom-4-share-apt-br/",
               "type": "share",
               "price": 690,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "7 October 2026",
               "terms": null
@@ -142,7 +142,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-studio-apartment/",
               "type": "studio",
               "price": 1015,
-              "left": 3,
+              "left": 2,
               "status": "available",
               "start": "",
               "terms": null
@@ -172,7 +172,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-single-room-6-share-cp/",
               "type": "share",
               "price": 815,
-              "left": 4,
+              "left": 3,
               "status": "available",
               "start": "12 February 2027",
               "terms": null
@@ -741,16 +741,6 @@
               "status": "available",
               "start": "",
               "terms": null
-            },
-            {
-              "name": "Melbourne Central Premium Studio (RMIT SAEX)",
-              "url": "https://iglu.com.au/rooms/melbourne/melbourne-central/premium-studio-apartment-rmit-saex/",
-              "type": "studio",
-              "price": 635,
-              "left": null,
-              "status": "available",
-              "start": "10 February 2027",
-              "terms": null
             }
           ]
         },
@@ -772,7 +762,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/melbourne-city/single-bedroom-5-share-apt-mc/",
               "type": "share",
               "price": 525,
-              "left": 2,
+              "left": 4,
               "status": "available",
               "start": "3 February 2027",
               "terms": null
