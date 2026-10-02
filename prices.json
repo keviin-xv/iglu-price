@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-02 02:57:47",
+  "fetched_at": "2026-10-02 09:17:57",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -151,10 +151,10 @@
               "name": "Premium Corner Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-corner-studio-apartment-cp/",
               "type": "studio",
-              "price": 1115,
-              "left": 1,
-              "status": "available",
-              "start": "1 December 2026",
+              "price": 1055,
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
@@ -181,10 +181,10 @@
               "name": "Single Bedroom – 4 Share Apt",
               "url": "https://iglu.com.au/rooms/sydney/central-park/single-bedroom-4-share-apt-cp/",
               "type": "share",
-              "price": 925,
+              "price": 865,
               "left": 1,
               "status": "available",
-              "start": "1 December 2026",
+              "start": "25 October 2026",
               "terms": null
             },
             {
@@ -272,9 +272,9 @@
               "url": "https://iglu.com.au/rooms/sydney/mascot/single-bedroom-6-share-apt-ma/",
               "type": "share",
               "price": 685,
-              "left": 1,
+              "left": 5,
               "status": "available",
-              "start": "5 January 2027",
+              "start": "",
               "terms": null
             },
             {
@@ -294,7 +294,7 @@
               "price": 805,
               "left": null,
               "status": "available",
-              "start": "5 January 2027",
+              "start": "",
               "terms": null
             },
             {
@@ -303,6 +303,16 @@
               "type": "studio",
               "price": 825,
               "left": null,
+              "status": "available",
+              "start": "5 January 2027",
+              "terms": null
+            },
+            {
+              "name": "Standard Studio Apartment (Queen)",
+              "url": "https://iglu.com.au/rooms/sydney/mascot/standard-studio-apartment-queen/",
+              "type": "studio",
+              "price": 905,
+              "left": 2,
               "status": "available",
               "start": "5 January 2027",
               "terms": null
@@ -681,7 +691,7 @@
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-station/standard-studio-apartment-fs/",
               "type": "studio",
-              "price": null,
+              "price": 675,
               "left": null,
               "status": "available",
               "start": "",
@@ -691,17 +701,17 @@
               "name": "Premium Studio Apartment",
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-station/premium-studio-apartment-fs/",
               "type": "studio",
-              "price": 695,
+              "price": 705,
               "left": null,
               "status": "available",
-              "start": "2 February 2027",
+              "start": "",
               "terms": null
             },
             {
               "name": "Premium Corner Studio Apartment",
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-station/premium-studio-apartment-cnr-fs/",
               "type": "studio",
-              "price": 805,
+              "price": 745,
               "left": 1,
               "status": "available",
               "start": "15 October 2026",
@@ -714,7 +724,7 @@
               "price": 535,
               "left": null,
               "status": "available",
-              "start": "2 February 2027",
+              "start": "",
               "terms": null
             }
           ]
@@ -809,7 +819,7 @@
               "price": 555,
               "left": null,
               "status": "available",
-              "start": "3 February 2027",
+              "start": "",
               "terms": null
             },
             {
@@ -817,9 +827,9 @@
               "url": "https://iglu.com.au/rooms/melbourne/south-yarra/premium-single-bedroom-5-share-apt-sy/",
               "type": "share",
               "price": 585,
-              "left": 5,
+              "left": null,
               "status": "available",
-              "start": "10 February 2027",
+              "start": "30 November 2026",
               "terms": null
             },
             {
@@ -827,9 +837,9 @@
               "url": "https://iglu.com.au/rooms/melbourne/south-yarra/single-bedroom-5-share-apt-sy/",
               "type": "share",
               "price": 565,
-              "left": 4,
+              "left": null,
               "status": "available",
-              "start": "10 February 2027",
+              "start": "12 November 2026",
               "terms": null
             },
             {
@@ -839,7 +849,7 @@
               "price": 665,
               "left": null,
               "status": "available",
-              "start": "",
+              "start": "3 February 2027",
               "terms": null
             },
             {
@@ -859,7 +869,7 @@
               "price": 715,
               "left": null,
               "status": "available",
-              "start": "",
+              "start": "3 February 2027",
               "terms": null
             }
           ]
