@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-01 14:03:41",
+  "fetched_at": "2026-10-02 02:57:47",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -142,7 +142,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-studio-apartment/",
               "type": "studio",
               "price": 1015,
-              "left": 2,
+              "left": 1,
               "status": "available",
               "start": "",
               "terms": null
@@ -152,7 +152,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-corner-studio-apartment-cp/",
               "type": "studio",
               "price": 1115,
-              "left": 2,
+              "left": 1,
               "status": "available",
               "start": "1 December 2026",
               "terms": null
@@ -362,7 +362,7 @@
               "url": "https://iglu.com.au/rooms/sydney/redfern/single-bedroom-5-share-apt-re/",
               "type": "share",
               "price": 755,
-              "left": 3,
+              "left": 2,
               "status": "available",
               "start": "1 February 2027",
               "terms": null
@@ -382,7 +382,7 @@
               "url": "https://iglu.com.au/rooms/sydney/redfern/single-studio-apartment-re/",
               "type": "studio",
               "price": 845,
-              "left": 2,
+              "left": 1,
               "status": "available",
               "start": "1 February 2027",
               "terms": null
@@ -681,7 +681,7 @@
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-station/standard-studio-apartment-fs/",
               "type": "studio",
-              "price": 665,
+              "price": null,
               "left": null,
               "status": "available",
               "start": "",
