@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-03 08:50:16",
+  "fetched_at": "2026-10-03 12:11:22",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -122,7 +122,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/standard-studio-apartment-cp/",
               "type": "studio",
               "price": 915,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "",
               "terms": null
@@ -131,7 +131,7 @@
               "name": "Superior Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/central-park/superior-studio-apartment-cp/",
               "type": "studio",
-              "price": 995,
+              "price": 1055,
               "left": null,
               "status": "available",
               "start": "",
