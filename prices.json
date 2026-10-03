@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-02 13:23:02",
+  "fetched_at": "2026-10-03 02:45:16",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -272,7 +272,7 @@
               "url": "https://iglu.com.au/rooms/sydney/mascot/single-bedroom-6-share-apt-ma/",
               "type": "share",
               "price": 685,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "",
               "terms": null
