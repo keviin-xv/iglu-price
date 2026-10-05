@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-05 09:57:30",
+  "fetched_at": "2026-10-05 15:27:17",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -14,7 +14,7 @@
               "price": 795,
               "left": null,
               "status": "available",
-              "start": "22 October 2026",
+              "start": "14 December 2026",
               "terms": null
             },
             {
@@ -122,9 +122,9 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/standard-studio-apartment-cp/",
               "type": "studio",
               "price": 915,
-              "left": 1,
+              "left": 2,
               "status": "available",
-              "start": "1 December 2026",
+              "start": "",
               "terms": null
             },
             {
@@ -271,7 +271,7 @@
               "name": "Single Bedroom – 6 Share Apt",
               "url": "https://iglu.com.au/rooms/sydney/mascot/single-bedroom-6-share-apt-ma/",
               "type": "share",
-              "price": 685,
+              "price": 745,
               "left": 3,
               "status": "available",
               "start": "",
@@ -383,7 +383,7 @@
               "type": "share",
               "price": 775,
               "left": null,
-              "status": "waitlist",
+              "status": "unavailable",
               "start": "",
               "terms": null
             },
@@ -627,9 +627,9 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/single-studio-apartment/",
               "type": "studio",
               "price": 635,
-              "left": 1,
-              "status": "available",
-              "start": "13 January 2027",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
