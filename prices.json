@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07 03:08:26",
+  "fetched_at": "2026-10-07 09:41:44",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -14,7 +14,7 @@
               "price": 795,
               "left": null,
               "status": "available",
-              "start": "14 December 2026",
+              "start": "22 October 2026",
               "terms": null
             },
             {
@@ -24,7 +24,7 @@
               "price": 805,
               "left": null,
               "status": "available",
-              "start": "14 December 2026",
+              "start": "10 November 2026",
               "terms": null
             },
             {
@@ -32,9 +32,9 @@
               "url": "https://iglu.com.au/rooms/sydney/broadway/single-bedroom-4-share-apt-br/",
               "type": "share",
               "price": 690,
-              "left": 3,
+              "left": 4,
               "status": "available",
-              "start": "14 December 2026",
+              "start": "",
               "terms": null
             },
             {
@@ -44,7 +44,7 @@
               "price": 885,
               "left": null,
               "status": "available",
-              "start": "10 December 2026",
+              "start": "21 October 2026",
               "terms": null
             },
             {
@@ -52,9 +52,9 @@
               "url": "https://iglu.com.au/rooms/sydney/broadway/superior-studio-apartment-br/",
               "type": "studio",
               "price": 1035,
-              "left": null,
-              "status": "waitlist",
-              "start": "",
+              "left": 2,
+              "status": "available",
+              "start": "16 December 2026",
               "terms": null
             },
             {
@@ -62,9 +62,9 @@
               "url": "https://iglu.com.au/rooms/sydney/broadway/premium-studio-apartment-br/",
               "type": "studio",
               "price": 1035,
-              "left": 1,
+              "left": 2,
               "status": "available",
-              "start": "4 January 2027",
+              "start": "10 December 2026",
               "terms": null
             }
           ]
@@ -97,7 +97,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central/single-bedroom-5-share-apt-ce/",
               "type": "share",
               "price": 815,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "1 January 2027",
               "terms": null
@@ -172,7 +172,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-single-room-6-share-cp/",
               "type": "share",
               "price": 815,
-              "left": 3,
+              "left": 2,
               "status": "available",
               "start": "12 February 2027",
               "terms": null
@@ -452,7 +452,7 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/single-bedroom-2-share-apt-wa/",
               "type": "share",
               "price": 685,
-              "left": 4,
+              "left": 3,
               "status": "available",
               "start": "9 February 2027",
               "terms": null
@@ -532,7 +532,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/brisbane-city/single-bedroom-5-share-apt-bc/",
               "type": "share",
               "price": 529,
-              "left": 3,
+              "left": 2,
               "status": "available",
               "start": "8 February 2027",
               "terms": null
@@ -639,7 +639,7 @@
               "price": 635,
               "left": null,
               "status": "available",
-              "start": "4 February 2027",
+              "start": "",
               "terms": null
             },
             {
