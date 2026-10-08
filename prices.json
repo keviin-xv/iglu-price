@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07 14:06:20",
+  "fetched_at": "2026-10-08 03:25:02",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -639,7 +639,7 @@
               "price": 635,
               "left": null,
               "status": "available",
-              "start": "",
+              "start": "28 November 2026",
               "terms": null
             },
             {
@@ -772,7 +772,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/melbourne-city/single-bedroom-5-share-apt-mc/",
               "type": "share",
               "price": 525,
-              "left": 2,
+              "left": 1,
               "status": "available",
               "start": "3 February 2027",
               "terms": null
