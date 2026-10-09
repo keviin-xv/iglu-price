@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-09 03:30:24",
+  "fetched_at": "2026-10-09 09:56:31",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -44,7 +44,7 @@
               "price": 885,
               "left": null,
               "status": "available",
-              "start": "21 October 2026",
+              "start": "10 December 2026",
               "terms": null
             },
             {
@@ -373,7 +373,7 @@
               "type": "share",
               "price": 755,
               "left": null,
-              "status": "waitlist",
+              "status": "unavailable",
               "start": "",
               "terms": null
             },
@@ -402,7 +402,7 @@
               "url": "https://iglu.com.au/rooms/sydney/redfern/standard-studio-apartment-re/",
               "type": "studio",
               "price": 865,
-              "left": 5,
+              "left": null,
               "status": "available",
               "start": "1 February 2027",
               "terms": null
@@ -452,7 +452,7 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/single-bedroom-2-share-apt-wa/",
               "type": "share",
               "price": 685,
-              "left": 1,
+              "left": null,
               "status": "available",
               "start": "9 February 2027",
               "terms": null
