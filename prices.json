@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-13 14:44:06",
+  "fetched_at": "2026-10-14 02:32:53",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -24,7 +24,7 @@
               "price": 805,
               "left": null,
               "status": "available",
-              "start": "14 December 2026",
+              "start": "10 November 2026",
               "terms": null
             },
             {
@@ -172,7 +172,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-single-room-6-share-cp/",
               "type": "share",
               "price": 815,
-              "left": 3,
+              "left": 2,
               "status": "available",
               "start": "12 February 2027",
               "terms": null
@@ -327,9 +327,9 @@
               "url": "https://iglu.com.au/rooms/sydney/mascot-duo/standard-studio-apartment-md/",
               "type": "studio",
               "price": 815,
-              "left": 1,
-              "status": "available",
-              "start": "5 January 2027",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
