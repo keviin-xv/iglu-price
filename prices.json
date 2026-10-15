@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15 02:14:32",
+  "fetched_at": "2026-10-15 07:58:58",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -152,9 +152,9 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-corner-studio-apartment-cp/",
               "type": "studio",
               "price": 1055,
-              "left": 1,
-              "status": "available",
-              "start": "1 December 2026",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
@@ -209,7 +209,7 @@
               "price": 585,
               "left": null,
               "status": "available",
-              "start": "",
+              "start": "1 January 2027",
               "terms": null
             },
             {
@@ -552,7 +552,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/brisbane-city/premium-studio-apartment-bc/",
               "type": "studio",
               "price": 779,
-              "left": 2,
+              "left": 1,
               "status": "available",
               "start": "8 February 2027",
               "terms": null
@@ -737,7 +737,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/melbourne-central/standard-studio-apartment-mce/",
               "type": "studio",
               "price": 635,
-              "left": 5,
+              "left": null,
               "status": "available",
               "start": "10 February 2027",
               "terms": null
