@@ -283,7 +283,7 @@
     "area": "25.5m²",
     "bed": "Double"
   },
-  "updated_at": "2026-10-01 14:07:01",
+  "updated_at": "2026-10-15 02:18:26",
   "Waterloo|Premium Corner Studio Apartment": {
     "area": "17.3m²",
     "bed": "Double"
@@ -311,5 +311,17 @@
   "Melbourne Central|Melbourne Central Premium Studio (RMIT SAEX)": {
     "area": "18m²",
     "bed": "Double"
+  },
+  "Central|Single Room, Share Bath – 6 Share": {
+    "area": "11m²",
+    "bed": "King single"
+  },
+  "Mascot|Standard Studio Apartment (Queen)": {
+    "area": "21m²",
+    "bed": null
+  },
+  "Brisbane City|Single Room, Share Bath – 6 Share": {
+    "area": "10.5m²",
+    "bed": "King single"
   }
 }
