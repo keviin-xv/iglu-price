@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-16 07:50:52",
+  "fetched_at": "2026-10-16 12:03:31",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -182,7 +182,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/single-bedroom-4-share-apt-cp/",
               "type": "share",
               "price": 865,
-              "left": 2,
+              "left": 1,
               "status": "available",
               "start": "",
               "terms": null
@@ -657,7 +657,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/premium-corner-studio-apartment-fg/",
               "type": "studio",
               "price": 705,
-              "left": 3,
+              "left": 2,
               "status": "available",
               "start": "4 February 2027",
               "terms": null
@@ -737,7 +737,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/melbourne-central/standard-studio-apartment-mce/",
               "type": "studio",
               "price": 635,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "10 February 2027",
               "terms": null
