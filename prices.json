@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-18 07:43:48",
+  "fetched_at": "2026-10-18 11:55:39",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -657,9 +657,9 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/premium-corner-studio-apartment-fg/",
               "type": "studio",
               "price": 705,
-              "left": 2,
+              "left": 1,
               "status": "available",
-              "start": "4 February 2027",
+              "start": "11 February 2027",
               "terms": null
             },
             {
