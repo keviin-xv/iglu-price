@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-18 11:55:39",
+  "fetched_at": "2026-10-19 02:15:20",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -41,18 +41,18 @@
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/broadway/standard-studio-apartment-br/",
               "type": "studio",
-              "price": 885,
+              "price": 895,
               "left": null,
               "status": "available",
-              "start": "26 October 2026",
+              "start": "2 November 2026",
               "terms": null
             },
             {
               "name": "Superior Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/broadway/superior-studio-apartment-br/",
               "type": "studio",
-              "price": 800,
-              "left": 1,
+              "price": 1035,
+              "left": 2,
               "status": "available",
               "start": "16 December 2026",
               "terms": null
@@ -61,8 +61,8 @@
               "name": "Premium Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/broadway/premium-studio-apartment-br/",
               "type": "studio",
-              "price": 850,
-              "left": 1,
+              "price": 1045,
+              "left": 2,
               "status": "available",
               "start": "10 December 2026",
               "terms": null
@@ -328,8 +328,8 @@
               "type": "studio",
               "price": 815,
               "left": null,
-              "status": "waitlist",
-              "start": "",
+              "status": "available",
+              "start": "5 January 2027",
               "terms": null
             },
             {
