@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-19 02:15:20",
+  "fetched_at": "2026-10-19 08:26:49",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -44,7 +44,7 @@
               "price": 895,
               "left": null,
               "status": "available",
-              "start": "2 November 2026",
+              "start": "10 December 2026",
               "terms": null
             },
             {
@@ -122,7 +122,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/standard-studio-apartment-cp/",
               "type": "studio",
               "price": 915,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "",
               "terms": null
@@ -142,7 +142,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-studio-apartment/",
               "type": "studio",
               "price": 1015,
-              "left": 5,
+              "left": 3,
               "status": "available",
               "start": "",
               "terms": null
@@ -522,7 +522,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/brisbane-city/single-bedroom-6-share-apt-bc/",
               "type": "share",
               "price": 519,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "8 February 2027",
               "terms": null
@@ -597,7 +597,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-2-share-apt-kg/",
               "type": "share",
               "price": 479,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "11 February 2027",
               "terms": null
@@ -657,9 +657,9 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/premium-corner-studio-apartment-fg/",
               "type": "studio",
               "price": 705,
-              "left": 1,
-              "status": "available",
-              "start": "11 February 2027",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
