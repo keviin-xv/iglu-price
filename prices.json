@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-19 14:13:06",
+  "fetched_at": "2026-10-20 02:30:49",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -122,7 +122,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/standard-studio-apartment-cp/",
               "type": "studio",
               "price": 915,
-              "left": 4,
+              "left": 3,
               "status": "available",
               "start": "",
               "terms": null
@@ -364,7 +364,7 @@
               "price": 725,
               "left": null,
               "status": "available",
-              "start": "1 February 2027",
+              "start": "4 January 2027",
               "terms": null
             },
             {
@@ -597,7 +597,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-2-share-apt-kg/",
               "type": "share",
               "price": 479,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "11 February 2027",
               "terms": null
@@ -649,7 +649,7 @@
               "price": 665,
               "left": null,
               "status": "available",
-              "start": "4 February 2027",
+              "start": "",
               "terms": null
             },
             {
@@ -657,8 +657,8 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/premium-corner-studio-apartment-fg/",
               "type": "studio",
               "price": 705,
-              "left": null,
-              "status": "waitlist",
+              "left": 3,
+              "status": "available",
               "start": "",
               "terms": null
             },
@@ -737,9 +737,9 @@
               "url": "https://iglu.com.au/rooms/melbourne/melbourne-central/standard-studio-apartment-mce/",
               "type": "studio",
               "price": 635,
-              "left": 2,
-              "status": "available",
-              "start": "10 February 2027",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
