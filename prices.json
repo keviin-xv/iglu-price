@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21 12:36:55",
+  "fetched_at": "2026-10-22 02:18:53",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -106,10 +106,10 @@
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/central/standard-studio-apartment-ce/",
               "type": "studio",
-              "price": 865,
-              "left": null,
-              "status": "waitlist",
-              "start": "",
+              "price": 800,
+              "left": 1,
+              "status": "available",
+              "start": "30 November 2026",
               "terms": null
             },
             {
@@ -472,7 +472,7 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/standard-studio-apartment-wa/",
               "type": "studio",
               "price": 825,
-              "left": 5,
+              "left": null,
               "status": "available",
               "start": "",
               "terms": null
@@ -552,7 +552,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/brisbane-city/standard-studio-apartment-bc/",
               "type": "studio",
               "price": 719,
-              "left": 5,
+              "left": 3,
               "status": "available",
               "start": "8 February 2027",
               "terms": null
@@ -607,7 +607,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-2-share-apt-kg/",
               "type": "share",
               "price": 479,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "11 February 2027",
               "terms": null
