@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-23 02:24:27",
+  "fetched_at": "2026-10-23 08:15:08",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -152,7 +152,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-studio-apartment/",
               "type": "studio",
               "price": 1015,
-              "left": 3,
+              "left": 2,
               "status": "available",
               "start": "",
               "terms": null
@@ -162,9 +162,9 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-corner-studio-apartment-cp/",
               "type": "studio",
               "price": 1055,
-              "left": 4,
+              "left": 2,
               "status": "available",
-              "start": "26 November 2026",
+              "start": "1 December 2026",
               "terms": null
             },
             {
@@ -302,9 +302,9 @@
               "url": "https://iglu.com.au/rooms/sydney/mascot/standard-studio-apartment-ma/",
               "type": "studio",
               "price": 805,
-              "left": 4,
+              "left": 3,
               "status": "available",
-              "start": "",
+              "start": "5 January 2027",
               "terms": null
             },
             {
@@ -532,7 +532,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/brisbane-city/single-bedroom-6-share-apt-bc/",
               "type": "share",
               "price": 519,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "4 February 2027",
               "terms": null
@@ -542,7 +542,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/brisbane-city/single-bedroom-5-share-apt-bc/",
               "type": "share",
               "price": 529,
-              "left": 4,
+              "left": 3,
               "status": "available",
               "start": "8 February 2027",
               "terms": null
@@ -756,7 +756,7 @@
               "name": "Premium Studio Apartment",
               "url": "https://iglu.com.au/rooms/melbourne/melbourne-central/premium-studio-apartment-mce/",
               "type": "studio",
-              "price": 665,
+              "price": 655,
               "left": null,
               "status": "available",
               "start": "",
