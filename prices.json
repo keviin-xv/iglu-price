@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-24 02:21:50",
+  "fetched_at": "2026-10-24 07:52:15",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -732,7 +732,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-station/single-bedroom-2-share-apt-fs/",
               "type": "share",
               "price": 535,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "",
               "terms": null
