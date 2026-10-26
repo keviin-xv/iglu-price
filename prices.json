@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-26 08:27:33",
+  "fetched_at": "2026-10-26 13:46:41",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -302,7 +302,7 @@
               "url": "https://iglu.com.au/rooms/sydney/mascot/standard-studio-apartment-ma/",
               "type": "studio",
               "price": 805,
-              "left": 2,
+              "left": 1,
               "status": "available",
               "start": "5 January 2027",
               "terms": null
@@ -462,9 +462,9 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/single-bedroom-2-share-apt-wa/",
               "type": "share",
               "price": 685,
-              "left": 1,
-              "status": "available",
-              "start": "9 February 2027",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
@@ -597,9 +597,9 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-3-share-apt-kg/",
               "type": "share",
               "price": 449,
-              "left": null,
-              "status": "waitlist",
-              "start": "",
+              "left": 1,
+              "status": "available",
+              "start": "11 February 2027",
               "terms": null
             },
             {
@@ -732,7 +732,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-station/single-bedroom-2-share-apt-fs/",
               "type": "share",
               "price": 535,
-              "left": 4,
+              "left": 5,
               "status": "available",
               "start": "",
               "terms": null
