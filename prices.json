@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-28 09:16:37",
+  "fetched_at": "2026-10-28 13:43:27",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -51,8 +51,8 @@
               "name": "Superior Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/broadway/superior-studio-apartment-br/",
               "type": "studio",
-              "price": 1035,
-              "left": 2,
+              "price": 800,
+              "left": 1,
               "status": "available",
               "start": "16 December 2026",
               "terms": null
