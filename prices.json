@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-30 03:22:10",
+  "fetched_at": "2026-10-30 09:29:43",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -97,7 +97,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central/single-bedroom-5-share-apt-ce/",
               "type": "share",
               "price": 815,
-              "left": 5,
+              "left": 2,
               "status": "available",
               "start": "1 January 2027",
               "terms": null
@@ -106,10 +106,10 @@
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/central/standard-studio-apartment-ce/",
               "type": "studio",
-              "price": 800,
-              "left": 1,
+              "price": 895,
+              "left": 2,
               "status": "available",
-              "start": "30 November 2026",
+              "start": "27 November 2026",
               "terms": null
             },
             {
@@ -152,7 +152,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-studio-apartment/",
               "type": "studio",
               "price": 1025,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "",
               "terms": null
@@ -162,7 +162,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-corner-studio-apartment-cp/",
               "type": "studio",
               "price": 1075,
-              "left": 5,
+              "left": null,
               "status": "available",
               "start": "1 December 2026",
               "terms": null
