@@ -283,7 +283,7 @@
     "area": "25.5m²",
     "bed": "Double"
   },
-  "updated_at": "2026-10-15 12:24:29",
+  "updated_at": "2026-11-01 03:05:38",
   "Waterloo|Premium Corner Studio Apartment": {
     "area": "17.3m²",
     "bed": "Double"
@@ -322,6 +322,10 @@
   },
   "Brisbane City|Single Room, Share Bath – 6 Share": {
     "area": "10.5m²",
+    "bed": "King single"
+  },
+  "Central|Single Bedroom – 2 Bedroom Studio": {
+    "area": "11m²",
     "bed": "King single"
   }
 }
