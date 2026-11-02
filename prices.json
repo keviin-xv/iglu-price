@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-01 13:58:22",
+  "fetched_at": "2026-11-02 03:10:51",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -532,7 +532,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/brisbane-city/single-bedroom-6-share-apt-bc/",
               "type": "share",
               "price": 519,
-              "left": 4,
+              "left": 3,
               "status": "available",
               "start": "4 February 2027",
               "terms": null
