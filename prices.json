@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-03 14:48:16",
+  "fetched_at": "2026-11-04 03:46:44",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -44,7 +44,7 @@
               "price": 895,
               "left": null,
               "status": "available",
-              "start": "4 November 2026",
+              "start": "",
               "terms": null
             },
             {
@@ -97,9 +97,9 @@
               "url": "https://iglu.com.au/rooms/sydney/central/single-bedroom-5-share-apt-ce/",
               "type": "share",
               "price": 815,
-              "left": 2,
-              "status": "available",
-              "start": "1 January 2027",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
@@ -301,10 +301,10 @@
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/mascot/standard-studio-apartment-ma/",
               "type": "studio",
-              "price": null,
+              "price": 805,
               "left": null,
-              "status": "waitlist",
-              "start": "",
+              "status": "available",
+              "start": "5 January 2027",
               "terms": null
             },
             {
@@ -337,7 +337,7 @@
               "url": "https://iglu.com.au/rooms/sydney/mascot-duo/standard-studio-apartment-md/",
               "type": "studio",
               "price": 815,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "5 January 2027",
               "terms": null
@@ -391,10 +391,10 @@
               "name": "Single Bedroom – 4 Share Apt",
               "url": "https://iglu.com.au/rooms/sydney/redfern/single-bedroom-4-share-apt-re/",
               "type": "share",
-              "price": 785,
-              "left": null,
-              "status": "unavailable",
-              "start": "",
+              "price": 805,
+              "left": 1,
+              "status": "available",
+              "start": "1 February 2027",
               "terms": null
             },
             {
@@ -411,8 +411,8 @@
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/redfern/standard-studio-apartment-re/",
               "type": "studio",
-              "price": 885,
-              "left": 1,
+              "price": 895,
+              "left": 5,
               "status": "available",
               "start": "1 February 2027",
               "terms": null
@@ -532,9 +532,9 @@
               "url": "https://iglu.com.au/rooms/brisbane/brisbane-city/single-bedroom-6-share-apt-bc/",
               "type": "share",
               "price": 519,
-              "left": 2,
-              "status": "available",
-              "start": "4 February 2027",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
