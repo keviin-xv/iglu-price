@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-05 10:14:29",
+  "fetched_at": "2026-11-05 15:07:54",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -372,7 +372,7 @@
               "url": "https://iglu.com.au/rooms/sydney/redfern/single-bedroom-6-share-apt-re/",
               "type": "share",
               "price": 725,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "1 February 2027",
               "terms": null
@@ -587,7 +587,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-5-share-apt-kg/",
               "type": "share",
               "price": 399,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "11 February 2027",
               "terms": null
@@ -607,7 +607,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-2-share-apt-kg/",
               "type": "share",
               "price": 479,
-              "left": 2,
+              "left": 1,
               "status": "available",
               "start": "11 February 2027",
               "terms": null
@@ -732,7 +732,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-station/single-bedroom-2-share-apt-fs/",
               "type": "share",
               "price": 535,
-              "left": 3,
+              "left": 2,
               "status": "available",
               "start": "",
               "terms": null
@@ -837,7 +837,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/south-yarra/premium-single-bedroom-5-share-apt-sy/",
               "type": "share",
               "price": 585,
-              "left": 4,
+              "left": 5,
               "status": "available",
               "start": "",
               "terms": null
