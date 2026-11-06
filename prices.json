@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-05 15:07:54",
+  "fetched_at": "2026-11-06 04:02:41",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -89,14 +89,14 @@
               "price": 775,
               "left": null,
               "status": "available",
-              "start": "6 December 2026",
+              "start": "1 January 2027",
               "terms": null
             },
             {
               "name": "Single Bedroom – 5 Share Apt",
               "url": "https://iglu.com.au/rooms/sydney/central/single-bedroom-5-share-apt-ce/",
               "type": "share",
-              "price": 815,
+              "price": 795,
               "left": 2,
               "status": "available",
               "start": "1 January 2027",
@@ -152,7 +152,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-studio-apartment/",
               "type": "studio",
               "price": 1025,
-              "left": 5,
+              "left": null,
               "status": "available",
               "start": "12 February 2027",
               "terms": null
@@ -201,8 +201,8 @@
               "name": "Single Bedroom – 3 Share Apt",
               "url": "https://iglu.com.au/rooms/sydney/central-park/single-bedroom-3-share-apt-cp/",
               "type": "share",
-              "price": 945,
-              "left": 3,
+              "price": 885,
+              "left": 4,
               "status": "available",
               "start": "1 December 2026",
               "terms": null
@@ -372,7 +372,7 @@
               "url": "https://iglu.com.au/rooms/sydney/redfern/single-bedroom-6-share-apt-re/",
               "type": "share",
               "price": 725,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "1 February 2027",
               "terms": null
@@ -439,7 +439,7 @@
               "price": 735,
               "left": null,
               "status": "available",
-              "start": "7 November 2026",
+              "start": "",
               "terms": null
             },
             {
@@ -449,7 +449,7 @@
               "price": 755,
               "left": null,
               "status": "available",
-              "start": "7 November 2026",
+              "start": "",
               "terms": null
             }
           ]
@@ -462,9 +462,9 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/single-bedroom-2-share-apt-wa/",
               "type": "share",
               "price": 725,
-              "left": 3,
-              "status": "available",
-              "start": "5 January 2027",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
@@ -587,7 +587,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-5-share-apt-kg/",
               "type": "share",
               "price": 399,
-              "left": 5,
+              "left": null,
               "status": "available",
               "start": "11 February 2027",
               "terms": null
@@ -607,9 +607,9 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-2-share-apt-kg/",
               "type": "share",
               "price": 479,
-              "left": 1,
-              "status": "available",
-              "start": "11 February 2027",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
@@ -667,7 +667,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/premium-corner-studio-apartment-fg/",
               "type": "studio",
               "price": 705,
-              "left": 4,
+              "left": 3,
               "status": "available",
               "start": "",
               "terms": null
