@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-07 03:36:54",
+  "fetched_at": "2026-11-07 09:33:35",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -161,8 +161,8 @@
               "name": "Premium Corner Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-corner-studio-apartment-cp/",
               "type": "studio",
-              "price": 1115,
-              "left": 2,
+              "price": 1075,
+              "left": 4,
               "status": "available",
               "start": "12 November 2026",
               "terms": null
@@ -337,7 +337,7 @@
               "url": "https://iglu.com.au/rooms/sydney/mascot-duo/standard-studio-apartment-md/",
               "type": "studio",
               "price": 815,
-              "left": 2,
+              "left": 1,
               "status": "available",
               "start": "5 January 2027",
               "terms": null
@@ -412,9 +412,9 @@
               "url": "https://iglu.com.au/rooms/sydney/redfern/standard-studio-apartment-re/",
               "type": "studio",
               "price": 895,
-              "left": 1,
-              "status": "available",
-              "start": "1 February 2027",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
@@ -462,9 +462,9 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/single-bedroom-2-share-apt-wa/",
               "type": "share",
               "price": 725,
-              "left": 1,
-              "status": "available",
-              "start": "5 January 2027",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
@@ -659,7 +659,7 @@
               "price": 665,
               "left": null,
               "status": "available",
-              "start": "",
+              "start": "4 February 2027",
               "terms": null
             },
             {
