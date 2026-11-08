@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-07 13:42:34",
+  "fetched_at": "2026-11-08 03:07:19",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -747,7 +747,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/melbourne-central/standard-studio-apartment-mce/",
               "type": "studio",
               "price": 635,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "10 February 2027",
               "terms": null
