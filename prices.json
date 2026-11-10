@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10 10:43:41",
+  "fetched_at": "2026-11-10 15:21:44",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -106,8 +106,8 @@
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/central/standard-studio-apartment-ce/",
               "type": "studio",
-              "price": 800,
-              "left": 1,
+              "price": 895,
+              "left": 2,
               "status": "available",
               "start": "27 November 2026",
               "terms": null
@@ -647,7 +647,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/standard-studio-apartment-fg/",
               "type": "studio",
               "price": 635,
-              "left": null,
+              "left": 3,
               "status": "available",
               "start": "28 November 2026",
               "terms": null
