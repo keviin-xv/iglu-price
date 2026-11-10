@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-09 17:02:03",
+  "fetched_at": "2026-11-10 05:04:39",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -14,7 +14,7 @@
               "price": 805,
               "left": null,
               "status": "available",
-              "start": "14 December 2026",
+              "start": "17 November 2026",
               "terms": null
             },
             {
@@ -24,7 +24,7 @@
               "price": 805,
               "left": null,
               "status": "available",
-              "start": "10 November 2026",
+              "start": "16 November 2026",
               "terms": null
             },
             {
@@ -34,7 +34,7 @@
               "price": 690,
               "left": 4,
               "status": "available",
-              "start": "",
+              "start": "11 November 2026",
               "terms": null
             },
             {
@@ -44,7 +44,7 @@
               "price": 895,
               "left": null,
               "status": "available",
-              "start": "",
+              "start": "23 November 2026",
               "terms": null
             },
             {
@@ -52,9 +52,9 @@
               "url": "https://iglu.com.au/rooms/sydney/broadway/superior-studio-apartment-br/",
               "type": "studio",
               "price": 1035,
-              "left": 2,
+              "left": 3,
               "status": "available",
-              "start": "16 December 2026",
+              "start": "23 November 2026",
               "terms": null
             },
             {
@@ -131,7 +131,7 @@
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/central-park/standard-studio-apartment-cp/",
               "type": "studio",
-              "price": 975,
+              "price": 915,
               "left": null,
               "status": "available",
               "start": "",
@@ -152,7 +152,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-studio-apartment/",
               "type": "studio",
               "price": 1025,
-              "left": 5,
+              "left": null,
               "status": "available",
               "start": "12 February 2027",
               "terms": null
@@ -162,7 +162,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-corner-studio-apartment-cp/",
               "type": "studio",
               "price": 1075,
-              "left": 4,
+              "left": 5,
               "status": "available",
               "start": "",
               "terms": null
@@ -462,7 +462,7 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/single-bedroom-2-share-apt-wa/",
               "type": "share",
               "price": 725,
-              "left": 3,
+              "left": 2,
               "status": "available",
               "start": "5 January 2027",
               "terms": null
@@ -552,7 +552,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/brisbane-city/standard-studio-apartment-bc/",
               "type": "studio",
               "price": 719,
-              "left": 3,
+              "left": 2,
               "status": "available",
               "start": "8 February 2027",
               "terms": null
@@ -659,7 +659,7 @@
               "price": 665,
               "left": null,
               "status": "available",
-              "start": "4 February 2027",
+              "start": "25 January 2027",
               "terms": null
             },
             {
