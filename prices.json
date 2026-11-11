@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-11 03:38:01",
+  "fetched_at": "2026-11-11 10:12:58",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -51,8 +51,8 @@
               "name": "Superior Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/broadway/superior-studio-apartment-br/",
               "type": "studio",
-              "price": 1035,
-              "left": 3,
+              "price": 800,
+              "left": 2,
               "status": "available",
               "start": "23 November 2026",
               "terms": null
@@ -106,8 +106,8 @@
               "name": "Standard Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/central/standard-studio-apartment-ce/",
               "type": "studio",
-              "price": 895,
-              "left": 2,
+              "price": 800,
+              "left": 1,
               "status": "available",
               "start": "27 November 2026",
               "terms": null
@@ -162,7 +162,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-corner-studio-apartment-cp/",
               "type": "studio",
               "price": 1075,
-              "left": 5,
+              "left": 3,
               "status": "available",
               "start": "",
               "terms": null
@@ -462,7 +462,7 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/single-bedroom-2-share-apt-wa/",
               "type": "share",
               "price": 725,
-              "left": 2,
+              "left": 1,
               "status": "available",
               "start": "5 January 2027",
               "terms": null
@@ -647,7 +647,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/standard-studio-apartment-fg/",
               "type": "studio",
               "price": 635,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "28 November 2026",
               "terms": null
