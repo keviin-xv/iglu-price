@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-11 14:51:34",
+  "fetched_at": "2026-11-12 04:46:24",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -61,8 +61,8 @@
               "name": "Premium Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/broadway/premium-studio-apartment-br/",
               "type": "studio",
-              "price": 850,
-              "left": 2,
+              "price": 1045,
+              "left": 4,
               "status": "available",
               "start": "16 November 2026",
               "terms": null
@@ -437,7 +437,7 @@
               "url": "https://iglu.com.au/rooms/sydney/summer-hill/standard-studio-apartment-sh/",
               "type": "studio",
               "price": 735,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "",
               "terms": null
@@ -587,7 +587,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-5-share-apt-kg/",
               "type": "share",
               "price": 399,
-              "left": null,
+              "left": 4,
               "status": "available",
               "start": "11 February 2027",
               "terms": null
@@ -647,7 +647,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/standard-studio-apartment-fg/",
               "type": "studio",
               "price": 635,
-              "left": 4,
+              "left": 3,
               "status": "available",
               "start": "28 November 2026",
               "terms": null
@@ -849,7 +849,7 @@
               "price": 565,
               "left": null,
               "status": "available",
-              "start": "12 November 2026",
+              "start": "",
               "terms": null
             },
             {
