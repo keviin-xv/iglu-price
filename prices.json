@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12 04:46:24",
+  "fetched_at": "2026-11-12 10:35:29",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -282,7 +282,7 @@
               "url": "https://iglu.com.au/rooms/sydney/mascot/single-bedroom-6-share-apt-ma/",
               "type": "share",
               "price": 685,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "",
               "terms": null
@@ -302,7 +302,7 @@
               "url": "https://iglu.com.au/rooms/sydney/mascot/standard-studio-apartment-ma/",
               "type": "studio",
               "price": 805,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "5 January 2027",
               "terms": null
@@ -502,7 +502,7 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/premium-corner-studio-apartment-wa/",
               "type": "studio",
               "price": 905,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "",
               "terms": null
@@ -542,9 +542,9 @@
               "url": "https://iglu.com.au/rooms/brisbane/brisbane-city/single-bedroom-5-share-apt-bc/",
               "type": "share",
               "price": 529,
-              "left": 1,
-              "status": "available",
-              "start": "19 February 2027",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
@@ -587,7 +587,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-5-share-apt-kg/",
               "type": "share",
               "price": 399,
-              "left": 4,
+              "left": null,
               "status": "available",
               "start": "11 February 2027",
               "terms": null
@@ -772,7 +772,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/melbourne-city/single-bedroom-6-share-apt-mc/",
               "type": "share",
               "price": 515,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "10 February 2027",
               "terms": null
