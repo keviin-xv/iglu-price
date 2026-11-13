@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12 15:43:48",
+  "fetched_at": "2026-11-13 03:58:55",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -437,7 +437,7 @@
               "url": "https://iglu.com.au/rooms/sydney/summer-hill/standard-studio-apartment-sh/",
               "type": "studio",
               "price": 735,
-              "left": 5,
+              "left": null,
               "status": "available",
               "start": "",
               "terms": null
@@ -522,7 +522,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/brisbane-city/student-room-shared-bathroom-bc/",
               "type": "share",
               "price": 429,
-              "left": null,
+              "left": 4,
               "status": "available",
               "start": "16 February 2027",
               "terms": null
@@ -587,7 +587,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-5-share-apt-kg/",
               "type": "share",
               "price": 399,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "11 February 2027",
               "terms": null
@@ -772,7 +772,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/melbourne-city/single-bedroom-6-share-apt-mc/",
               "type": "share",
               "price": 515,
-              "left": 4,
+              "left": 3,
               "status": "available",
               "start": "10 February 2027",
               "terms": null
@@ -792,7 +792,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/melbourne-city/standard-studio-apartment-mc/",
               "type": "studio",
               "price": 665,
-              "left": 5,
+              "left": 2,
               "status": "available",
               "start": "3 February 2027",
               "terms": null
@@ -829,7 +829,7 @@
               "price": 555,
               "left": null,
               "status": "available",
-              "start": "10 February 2027",
+              "start": "17 February 2027",
               "terms": null
             },
             {
