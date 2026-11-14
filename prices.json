@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13 15:05:24",
+  "fetched_at": "2026-11-14 03:57:20",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -482,7 +482,7 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/superior-studio-apartment-wa/",
               "type": "studio",
               "price": 845,
-              "left": 2,
+              "left": 1,
               "status": "available",
               "start": "",
               "terms": null
