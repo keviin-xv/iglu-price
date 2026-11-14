@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-14 03:57:20",
+  "fetched_at": "2026-11-14 09:47:13",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -302,7 +302,7 @@
               "url": "https://iglu.com.au/rooms/sydney/mascot/standard-studio-apartment-ma/",
               "type": "studio",
               "price": 805,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "5 January 2027",
               "terms": null
