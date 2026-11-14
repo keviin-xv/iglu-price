@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-14 09:47:13",
+  "fetched_at": "2026-11-14 13:55:03",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -192,7 +192,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/single-bedroom-4-share-apt-cp/",
               "type": "share",
               "price": 865,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "",
               "terms": null
@@ -201,8 +201,8 @@
               "name": "Single Bedroom – 3 Share Apt",
               "url": "https://iglu.com.au/rooms/sydney/central-park/single-bedroom-3-share-apt-cp/",
               "type": "share",
-              "price": 885,
-              "left": 4,
+              "price": 945,
+              "left": 3,
               "status": "available",
               "start": "1 December 2026",
               "terms": null
@@ -732,7 +732,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-station/single-bedroom-2-share-apt-fs/",
               "type": "share",
               "price": 535,
-              "left": 2,
+              "left": 1,
               "status": "available",
               "start": "",
               "terms": null
@@ -837,7 +837,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/south-yarra/premium-single-bedroom-5-share-apt-sy/",
               "type": "share",
               "price": 585,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "",
               "terms": null
