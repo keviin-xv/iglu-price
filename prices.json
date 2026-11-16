@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-16 03:38:56",
+  "fetched_at": "2026-11-16 10:34:22",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -51,10 +51,10 @@
               "name": "Superior Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/broadway/superior-studio-apartment-br/",
               "type": "studio",
-              "price": 1035,
-              "left": null,
-              "status": "waitlist",
-              "start": "",
+              "price": 800,
+              "left": 2,
+              "status": "available",
+              "start": "23 November 2026",
               "terms": null
             },
             {
@@ -192,7 +192,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/single-bedroom-4-share-apt-cp/",
               "type": "share",
               "price": 865,
-              "left": 4,
+              "left": 3,
               "status": "available",
               "start": "",
               "terms": null
@@ -282,7 +282,7 @@
               "url": "https://iglu.com.au/rooms/sydney/mascot/single-bedroom-6-share-apt-ma/",
               "type": "share",
               "price": 685,
-              "left": 2,
+              "left": null,
               "status": "available",
               "start": "",
               "terms": null
@@ -819,7 +819,7 @@
               "price": 575,
               "left": null,
               "status": "available",
-              "start": "",
+              "start": "3 February 2027",
               "terms": null
             },
             {
@@ -827,7 +827,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/south-yarra/single-bedroom-6-share-apt-sy/",
               "type": "share",
               "price": 555,
-              "left": 3,
+              "left": 4,
               "status": "available",
               "start": "17 February 2027",
               "terms": null
