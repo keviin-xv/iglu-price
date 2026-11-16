@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-16 10:34:22",
+  "fetched_at": "2026-11-16 16:40:10",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -302,7 +302,7 @@
               "url": "https://iglu.com.au/rooms/sydney/mascot/standard-studio-apartment-ma/",
               "type": "studio",
               "price": 805,
-              "left": 5,
+              "left": 3,
               "status": "available",
               "start": "5 January 2027",
               "terms": null
@@ -502,7 +502,7 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/premium-corner-studio-apartment-wa/",
               "type": "studio",
               "price": 905,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "",
               "terms": null
@@ -587,7 +587,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-5-share-apt-kg/",
               "type": "share",
               "price": 399,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "11 February 2027",
               "terms": null
