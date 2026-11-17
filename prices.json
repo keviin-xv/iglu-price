@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-16 16:40:10",
+  "fetched_at": "2026-11-17 05:35:58",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -14,7 +14,7 @@
               "price": 805,
               "left": null,
               "status": "available",
-              "start": "17 November 2026",
+              "start": "",
               "terms": null
             },
             {
@@ -462,7 +462,7 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/single-bedroom-2-share-apt-wa/",
               "type": "share",
               "price": 725,
-              "left": 4,
+              "left": 3,
               "status": "available",
               "start": "5 January 2027",
               "terms": null
@@ -482,7 +482,7 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/superior-studio-apartment-wa/",
               "type": "studio",
               "price": 845,
-              "left": 1,
+              "left": null,
               "status": "available",
               "start": "",
               "terms": null
@@ -522,9 +522,9 @@
               "url": "https://iglu.com.au/rooms/brisbane/brisbane-city/student-room-shared-bathroom-bc/",
               "type": "share",
               "price": 429,
-              "left": 3,
+              "left": 1,
               "status": "available",
-              "start": "16 February 2027",
+              "start": "20 February 2027",
               "terms": null
             },
             {
@@ -732,7 +732,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-station/single-bedroom-2-share-apt-fs/",
               "type": "share",
               "price": 535,
-              "left": 1,
+              "left": null,
               "status": "available",
               "start": "",
               "terms": null
