@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-19 04:54:48",
+  "fetched_at": "2026-11-19 11:05:15",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -247,7 +247,7 @@
               "url": "https://iglu.com.au/rooms/sydney/chatswood/standard-studio-apartment-ch/",
               "type": "studio",
               "price": 775,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "",
               "terms": null
@@ -577,7 +577,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-6-share-apt-kg/",
               "type": "share",
               "price": 399,
-              "left": 5,
+              "left": 3,
               "status": "available",
               "start": "11 February 2027",
               "terms": null
@@ -597,9 +597,9 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-3-share-apt-kg/",
               "type": "share",
               "price": 449,
-              "left": 1,
-              "status": "available",
-              "start": "11 February 2027",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
@@ -772,7 +772,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/melbourne-city/single-bedroom-6-share-apt-mc/",
               "type": "share",
               "price": 515,
-              "left": 3,
+              "left": 2,
               "status": "available",
               "start": "10 February 2027",
               "terms": null
@@ -839,7 +839,7 @@
               "price": 585,
               "left": 3,
               "status": "available",
-              "start": "",
+              "start": "10 February 2027",
               "terms": null
             },
             {
