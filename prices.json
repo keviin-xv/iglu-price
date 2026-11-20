@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20 04:45:02",
+  "fetched_at": "2026-11-20 10:52:24",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -152,7 +152,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-studio-apartment/",
               "type": "studio",
               "price": 1025,
-              "left": null,
+              "left": 1,
               "status": "available",
               "start": "12 February 2027",
               "terms": null
@@ -171,7 +171,7 @@
               "name": "Single Bedroom – 6 Share Apt",
               "url": "https://iglu.com.au/rooms/sydney/central-park/single-bedroom-6-share-apt-cp/",
               "type": "share",
-              "price": 785,
+              "price": 670,
               "left": null,
               "status": "available",
               "start": "",
@@ -247,7 +247,7 @@
               "url": "https://iglu.com.au/rooms/sydney/chatswood/standard-studio-apartment-ch/",
               "type": "studio",
               "price": 775,
-              "left": 3,
+              "left": 4,
               "status": "available",
               "start": "",
               "terms": null
@@ -312,7 +312,7 @@
               "url": "https://iglu.com.au/rooms/sydney/mascot/premium-studio-apartment-ma/",
               "type": "studio",
               "price": 825,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "5 January 2027",
               "terms": null
@@ -484,7 +484,7 @@
               "price": 845,
               "left": null,
               "status": "available",
-              "start": "5 January 2027",
+              "start": "",
               "terms": null
             },
             {
@@ -577,7 +577,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-6-share-apt-kg/",
               "type": "share",
               "price": 399,
-              "left": 4,
+              "left": 3,
               "status": "available",
               "start": "11 February 2027",
               "terms": null
@@ -588,8 +588,8 @@
               "type": "share",
               "price": 399,
               "left": null,
-              "status": "waitlist",
-              "start": "",
+              "status": "available",
+              "start": "11 February 2027",
               "terms": null
             },
             {
@@ -607,9 +607,9 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-2-share-apt-kg/",
               "type": "share",
               "price": 479,
-              "left": null,
-              "status": "waitlist",
-              "start": "",
+              "left": 1,
+              "status": "available",
+              "start": "11 February 2027",
               "terms": null
             },
             {
@@ -647,9 +647,9 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/standard-studio-apartment-fg/",
               "type": "studio",
               "price": 635,
-              "left": 5,
+              "left": 2,
               "status": "available",
-              "start": "28 November 2026",
+              "start": "25 January 2027",
               "terms": null
             },
             {
@@ -667,8 +667,8 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/premium-corner-studio-apartment-fg/",
               "type": "studio",
               "price": 705,
-              "left": 1,
-              "status": "available",
+              "left": null,
+              "status": "waitlist",
               "start": "",
               "terms": null
             },
@@ -679,7 +679,7 @@
               "price": 515,
               "left": null,
               "status": "available",
-              "start": "",
+              "start": "4 February 2027",
               "terms": null
             },
             {
@@ -689,7 +689,7 @@
               "price": 615,
               "left": null,
               "status": "available",
-              "start": "",
+              "start": "4 February 2027",
               "terms": null
             }
           ]
