@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20 15:53:07",
+  "fetched_at": "2026-11-21 04:40:19",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -152,9 +152,9 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-studio-apartment/",
               "type": "studio",
               "price": 1025,
-              "left": 1,
-              "status": "available",
-              "start": "12 February 2027",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
@@ -312,7 +312,7 @@
               "url": "https://iglu.com.au/rooms/sydney/mascot/premium-studio-apartment-ma/",
               "type": "studio",
               "price": 825,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "5 January 2027",
               "terms": null
@@ -722,7 +722,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-station/premium-studio-apartment-cnr-fs/",
               "type": "studio",
               "price": 745,
-              "left": 3,
+              "left": 2,
               "status": "available",
               "start": "",
               "terms": null
