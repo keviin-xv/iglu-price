@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22 10:40:13",
+  "fetched_at": "2026-11-22 15:01:02",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -172,7 +172,7 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/single-bedroom-6-share-apt-cp/",
               "type": "share",
               "price": 670,
-              "left": 5,
+              "left": null,
               "status": "available",
               "start": "",
               "terms": null
@@ -437,7 +437,7 @@
               "url": "https://iglu.com.au/rooms/sydney/summer-hill/standard-studio-apartment-sh/",
               "type": "studio",
               "price": 735,
-              "left": 5,
+              "left": null,
               "status": "available",
               "start": "",
               "terms": null
@@ -462,9 +462,9 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/single-bedroom-2-share-apt-wa/",
               "type": "share",
               "price": 725,
-              "left": 1,
-              "status": "available",
-              "start": "5 January 2027",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
@@ -472,7 +472,7 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/standard-studio-apartment-wa/",
               "type": "studio",
               "price": 825,
-              "left": 5,
+              "left": 4,
               "status": "available",
               "start": "5 January 2027",
               "terms": null
@@ -647,7 +647,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/standard-studio-apartment-fg/",
               "type": "studio",
               "price": 635,
-              "left": 1,
+              "left": 2,
               "status": "available",
               "start": "25 January 2027",
               "terms": null
@@ -772,7 +772,7 @@
               "url": "https://iglu.com.au/rooms/melbourne/melbourne-city/single-bedroom-6-share-apt-mc/",
               "type": "share",
               "price": 515,
-              "left": 2,
+              "left": 1,
               "status": "available",
               "start": "10 February 2027",
               "terms": null
