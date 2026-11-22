@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21 15:04:56",
+  "fetched_at": "2026-11-22 03:54:46",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -312,7 +312,7 @@
               "url": "https://iglu.com.au/rooms/sydney/mascot/premium-studio-apartment-ma/",
               "type": "studio",
               "price": 825,
-              "left": 4,
+              "left": 3,
               "status": "available",
               "start": "5 January 2027",
               "terms": null
@@ -472,7 +472,7 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/standard-studio-apartment-wa/",
               "type": "studio",
               "price": 825,
-              "left": null,
+              "left": 5,
               "status": "available",
               "start": "5 January 2027",
               "terms": null
@@ -782,9 +782,9 @@
               "url": "https://iglu.com.au/rooms/melbourne/melbourne-city/single-bedroom-5-share-apt-mc/",
               "type": "share",
               "price": 525,
-              "left": 3,
+              "left": 2,
               "status": "available",
-              "start": "3 February 2027",
+              "start": "10 February 2027",
               "terms": null
             },
             {
