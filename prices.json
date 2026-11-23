@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-23 11:41:21",
+  "fetched_at": "2026-11-23 18:54:25",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -152,9 +152,9 @@
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-studio-apartment/",
               "type": "studio",
               "price": 1035,
-              "left": 1,
-              "status": "available",
-              "start": "12 February 2027",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
@@ -636,10 +636,10 @@
               "name": "Single Studio Apartment",
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/single-studio-apartment/",
               "type": "studio",
-              "price": 635,
-              "left": null,
-              "status": "waitlist",
-              "start": "",
+              "price": 695,
+              "left": 1,
+              "status": "available",
+              "start": "13 January 2027",
               "terms": null
             },
             {
@@ -647,9 +647,9 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/standard-studio-apartment-fg/",
               "type": "studio",
               "price": 635,
-              "left": null,
-              "status": "waitlist",
-              "start": "",
+              "left": 1,
+              "status": "available",
+              "start": "25 January 2027",
               "terms": null
             },
             {
