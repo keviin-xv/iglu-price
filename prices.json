@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-26 05:50:01",
+  "fetched_at": "2026-11-26 11:50:14",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -237,9 +237,9 @@
               "url": "https://iglu.com.au/rooms/sydney/chatswood/single-bedroom-4-share-apt-ch/",
               "type": "share",
               "price": 625,
-              "left": 1,
-              "status": "available",
-              "start": "1 January 2027",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
@@ -577,7 +577,7 @@
               "url": "https://iglu.com.au/rooms/brisbane/kelvin-grove/single-bedroom-6-share-apt-kg/",
               "type": "share",
               "price": 399,
-              "left": 3,
+              "left": 2,
               "status": "available",
               "start": "11 February 2027",
               "terms": null
