@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25 17:44:46",
+  "fetched_at": "2026-11-26 05:50:01",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -61,8 +61,8 @@
               "name": "Premium Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/broadway/premium-studio-apartment-br/",
               "type": "studio",
-              "price": 1045,
-              "left": 2,
+              "price": 850,
+              "left": 1,
               "status": "available",
               "start": "10 December 2026",
               "terms": null
@@ -237,7 +237,7 @@
               "url": "https://iglu.com.au/rooms/sydney/chatswood/single-bedroom-4-share-apt-ch/",
               "type": "share",
               "price": 625,
-              "left": 3,
+              "left": 1,
               "status": "available",
               "start": "1 January 2027",
               "terms": null
@@ -373,8 +373,8 @@
               "type": "share",
               "price": 725,
               "left": null,
-              "status": "waitlist",
-              "start": "",
+              "status": "available",
+              "start": "3 February 2027",
               "terms": null
             },
             {
@@ -472,7 +472,7 @@
               "url": "https://iglu.com.au/rooms/sydney/waterloo/standard-studio-apartment-wa/",
               "type": "studio",
               "price": 825,
-              "left": 3,
+              "left": 2,
               "status": "available",
               "start": "5 January 2027",
               "terms": null
@@ -637,9 +637,9 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/single-studio-apartment/",
               "type": "studio",
               "price": 635,
-              "left": null,
-              "status": "waitlist",
-              "start": "",
+              "left": 1,
+              "status": "available",
+              "start": "15 February 2027",
               "terms": null
             },
             {
@@ -647,9 +647,9 @@
               "url": "https://iglu.com.au/rooms/melbourne/flagstaff-gardens/standard-studio-apartment-fg/",
               "type": "studio",
               "price": 635,
-              "left": 1,
-              "status": "available",
-              "start": "25 January 2027",
+              "left": null,
+              "status": "waitlist",
+              "start": "",
               "terms": null
             },
             {
