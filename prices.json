@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27 05:45:05",
+  "fetched_at": "2026-11-27 11:43:20",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -161,10 +161,10 @@
               "name": "Premium Corner Studio Apartment",
               "url": "https://iglu.com.au/rooms/sydney/central-park/premium-corner-studio-apartment-cp/",
               "type": "studio",
-              "price": 1075,
-              "left": 1,
+              "price": 900,
+              "left": 3,
               "status": "available",
-              "start": "",
+              "start": "1 December 2026",
               "terms": null
             },
             {
