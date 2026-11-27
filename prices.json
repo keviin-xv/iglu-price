@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27 11:43:20",
+  "fetched_at": "2026-11-27 17:07:33",
   "cities": [
     {
       "city": "悉尼 Sydney",
@@ -774,7 +774,7 @@
               "price": 515,
               "left": null,
               "status": "available",
-              "start": "",
+              "start": "2 December 2026",
               "terms": null
             },
             {
